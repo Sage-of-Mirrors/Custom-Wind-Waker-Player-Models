@@ -7,6 +7,8 @@ Download ```models.zip``` and extract the contents of it into the models folder 
 # Credits
 * Tetra: Rigged and imported by Gamma/Sage of Mirrors ([@SageOfMirrors](https://twitter.com/SageOfMirrors))
 * Medli: Rigged and imported by LagoLunatic ([@LagoLunatic](https://twitter.com/LagoLunatic))
+* Sans: Rigged and imported by Ikey Ilex.
+* Fado: Rigged and imported by Laenthor (https://www.youtube.com/channel/UCIWlBco_-iHpQZfmUaYbxpg)
 
 These models were made with a combination of hex editing and [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD).
 
