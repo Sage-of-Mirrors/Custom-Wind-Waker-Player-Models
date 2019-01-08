@@ -7,7 +7,7 @@ Download ```models.zip``` and extract the contents of it into the models folder 
 # Credits
 * Tetra: Rigged and imported by Gamma/Sage of Mirrors ([@SageOfMirrors](https://twitter.com/SageOfMirrors))
 * Medli: Model rigged and imported by LagoLunatic ([@LagoLunatic](https://twitter.com/LagoLunatic)), voices imported by Praecipua ([@PraecipuaWW](https://twitter.com/PraecipuaWW))
-* Sans & Lucario: Modeled, rigged and imported by Ikey Ilex.
+* Sans, Lucario, Poor Mila: Rigged and imported by Ikey Ilex.
 * Fado, Aryll, Goku: Rigged and imported by Laenthor (https://www.youtube.com/channel/UCIWlBco_-iHpQZfmUaYbxpg)
 * Cheerleader Link & Zora Link: Rigged and imported by InTheBeef ([@InTheBeef](https://twitter.com/InTheBeef))
 * Fox Link: Rigged and imported by Windwalker14.
