@@ -13,5 +13,6 @@ Download ```models.zip``` and extract the contents of it into the models folder 
 * Windwalker14: Rigged and imported Fox Link.
 * Praecipua ([@PraecipuaWW](https://twitter.com/PraecipuaWW)): Imported voices for Medli.
 * KromosRuby ([DeviantArt](https://www.deviantart.com/kromosruby)): Modeled Saria.
+* wooferzfg ([@wooferzfg](https://twitter.com/wooferzfg)): Imported voices for Sans.
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).
