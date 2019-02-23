@@ -16,5 +16,6 @@ Download ```models.zip``` and extract the contents of it into the models folder 
 * wooferzfg ([@wooferzfg](https://twitter.com/wooferzfg)): Imported voices for Sans.
 * Follyknight: Rigged and imported Grandma.
 * TemperedCreator ([@seanos1998](https://twitter.com/seanos1998)): Rigged and imported Din.
+* FrasseFreak: Rigged and imported Poor Maggie.
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).
