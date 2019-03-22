@@ -1,0 +1,21 @@
+hero_custom_colors:
+  Coat: 008FE0
+  Crayfish: 008FE0
+  Shirt: dfdfd0
+  Shorts 1: 111111
+  Shorts 2: FFFFFF
+  Slippers: CA5F6E
+  Zipper: CCCCCC
+  Skin: FFFFFF
+casual_custom_colors:
+  Coat: 313131
+  Crayfish: B20000
+  Shorts 1: 400000
+  Shorts 2: 8c8c00
+  Slippers: 78212D
+  Zipper: 8c8c00
+  Skin: FFFFFF
+has_colored_eyebrows: false
+revision:  4
+author: Ikey Ilex
+comment: Use this mod, you're gonna have a good time.

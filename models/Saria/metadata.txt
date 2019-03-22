@@ -1,0 +1,20 @@
+hero_custom_colors:
+  Hair: 88DD44
+  Hairband: 224422
+  Shirt: 66BB11
+  Pants: 66BB11
+  Sleeves: 224422
+  Belt: 224422
+  Boots: 117722
+  Skin: FFDDAA
+casual_custom_colors:
+  Hair: 88DD44
+  Shirt: 66BB11
+  Pants: 66BB11
+  Sleeves: 224422
+  Belt: 224422
+  Boots: 117722
+  Skin: FFDDAA
+has_colored_eyebrows: true
+author: InTheBeef - Original Model by KromosRuby
+comment: Contact me @InTheBeef(#1252)

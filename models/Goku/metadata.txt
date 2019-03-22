@@ -1,0 +1,16 @@
+hero_custom_colors:
+  Hair: 000000
+  Skin: ffcb84
+  Tunic: f59900
+  Logo1: ffffff
+  Logo2: 000000
+  Bracelets: 0900ff
+  Belt: bac8c6
+casual_custom_colors:
+  Hair: 000000
+  Skin: ffcb84
+  Tunic: 544e88
+  Bracelets: ff0006
+  Belt: bac8c6
+author: Laenthor
+comment: Custom audio is from DBZ:BT3 on ps2. Remove sound folder to keep original audio. Hero's sword is the power pole, hero's charm is Roshi's Glasses.

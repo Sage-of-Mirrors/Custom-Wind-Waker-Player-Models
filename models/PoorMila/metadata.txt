@@ -1,0 +1,14 @@
+hero_custom_colors:
+  Hair: E7E300
+  Skin: EFDEBD
+  Clothes: 57B249
+  Hairband: ADE342
+casual_custom_colors:
+  Hair: DECE10
+  Skin: EFDEBD
+  Clothes: 9C8C73
+  Patch: 526373
+has_colored_eyebrows: true
+revision: 1
+author: Ikey Ilex
+comment: Mila's night shift job is literally killing Ganon, it turns out.

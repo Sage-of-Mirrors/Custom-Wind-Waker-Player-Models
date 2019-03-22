@@ -1,0 +1,23 @@
+hero_custom_colors:
+  Skin: 4898E8
+  Fur: 585858
+  Chest: E0E098
+  Crayfish: E0E098
+  Footpads: FF9999
+  Spikes: FFFFFF
+  Scarf: 5AB24A
+casual_custom_colors:
+  Skin: 4898E8
+  Fur: 585858
+  Chest: E0E098
+  Crayfish: E0E098
+  Footpads: FF9999
+  Spikes: FFFFFF
+has_colored_eyebrows: false
+revision: 3
+author: Ikey Ilex
+comment: The power of Aura is copyright Walt Disney.
+hero_hands_color_name: Fur
+#hero_mouth_color_name: Skin
+casual_hands_color_name: Fur
+#casual_mouth_color_name: Skin

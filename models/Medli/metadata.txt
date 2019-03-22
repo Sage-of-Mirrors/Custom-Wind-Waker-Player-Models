@@ -1,0 +1,13 @@
+hero_custom_colors:
+  Hair: A45D39
+  Skin: F7F7DE
+  Dress: 52696B
+  Tabard: C67108
+casual_custom_colors:
+  Hair: A45D39
+  Skin: F7F7DE
+  Dress: 52696B
+  Tabard: C67108
+has_colored_eyebrows: true
+revision: 2
+author: LagoLunatic

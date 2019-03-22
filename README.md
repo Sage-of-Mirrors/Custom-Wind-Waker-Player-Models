@@ -2,7 +2,7 @@
 The .zip here contains the resources required for custom player models in The Legend of Zelda: The Wind Waker while using LagoLunatic's [TWW Randomizer](https://github.com/LagoLunatic/wwrando).
 
 # Installation
-Download ```models.zip``` and extract the contents of it into the models folder next to the randomizer executable. If done correctly, the models folder should now have several subfolders in it, each with the name of a different character.
+Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Player-Models/archive/master.zip) and extract it. Then move the contents of the "models" that was inside that zip file into the "models" folder next to the randomizer executable. If done correctly, the models folder should now have several subfolders in it, each with the name of a different character.
 
 # Credits
 * Gamma/Sage of Mirrors ([@SageOfMirrors](https://twitter.com/SageOfMirrors)): Rigged and imported Tetra.

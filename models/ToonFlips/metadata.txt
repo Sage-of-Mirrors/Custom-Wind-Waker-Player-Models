@@ -1,0 +1,21 @@
+hero_custom_colors:
+  Skin: F7DB9C
+  Hat: 52B24A
+  Hair: 563D44
+  Tunic: 52B24A
+  Undershirt: A5E342
+  Belt: 633008
+  Pants: FFFFFF
+  Boots: 944908
+  Underboots: D6B639
+casual_custom_colors:
+  Skin: F7DB9C
+  Hair: 563D44
+  Shirt: 2D2D2D
+  Shirt-star: FFE136
+  Shorts: 7FB8FF
+  Sandals: 62696A
+  
+has_colored_eyebrows: true
+author: InTheBeef
+comment: Please give feedback @InTheBeef(#1252)

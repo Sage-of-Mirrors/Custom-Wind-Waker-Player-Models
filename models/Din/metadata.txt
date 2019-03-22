@@ -1,0 +1,13 @@
+hero_custom_colors:
+  Hair: ff8221
+  Skin: ffaa6b
+  Tunic1: ff9543
+  Tunic2: ff8221
+casual_custom_colors:
+  Hair: ff8221
+  Skin: ffaa6b
+  Tunic1: ff9543
+  Tunic2: ff8221
+has_colored_eyebrows: true
+author: TemperedCreator
+comment: The first of the golden goddesses and my first try at a player model. NOTE, preview is a bit inaccurate since the model is shiny in game.

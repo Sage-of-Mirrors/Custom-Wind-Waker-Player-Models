@@ -1,0 +1,25 @@
+hero_custom_colors:
+  Hair: 520400
+  Skin: c6be8c
+  Nose: b59a6b
+  Mole: 000000
+  Cloth: 84696b
+  Patch 1: 94a67b
+  Patch 2, Underpants, Seam: 422c31
+  Arms: 313439
+  Arm Patch: 313439
+  Shoes: 313439
+casual_custom_colors:
+  Hair: 520400
+  Skin: c6be8c
+  Nose: b59a6b
+  Mole: 000000
+  Dress: 316163
+  Pattern: bdce8c
+  Pants: ef8c31
+  Armband 1: 424221
+  Armband 2: ef8c31
+  Shoes: 313439
+has_colored_eyebrows: false
+author: FrasseFreak
+comment: Maggie actually goes on her quest to find Moe, and gets into alot of trouble on the way. Casual gets rid of her long hair and puts her in a custom outfit based on the moblins.

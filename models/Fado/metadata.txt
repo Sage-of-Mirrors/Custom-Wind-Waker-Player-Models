@@ -1,0 +1,16 @@
+hero_custom_colors:
+  Hair: a5b210
+  Skin: c6ba8c
+  Tunic: 425529
+  Tunic2: 213829
+  Logo1: 945d52
+  Logo2: 849673
+casual_custom_colors:
+  Hair: a5b210
+  Skin: c6ba8c
+  Tunic: 425529
+  Tunic2: 213829
+  Logo1: f7d619
+  Logo2: 849673
+author: Laenthor
+comment: Custom audio is Link's voice from Ocarina of Time pitched down by 20% (remove sound folder to keep original voice)

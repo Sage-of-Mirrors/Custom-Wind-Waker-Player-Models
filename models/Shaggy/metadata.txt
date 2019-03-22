@@ -1,0 +1,13 @@
+hero_custom_colors:
+  Skin: fed38c
+  Hair: e9af10
+  FacialHair: 231f20
+  Shirt: b8be19
+  Pants: a44138
+  Shoes: 41525c
+
+has_colored_eyebrows: true
+eyebrow_color_name: FacialHair
+disable_casual_clothes: true
+author: YADUNDED
+comment: Ver. 1.0 "Boy am I glad ganon's frozen in there and that we're out here and that he's the sheriff and we're frozen out here and that we're in there and I just remembered we're out here. What I want to know is where's the light arrows?"

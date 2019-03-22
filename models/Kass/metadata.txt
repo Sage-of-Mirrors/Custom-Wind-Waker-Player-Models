@@ -1,0 +1,57 @@
+hero_custom_colors:
+  Face1: bdd7ff
+  Face2: bd6973
+  Face3: fdfffc
+  Face4: 181821
+  Skin: 187d9c
+  Skin2: 2955a5
+  Skin3: ee9a54
+  Skin4: f8f8f8
+  Armor: 422c29
+  Metal: d6cbc6
+  Clothes1: ffffff
+  Clothes2: 187d9c
+  Clothes3: 7b3039
+  Clothes4: ce3c39
+  Clothes5: 297121
+  Clothes6: 214508
+  Clothes7: 849673
+  Clothes8: ffe700
+  Shoulders1: ffffff
+  Shoulders2: ad3c4a
+  Shoulders3: ffe700
+  Shoulders4: ffc300
+  Legs: 422c29
+  Feet: 293039
+
+casual_custom_colors:
+  Face1: bdd7ff
+  Face2: bd6973
+  Face3: fdfffc
+  Face4: 181821
+  Skin: 187d9c
+  Skin2: 2955a5
+  Skin3: ee9a54
+  Skin4: f8f8f8
+  Armor: 4d3630
+  Metal: 676468
+  Clothes1: d7d0c2
+  Clothes2: 847e6e
+  Clothes3: 00a0e7
+  Clothes4: ffffff
+  Clothes5: d9d0c3
+  Clothes6: bd6b72
+  Clothes7: 37762e
+  Clothes8: 37762e
+  Shoulders1: ffffff
+  Shoulders2: 8b2a40
+  Shoulders3: ffe700
+  Shoulders4: fdde00
+  Legs: 4d3630
+  Feet: 293039
+
+hero_mouth_color_name: "Skin5"
+casual_mouth_color_name: "Skin5"
+has_colored_eyebrows: false
+author: YADUNDED
+comment: Ver. 1.0
