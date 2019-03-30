@@ -18,5 +18,6 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * TemperedCreator ([@seanos1998](https://twitter.com/seanos1998)): Rigged and imported Din.
 * FrasseFreak: Rigged and imported Poor Maggie.
 * YADUNDED: Rigged and imported Kass and Shaggy.
+* Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit and Dark Pit.
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).
