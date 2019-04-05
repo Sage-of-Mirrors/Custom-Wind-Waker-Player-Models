@@ -4,11 +4,18 @@ hero_custom_colors:
   Shirt: 184894
   Pants: EEF6FF
   Scarf: F70042
+  Armbands: E7F7FF
+  Belt: F70042
+  Sandals: 523C18
+  Pouch: C6CB94
 casual_custom_colors:
   Hair: C5FF00
   Skin: B4995A
   Shirt: 184894
   Pants: EEF6FF
+  Armbands: E7F7FF
+  Belt: F70042
+  Sandals: 523C18
 has_colored_eyebrows: true
 revision: 2
 author: Gamma
