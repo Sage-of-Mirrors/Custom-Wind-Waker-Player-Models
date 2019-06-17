@@ -1,0 +1,20 @@
+hero_custom_colors:
+  Hair: f7df84
+  Skin: f7e3d6
+  Buttons: f7c34a
+  Dress: e7e7f7
+  Dress_Accent: 6369a5
+  Leggings: 313852
+  Shoes: e7e7f7
+  Shoes_Accent: 6369a5
+casual_custom_colors:
+  Hair: f7df84
+  Skin: f7e3d6
+  Buttons: efeaf2
+  Dress: cc3942
+  Dress_Accent: efeaf2
+  Leggings: 6c6879
+  Shoes: cc3942
+  Shoes_Accent: 962e37
+has_colored_eyebrows: true
+author: ZodaInk

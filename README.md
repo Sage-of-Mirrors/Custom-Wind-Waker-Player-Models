@@ -11,7 +11,7 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * Laenthor ([Youtube](https://www.youtube.com/channel/UCIWlBco_-iHpQZfmUaYbxpg)): Rigged and imported Fado, Aryll, and Goku.
 * InTheBeef ([@InTheBeef](https://twitter.com/InTheBeef)): Rigged and imported Cheerleader Link, Zora Link, Saria, and ToonFlips.
 * Windwalker14: Rigged and imported Fox Link.
-* Praecipua ([@PraecipuaWW](https://twitter.com/PraecipuaWW)): Imported voices for Medli.
+* Praecipua ([@PraecipuaWW](https://twitter.com/PraecipuaWW)): Imported voices for Medli/Colette.
 * KromosRuby ([DeviantArt](https://www.deviantart.com/kromosruby)): Modeled Saria.
 * wooferzfg ([@wooferzfg](https://twitter.com/wooferzfg)): Imported voices for Sans.
 * Follyknight: Rigged and imported Grandma.
@@ -20,5 +20,6 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * YADUNDED: Rigged and imported Kass and Shaggy.
 * Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit and Dark Pit.
 * Adhexas: Modeled, rigged and imported Ganondorf.
+* ZodaInk: Modeled, rigged and imported Colette.
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).
