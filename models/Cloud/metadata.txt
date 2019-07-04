@@ -1,0 +1,40 @@
+hero_custom_colors:
+  Skin: f7db9c
+  Hair: eac262
+  Earring: c4cacd
+  Shirt: 282839
+  Shirt Zipper: d4d4d4
+  Pants: 1e1e2b
+  Pants Belt: 1e1e2b
+  Pants Belt Buckle: b4babd
+  Belts: 232323
+  Belt Buckles: b4babd
+  Pauldron: 232323
+  Pauldron Emblem: b4babd
+  Sleeve: 232323
+  Gloves: 2c2c2c
+  Skirt: 232323
+  Boots: 17171e
+  Boots 2: 7a7e80
+casual_custom_colors:
+  Skin: f7db9c
+  Hair: eac262
+  Earring: c4cacd
+  Shirt: 413a45
+  Pants: 413a45
+  Belt: 945d25
+  Belt 2: 777f83
+  Belt 3: 7b8183
+  Pauldron: 778183
+  Arm Wrap: ffffff
+  Gauntlet 1: b4babd
+  Gauntlet 2: 52595a
+  Gloves: 232323
+  Glove Band: 945d25
+  Boots: 1c1519
+  Boots 2: 7a7e80
+  Boot Cuffs: b4babd
+has_colored_eyebrows: true
+author: Bird of Light
+hero_hands_color_name: Gloves
+casual_hands_color_name: Gloves

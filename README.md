@@ -18,7 +18,7 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * TemperedCreator ([@seanos1998](https://twitter.com/seanos1998)): Rigged and imported Din.
 * FrasseFreak: Rigged and imported Poor Maggie.
 * YADUNDED: Rigged and imported Kass and Shaggy.
-* Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit and Dark Pit.
+* Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit, Dark Pit, Samus, Cloud, and Chocobo.
 * Adhexas: Modeled, rigged and imported Ganondorf.
 * ZodaInk: Modeled, rigged and imported Colette.
 

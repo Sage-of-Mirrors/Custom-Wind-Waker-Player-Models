@@ -1,0 +1,16 @@
+hero_custom_colors:
+  Skin: f9ca5d
+  Beak: f79e3a
+  Pouch: c85237
+  Pouch Clasp: c5b27b
+  Legs: db8623
+  Talons: f7ebc5
+casual_custom_colors:
+  Skin: f9ca5d
+  Beak: f79e3a
+  Legs: db8623
+  Talons: f7ebc5
+has_colored_eyebrows: false
+author: Bird of Light
+hero_mouth_color_name: Beak
+casual_mouth_color_name: Beak
