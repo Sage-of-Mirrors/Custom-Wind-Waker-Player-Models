@@ -54,4 +54,4 @@ hero_mouth_color_name: "Skin5"
 casual_mouth_color_name: "Skin5"
 has_colored_eyebrows: false
 author: YADUNDED
-comment: Ver. 1.0
+comment: Ver. 1.0.1
