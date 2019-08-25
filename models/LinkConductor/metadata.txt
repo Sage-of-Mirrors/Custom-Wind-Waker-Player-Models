@@ -1,0 +1,24 @@
+hero_custom_colors:
+  Skin: f7db9c
+  Hair: F7EF10
+  Cap: 841421
+  Cap Visor: 422c10
+  Clothes: 183452
+  Sleeves: 638ebd
+  Gloves: 6b5121
+  Belt: 4a3010
+  Buckle: 848684
+  Boots: 523010
+casual_custom_colors:
+  Skin: f7db9c
+  Hair: F7EF10
+  Clothes: 183452
+  Sleeves: 638ebd
+  Gloves: 6b5121
+  Belt: 4a3010
+  Boots: 523010
+hands_hero_color_name: "Gloves"
+hands_casual_color_name: "Gloves"
+has_colored_eyebrows: false
+revision: 1
+author: DemonBoy

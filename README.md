@@ -22,5 +22,6 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * Adhexas: Modeled, rigged and imported Ganondorf.
 * ZodaInk: Modeled, rigged and imported Colette.
 * BigSharkZ: Modeled, rigged and imported Ashley.
+* DemonBoy: Modeled, rigged and imported Conductor Link.
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).
