@@ -1,0 +1,35 @@
+hero_custom_colors:
+  Skin: f7db9c
+  Hair: F7EF10
+  Helmet: ef0810
+  Helmet Trim: de9a08
+  Helmet Symbol: eff3ef
+  Suit: ef0810
+  Suit Stripes: de9a08
+  Chest Symbol: eff3ef
+  Scarf: f7f7f7
+  Belt: 2c2d2b
+  Metal: de9a08
+  Gem: de24ad
+  Gloves: eff3ef
+  Glove Stripes: b51008
+  Boots: eff3ef
+  Boot Stripes: b51008
+casual_custom_colors:
+  Skin: f7db9c
+  Hair: F7EF10
+  Suit: ef0810
+  Suit Stripes: de9a08
+  Scarf: f7f7f7
+  Belt: 2c2d2b
+  Metal Back: de9a08
+  Gem: de24ad
+  Gloves: eff3ef
+  Glove Stripes: b51008
+  Boots: eff3ef
+  Boot Stripes: b51008
+hands_hero_color_name: "Gloves"
+hands_casual_color_name: "Gloves"
+has_colored_eyebrows: false
+revision: 2
+author: DemonBoy
