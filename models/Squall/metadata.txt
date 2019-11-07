@@ -1,0 +1,28 @@
+hero_custom_colors:
+  Skin: f7db9c
+  Hair: 453323
+  Shirt: ffffff
+  Jacket: 181818
+  Jacket Cuffs: 181818
+  Jacket Metal: cccccc
+  Fur Collar: eaeade
+  Gloves: 181818
+  Belts: 181818
+  Belts 2: 6f361c
+  Belt Buckles: cccccc
+  Pants: 181818
+  Boots: 181818
+casual_custom_colors:
+  Skin: f7db9c
+  Hair: 453323
+  Shirt: ffffff
+  Jacket: 102b41
+  Jacket Cuffs: 102b41
+  Jacket Metal: cccccc
+  Fur Collar: cccccc
+  Gloves: 181818
+  Belts: 181818
+  Belt Buckles: cccccc
+  Pants: 102b41
+  Boots: 102b41
+author: Bird of Light
