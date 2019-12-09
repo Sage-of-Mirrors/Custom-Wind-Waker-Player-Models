@@ -24,5 +24,6 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * BigSharkZ: Modeled, rigged and imported Ashley.
 * DemonBoy: Modeled, rigged and imported Conductor Link and Tri Suit Link.
 * RustyMonkee: Modeled, rigged and imported Agent 9.
+* Brandors: Modeled, rigged and imported Erdrick.
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).

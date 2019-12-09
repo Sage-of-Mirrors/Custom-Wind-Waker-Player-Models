@@ -1,0 +1,16 @@
+hero_custom_colors:
+  Hair: 000000
+  Tunic 1: 15A9DF
+  Tunic 2: FFD851
+  Gem: 18B5E4
+  Gloves & Boots: 8E8E5B
+  Metal: D7EAF0
+  Scarf: D45FC7
+  Belts: A18B59
+  Skin: F7DB9C
+hero_hands_color_name: Gloves & Boots
+casual_hands_color_name: Gloves & Boots
+disable_casual_clothes: true
+revision: 1.0.0
+author: Brandors
+comment: Erdrick from Dragon Quest 3.
