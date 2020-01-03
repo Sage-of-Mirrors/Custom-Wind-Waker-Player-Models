@@ -1,28 +1,30 @@
 hero_custom_colors:
-  Helmet_Blade_and_Shoulder_Pads: 97383f
-  Helmet_and_Belt_Buckle: a7a4a7
+  Helmet Blade and Shoulder Pads: 943839
+  Helmet and Belt Buckle: a5a6a5
   Hair: 6b4939
   Ears: 9c6142
-  Skin: b58a63
+  Muzzle: b58a63
   Suit: 9cc03e
-  Back_Patch: 5a7118
+  Back Patch: 5a7118
   Sleeves: b54939
   Gloves: b54939
   Belt: 4c4529
-  Boots: 5e5539
+  Boots: 5a5539
 casual_custom_colors:
   Hair: 6b4939
-  Ears: 9c6142
-  Skin: b58a63
-  Suit: 89c900
-  Suit_Pattern: 32a600
-  Shoulder_Pads: 97383f 
+  Ears: ad6963
+  Muzzle: b58a63
+  Suit: 9cbe21
+  Shoulder Pads: 943839
   Arms: 6b4939
-  Gloves: b54939
-  Belt: 007900
-  Boots: 494a3b
-hands_hero_color_name: "Gloves"
-hands_casual_color_name: "Gloves"
+  Gloves: c65121
+  Belt: 104100
+  Boots: 6b6d5a
+
+hero_hands_color_name: "Gloves"
+casual_hands_color_name: "Gloves"
+casual_mouth_color_name: "Muzzle"
+hero_mouth_color_name: "Muzzle"
 has_colored_eyebrows: true
 revision: 1
 author: RustyMonkee
