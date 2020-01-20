@@ -1,0 +1,10 @@
+v 1.1: Added sound voice clips using Erdrick's voice from Super Smash Bros Ultimate and Link's voice from LOZ: OOT
+
+v 1.2: Adjusted textures and meshes on specific weapons
+	- Wind Waker
+	- Skull Hammer
+	- Boomerang
+	- Hero's Shield
+	- Mirror Shield
+	
+	

@@ -11,6 +11,6 @@ hero_custom_colors:
 hero_hands_color_name: Gloves & Boots
 casual_hands_color_name: Gloves & Boots
 disable_casual_clothes: true
-revision: 1.0.0
+revision: 1.2
 author: Brandors
-comment: Erdrick from Dragon Quest 3.
+comment: Erdrick from Dragon Quest 3. Custom voice audio sourced from "Super Smash Bros Ultimate" Erdrick and "LOZ OOT" Adult Link.
