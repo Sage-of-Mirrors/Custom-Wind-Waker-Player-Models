@@ -1,0 +1,28 @@
+hero_custom_colors:
+  Suit: 008a31
+  Snake Pattern: dedb00
+  Necklace: efc36b
+  Underwear: 9c0008
+  Belt: 391800
+  Belt Buckle: def3ef
+  Shoes: 004118
+  Clock: 0038b5
+  Clock Face: efff9c
+  Clock Pointer: 524539
+  Skin: e7cb9c
+  Cheek Pattern: d68e7b
+  Nose: ce614a
+  Hair: 210c00
+casual_custom_colors:
+  Pajama Shirt: bdddff
+  Collar: 6a92df
+  Lining: 6a92df
+  Pajama Pants: bdddff
+  Shoes: 9f7973
+  Skin: e7cb9c
+  Cheek Pattern: d68e7b
+  Nose: ce614a
+  Hair: 210c00
+has_colored_eyebrows: true
+author: FrasseFreak
+comment: The hero the Great Sea needs, but doesn't deserve. To play as his brothers, use these colors. (Sidenote, if you edit the suit, you might wanna change the color of the snake and necklace slightly, or it will look kinda pixelated.                                                                                                                                   Ankle. Suit = e7bad6. Underwear = 942c7b. Clock = 216994. Shoes = 946584.                                                                                                                                            David Jr. Suit = fffff7. Underwear = 8c9652. Clock = 216994. Shoes = 949e84                                                                                                                                                   Knuckle. Suit = 94a6ce. Underwear = 003c9c Clock = 216994. Shoes = 214d8c
