@@ -19,3 +19,4 @@ casual_custom_colors:
 has_colored_eyebrows: true
 revision: 2
 author: LagoLunatic
+comment: Voice files imported by Praecipua.
