@@ -25,4 +25,4 @@ casual_custom_colors:
 has_colored_eyebrows: false
 casual_hair_color_name: Hat
 author: YADUNDED
-comment: Ver. 1.0
+comment: Ver. 1.0.1
