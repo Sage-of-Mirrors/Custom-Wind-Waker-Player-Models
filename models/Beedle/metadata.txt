@@ -1,0 +1,27 @@
+hero_custom_colors:
+  Skin: b5a284
+  Nose: a58273
+  Hair: 4a2808
+  Shoes1: 57371a
+  Shoes2: 8f7c4f
+  Belt1: 4a2808
+  Belt2: 85713d
+  Pants1: 1c304f
+  Pants2: 758793
+  Pants3: 671c1b
+  Shirt1: b7b7b7
+  Shirt2: 848a69
+  Bandana: 671c1b
+  
+casual_custom_colors:
+  Skin: b5a284
+  Nose: a58273
+  Hair: 4a2808
+  Shoes: 211000
+  Pants1: 29555a
+  Pants2: ffffff
+  
+casual_clothes_option_text: Wind Waker Beedle
+has_colored_eyebrows: true
+author: YADUNDED
+comment: Ver 1.0.1 THAAAANK YOOOOUUUU
