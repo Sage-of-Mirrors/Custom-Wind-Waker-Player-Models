@@ -1,6 +1,7 @@
 hero_custom_colors:
   Hair: A45D39
   Skin: F7F7DE
+  Eyes: AD1000
   Dress: 52696B
   Tabard: C67108
   Feet: F7C729
@@ -11,6 +12,7 @@ hero_custom_colors:
 casual_custom_colors:
   Hair: A45D39
   Skin: F7F7DE
+  Eyes: AD1000
   Dress: 52696B
   Tabard: C67108
   Feet: F7C729
