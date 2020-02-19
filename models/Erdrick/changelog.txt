@@ -1,4 +1,4 @@
-v 1.1: Added sound voice clips using Erdrick's voice from Super Smash Bros Ultimate and Link's voice from LOZ: OOT
+v 1.1: Added sound voice clips using Erdrick's voice from Super Smash Bros Ultimate
 
 v 1.2: Adjusted textures and meshes on specific weapons
 	- Wind Waker
@@ -6,5 +6,13 @@ v 1.2: Adjusted textures and meshes on specific weapons
 	- Boomerang
 	- Hero's Shield
 	- Mirror Shield
-	
+
+	Adjusted voice clips using Erdrick's voice from Super Smash Bros Ultimate and Link's voice from LOZ: OOT
+
+v 1.2.1: Adjusted textures and meshes
+	 - Master Sword Hilt
+ 	 - Mastersword Sheath
+	 - Hookshot
+	 - Pictobox
+	 - Added Iris Masks
 	

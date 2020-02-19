@@ -8,9 +8,11 @@ hero_custom_colors:
   Scarf: D45FC7
   Belts: A18B59
   Skin: F7DB9C
+  Iris: 000000
+
 hero_hands_color_name: Gloves & Boots
 casual_hands_color_name: Gloves & Boots
 disable_casual_clothes: true
-revision: 1.2
+revision: 1.2.1
 author: Brandors
 comment: Erdrick from Dragon Quest 3. Custom voice audio sourced from "Super Smash Bros Ultimate" Erdrick and "LOZ OOT" Adult Link.
