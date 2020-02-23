@@ -1,0 +1,31 @@
+hero_custom_colors:
+  Cap_1: B54129
+  Cap_2: E7E7E7
+  Badge_1: E7E7E7
+  Badge_2: 212C18
+  Badge_3: 84B618
+  Skin: F7DBDE
+  Hair: 313839
+  Shirt: 393C39
+  Jacket_1: B54129
+  Jacket_2: ECE8EC
+  Pants: 4A86AD
+  Shoes_1: B54129
+  Shoes_2: E7E7E7
+casual_custom_colors:
+  Cap_1: B54129
+  Cap_2: E7E7E7
+  Badge_1: E7E7E7
+  Badge_2: 212C18
+  Badge_3: 84B618
+  Skin: F7DBDE
+  Hair: 313839
+  Shirt: 393C39
+  Jacket_1: B54129
+  Jacket_2: ECE8EC
+  Pants: 4A86AD
+  Shoes_1: B54129
+  Shoes_2: E7E7E7
+has_colored_eyebrows: false
+author: BigSharkZ
+comment: While sitting at the top of a mountain, a wise kid once said "...". After catching 'em all, it was time to use all these Pokemon in a new way. Extra files include hi-res & Shiny textures, item icons, Pokemon replacing multiple models, and more. Enjoy!
