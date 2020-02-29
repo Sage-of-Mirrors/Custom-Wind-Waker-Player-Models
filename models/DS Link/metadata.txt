@@ -1,0 +1,204 @@
+hero_custom_colors:
+  Hat: 60a848
+  Hair: f8e810
+  Pupils: 101810
+  Skin: f8d098
+  Tunic1: 60a848
+  Tunic2: a8e040
+  Belt: 683008
+  Buckle: f8f008
+  Pants: f8f8f8
+  Shoes1: 884808
+  Shoes2: d0b038
+  
+casual_custom_colors:
+  Hat1: 831f17
+  Hat2: 1f171a
+  Hat3: e6dfbc
+  Hair: f8e810
+  Pupils: 101810
+  Skin: f8d098
+  Hands: a58530
+  Tunic1: 222537
+  Tunic2: 778b98
+  Buttons: e0d8e0
+  Belt: 6a3308
+  Buckle: 6d6d6d
+  Pants: 222537
+  Shoes1: 8d4c08
+  Shoes2: d0b038
+
+hero_color_presets:
+  Red: 
+    Hat: d82828
+    Hair: f8e810
+    Pupils: 101810
+    Skin: f8d098
+    Tunic1: d82828
+    Tunic2: f5a3ba
+    Belt: 98e0e0
+    Buckle: f8f028
+    Pants: f8f8f8
+    Shoes1: e02828
+    Shoes2: f8e0b8
+  Blue:
+    Hat: 68b8f8
+    Hair: f8e810
+    Pupils: 101810
+    Skin: f8d098
+    Tunic1: 68b8f8
+    Tunic2: 98e0e0
+    Belt: 98e0e0
+    Buckle: f8f028
+    Pants: f8f8f8
+    Shoes1: e02828
+    Shoes2: f8e0b8
+  Violet:
+    Hat: f858f8
+    Hair: f8e810
+    Pupils: 101810
+    Skin: f8d098
+    Tunic1: f858f8
+    Tunic2: f8a8f8
+    Belt: 98e0e0
+    Buckle: f8f028
+    Pants: f8f8f8
+    Shoes1: e02828
+    Shoes2: f8e0b8
+  Shadow Link:
+    Hat: 000000
+    Hair: 000000
+    Pupils: ff0000
+    Skin: 000000
+    Tunic1: 000000
+    Tunic2: 000000
+    Belt: 000000
+    Buckle: 000000
+    Pants: 000000
+    Shoes1: 000000
+    Shoes2: 000000
+  Shadow Link (FSA manga style):
+    Hat: 392332
+    Hair: a33190
+    Pupils: 31526e
+    Skin: ffc98c
+    Tunic1: 392332
+    Tunic2: ffffff
+    Belt: cf214b
+    Buckle: fef731
+    Pants: ffffff
+    Shoes1: 392332
+    Shoes2: 392332
+  Shadow Link (Smash style):
+    Hat: 262a32
+    Hair: bfd4f3
+    Pupils: b10000
+    Skin: f8d098
+    Tunic1: 262a32
+    Tunic2: 506174
+    Belt: 4e4844
+    Buckle: 767667
+    Pants: 708195
+    Shoes1: 271e1c
+    Shoes2: 545055
+  Beta Wind Waker:
+    Hat: 60a848
+    Hair: f8e810
+    Pupils: 101810
+    Skin: f8d098
+    Tunic1: 60a848
+    Tunic2: c2a847
+    Belt: 683008
+    Buckle: f8f008
+    Pants: f8f8f8
+    Shoes1: 884808
+    Shoes2: d0b038
+
+casual_color_presets:
+  Linebeck:
+    Hat1: bbc3de
+    Hat2: 007294
+    Hat3: c60000
+    Hair: 404828
+    Pupils: 304830
+    Skin: e0a050
+    Hands: 8493c2
+    Tunic1: 202858
+    Tunic2: 007294
+    Buttons: e88800
+    Belt: 110000
+    Buckle: e07800
+    Pants: 223e48
+    Shoes1: 480700
+    Shoes2: 553e2c
+  Niko:
+    Hat1: 29aeff
+    Hat2: 29aeff
+    Hat3: 29aeff
+    Hair: c6b629
+    Pupils: 04291e
+    Skin: e3c5a9
+    Hands: e3c5a9
+    Tunic1: ebffff
+    Tunic2: 9e516f
+    Buttons: ebffff
+    Belt: 67351a
+    Buckle: ebffff
+    Pants: 436b48
+    Shoes1: 65491d
+    Shoes2: 8b6d3d
+  Jotaro:
+    Hat1: 1b078c
+    Hat2: 5275ff
+    Hat3: fac03c
+    Hair: 1b078c
+    Pupils: 101810
+    Skin: ebb070
+    Hands: 00cfd1
+    Tunic1: 3f5aff
+    Tunic2: c849b2
+    Buttons: fac03c
+    Belt: d77ea9
+    Buckle: fac03c
+    Pants: 3f5aff
+    Shoes1: 862470
+    Shoes2: 641b49
+  Mario:
+    Hat1: d80000
+    Hat2: d80000
+    Hat3: ffffff
+    Hair: 501101
+    Pupils: 002d51
+    Skin: f4ab98
+    Hands: ffffff
+    Tunic1: 003ebf
+    Tunic2: d80000
+    Buttons: e5e343
+    Belt: 003ebf
+    Buckle: 003ebf
+    Pants: 003ebf
+    Shoes1: 722c0f
+    Shoes2: a2502e
+  Luigi:
+    Hat1: 2b9618
+    Hat2: 2b9618
+    Hat3: ffffff
+    Hair: 541900
+    Pupils: 002d51
+    Skin: ffab81
+    Hands: ffffff
+    Tunic1: 31375a
+    Tunic2: 2b9618
+    Buttons: e5e343
+    Belt: 31375a
+    Buckle: 31375a
+    Pants: 31375a
+    Shoes1: 722c0f
+    Shoes2: a2502e
+
+casual_Hair_color_name: Hair
+casual_hands_color_name: Hands
+casual_clothes_option_text: Engineer Link
+has_colored_eyebrows: false
+author: YADUNDED
+comment: Ver 1.0.2
