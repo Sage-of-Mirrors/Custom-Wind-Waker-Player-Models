@@ -1,25 +1,29 @@
 hero_custom_colors:
   Hair: FFEE10
+  Pupils: AA8111
   Fur: C45F00
   Fur 2: 1B1B1B
-  Fur 3: F7FFFF
+  Fur 3: FFFAFA
   Fur 4: F7FFFF
   Shirt: 5AB24A
   Undershirt: ACE241
   Pants: FFFFFF
 casual_custom_colors:
   Hair: FFEE10
+  Pupils: AA8111
   Fur: C45F00
   Fur 2: 1B1B1B
-  Fur 3: F7FFFF
+  Fur 3: FFFAFA
   Fur 4: F7FFFF
   Shirt: 4A75AC
   Pants: FFA100
 has_colored_eyebrows: false
-revision: 3
+revision: 4
 hero_hands_color_name: Fur 2
 hero_mouth_color_name: Fur 3
 casual_hands_color_name: Fur 2
 casual_mouth_color_name: Fur 3
+hero_hitomi_color_name: Pupils
+casual_hitomi_color_name: Pupils
 author: Windwalker14
 comment: Fox/Furry link that was made as an homage to the fox link skin in LTTP. Sadly the tail is static, and in order to make sure that the tail doesnt fully obscure vision in crawlspaces, crouching with the shield causes the tail to clip.
