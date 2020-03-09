@@ -1,0 +1,18 @@
+hero_custom_colors:
+  Light Blue Skin: 6eb0ca
+  Dark Blue Skin: 345e9e
+  Black Skin: 3b4543
+  Fins: dadd71
+  Suit Blue: 1d3454
+  Suit Black: 212726
+  Suit White: f0f0f0
+  Bowtie: 212726
+casual_custom_colors:
+  Light Blue Skin: 6eb0ca
+  Dark Blue Skin: 345e9e
+  White Skin: f0f0f0
+  Black Skin: 3b4543
+  Fins: dadd71
+author: Colonel Birdstrong
+hero_hands_color_name: Black Skin
+casual_hands_color_name: Black Skin
