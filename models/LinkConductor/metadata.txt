@@ -17,8 +17,6 @@ casual_custom_colors:
   Gloves: 6b5121
   Belt: 4a3010
   Boots: 523010
-hands_hero_color_name: "Gloves"
-hands_casual_color_name: "Gloves"
 has_colored_eyebrows: false
 revision: 1
 author: DemonBoy

@@ -28,8 +28,6 @@ casual_custom_colors:
   Glove Stripes: b51008
   Boots: eff3ef
   Boot Stripes: b51008
-hands_hero_color_name: "Gloves"
-hands_casual_color_name: "Gloves"
 has_colored_eyebrows: false
 revision: 2
 author: DemonBoy
