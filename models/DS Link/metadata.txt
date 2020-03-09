@@ -201,4 +201,4 @@ casual_hands_color_name: Hands
 casual_clothes_option_text: Engineer Link
 has_colored_eyebrows: false
 author: YADUNDED
-comment: Ver 1.0.2
+comment: Ver 1.1.0
