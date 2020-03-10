@@ -2,6 +2,7 @@ hero_custom_colors:
   Helmet Blade and Shoulder Pads: 943839
   Helmet and Belt Buckle: a5a6a5
   Hair: 6b4939
+  Eyes: dea25a
   Ears: 9c6142
   Muzzle: b58a63
   Suit: 9cc03e
@@ -12,6 +13,7 @@ hero_custom_colors:
   Boots: 5a5539
 casual_custom_colors:
   Hair: 6b4939
+  Eyes: dea25a
   Ears: ad6963
   Muzzle: b58a63
   Suit: 9cbe21
