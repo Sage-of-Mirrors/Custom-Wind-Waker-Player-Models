@@ -9,7 +9,7 @@ hero_custom_colors:
   Bracers2: 633408
   Belt: 633008
   Belt_Buckle: F7D538
-  Stockings and Shirt: FFFFFF
+  Stockings and Shirt: FFFCFC
   Legs: F7DB9C
   Boots: E58C3F
   Boots2: 944908
