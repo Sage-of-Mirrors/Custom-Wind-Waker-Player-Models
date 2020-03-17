@@ -21,7 +21,7 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit, Dark Pit, Samus, Cloud, Chocobo, Squall, Marth, and Inteleon.
 * Adhexas: Modeled, rigged and imported Ganondorf.
 * ZodaInk: Modeled, rigged and imported Colette.
-* BigSharkZ: Modeled, rigged and imported Ashley, Red (+ [a pack](https://gamebanana.com/skins/175198) of many Pokemon models separate from the randomizer), and CJ.
+* BigSharkZ: Modeled, rigged and imported Ashley, Red (+ [a pack](https://gamebanana.com/skins/175198) of many Pokemon models separate from the randomizer), CJ, and Linka.
 * DemonBoy: Modeled, rigged and imported Conductor Link and Tri Suit Link.
 * RustyMonkee: Modeled, rigged and imported Agent 9.
 * Brandors: Modeled, rigged and imported Erdrick and Captain Falcon.

@@ -1,0 +1,30 @@
+hero_custom_colors:
+  Skin: F7DB9C
+  Eyes: 415E8F
+  Eye White: FFFFFF
+  Hair: F7D538
+  Tunic: 528F3D
+  Hands: F7DB9C
+  Bracers: 944908
+  Bracers2: 633408
+  Belt: 633008
+  Belt_Buckle: F7D538
+  Stockings and Shirt: FFFFFF
+  Legs: F7DB9C
+  Boots: E58C3F
+  Boots2: 944908
+
+casual_custom_colors:
+  Skin: F7DB9C
+  Eyes: 415E8F
+  Eye White: FFFFFF
+  Hair: F7D538
+  Dress: 4379BE
+  Leggings and Shirt: 65496A
+  Shoes: 4379BE
+
+
+hero_hands_color_name: "Hands"
+has_colored_eyebrows: false
+author: BigSharkZ
+comment: While Link is on vacation, a new hero takes over! Meet Linka, a cute and courageous girl from a faraway region. Not to be confused with Linkle. Comes with a custom boat, the Queen of White Swans, and has an alternate hammer, the Stalfos Hammer, available on GameBanana. If you want gloves, I recommend recoloring her hands to match the bracers!
