@@ -1,0 +1,111 @@
+hero_custom_colors:
+  Skin: f7db9c
+  Hair: ffcb0e
+  Tunic: 237a19
+  Torso Belt: 633008
+  Belt Buckles: ffef10
+  Waist Belt: 7b1d03
+  Boot Cuffs: d8913e
+  Boots: 944908
+  Eyes: 105483
+  Eye White: eff7ff
+casual_custom_colors:
+  Skin: f7db9c
+  Hair: ffcb0e
+  Tunic: 237a19
+  Belt Buckle: ffef10
+  Belt: 7b1d03
+  Boot Cuffs: d8913e
+  Boots: 944908
+  Eyes: 105483
+  Eye White: eff7ff
+has_colored_eyebrows: true
+author: Bird of Light
+
+hero_color_presets:
+    Goron Tunic:
+        Tunic: 900000
+        Waist Belt: 9E2B27
+        
+    Zora Tunic:
+        Tunic: 00007F
+    
+    Smash White Tunic:
+        Tunic: c8c4ef
+        
+    Smash Pink Tunic:
+        Tunic: ed87b3
+    
+    Smash Light Blue Tunic:
+        Tunic: 63abca
+    
+    Smash Orange Tunic:
+        Tunic: eb8444
+    
+    Dark Link:
+        Skin: 000000
+        Hair: 000000
+        Tunic: 000000
+        Torso Belt: 000000
+        Belt Buckles: 000000
+        Waist Belt: 000000
+        Boot Cuffs: 000000
+        Boots: 000000
+        Eyes: FF0000
+        Eye White: 000000
+    
+    Smash Dark Link:
+        Skin: 6F7085
+        Hair: E4E0E9
+        Tunic: 4F5054
+        Torso Belt: 242324
+        Belt Buckles: 666666
+        Waist Belt: 242324
+        Boot Cuffs: 94949E
+        Boots: 514F51
+        Eyes: EE67A2
+        Eye White: B94278
+        
+casual_color_presets:
+    Goron Tunic:
+        Tunic: 900000
+        Belt: 9E2B27
+        
+    Zora Tunic:
+        Tunic: 00007F
+    
+    Smash White Tunic:
+        Tunic: c8c4ef
+        
+    Smash Pink Tunic:
+        Tunic: ed87b3
+    
+    Smash Light Blue Tunic:
+        Tunic: 63abca
+    
+    Smash Orange Tunic:
+        Tunic: eb8444
+    
+    Dark Link:
+        Skin: 000000
+        Hair: 000000
+        Tunic: 000000
+        Belt Buckle: 000000
+        Belt: 000000
+        Boot Cuffs: 000000
+        Boots: 000000
+        Eyes: FF0000
+        Eye White: 000000
+    
+    Smash Dark Link:
+        Skin: 6F7085
+        Hair: E4E0E9
+        Tunic: 4F5054
+        Belt Buckle: 666666
+        Belt: 242324
+        Boot Cuffs: 94949E
+        Boots: 514F51
+        Eyes: EE67A2
+        Eye White: B94278
+        
+comment: Credit to PizzaDog for the eye textures and BigSharkZ for general help!

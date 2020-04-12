@@ -18,7 +18,7 @@ Download [this zip file](https://github.com/Sage-of-Mirrors/Custom-Wind-Waker-Pl
 * TemperedCreator ([@seanos1998](https://twitter.com/seanos1998)): Rigged and imported Din.
 * FrasseFreak: Rigged and imported Poor Maggie and Tingle.
 * YADUNDED ([@yadundev](https://twitter.com/yadundev)): Rigged and imported Kass, Shaggy, Vaati, Beedle, and DS Link.
-* Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit, Dark Pit, Samus, Cloud, Chocobo, Squall, Marth, and Inteleon.
+* Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit, Dark Pit, Samus, Cloud, Chocobo, Squall, Marth, Inteleon, and Young Link.
 * Adhexas: Modeled, rigged and imported Ganondorf.
 * ZodaInk: Modeled, rigged and imported Colette.
 * BigSharkZ: Modeled, rigged and imported Ashley, Red (+ [a pack](https://gamebanana.com/skins/175198) of many Pokemon models separate from the randomizer), CJ, and Linka.
