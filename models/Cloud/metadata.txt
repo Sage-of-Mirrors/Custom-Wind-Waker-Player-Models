@@ -1,6 +1,6 @@
 hero_custom_colors:
   Skin: f7db9c
-  Hair: eac262
+  Hair: efc363
   Earring: c4cacd
   Shirt: 282839
   Shirt Zipper: d4d4d4
@@ -16,6 +16,8 @@ hero_custom_colors:
   Skirt: 232323
   Boots: 17171e
   Boots 2: 7a7e80
+  Eyes: 236478
+  Eyes White: ffffff
 casual_custom_colors:
   Skin: f7db9c
   Hair: eac262
@@ -34,7 +36,103 @@ casual_custom_colors:
   Boots: 1c1519
   Boots 2: 7a7e80
   Boot Cuffs: b4babd
+  Eyes: 236478
+  Eyes White: ffffff
 has_colored_eyebrows: true
 author: Bird of Light
 hero_hands_color_name: Gloves
 casual_hands_color_name: Gloves
+
+hero_color_presets:
+    Teal AC Smash:
+        Shirt: 31505B
+        Pants: 1F343B
+        Belts: 4C3F39
+        Sleeve: 1F363D
+        Skirt: 1F363D
+        Boots: 4C3F39
+    Purple AC Smash:
+        Shirt: 3F3A53
+        Pants: 363248
+        Sleeve: 2E2B3E
+        Skirt: 2E2B3E
+        Boots: 4C3F39
+    Red AC:
+        Shirt: 6F4841
+        Pants: 55352F
+        Belts: 423F3C
+        Pauldron: 414141
+        Sleeve: 3B2521
+        Skirt: 3B2521
+    Blue AC:
+        Shirt: 3E516D
+        Pants: 303E54
+        Pants Belt: 3E2820
+        Pauldron: 442D23
+        Sleeve: 263344
+        Gloves: 4C3B35
+        Skirt: 263344
+        Boots: 51352B
+    Kingdom Hearts:
+        Skin: FFD9B9
+        Hair: FFC869
+        Earring: F7FBFF
+        Shirt: 2C3640
+        Shirt Zipper: F7FBFF
+        Pants: 2C3640
+        Pants Belt: 242B2B
+        Pants Belt Buckle: F7FBFF
+        Belts: 242B2B
+        Belt Buckles: EDF1F5
+        Pauldron: 242B2B
+        Pauldron Emblem: EDF1F5
+        Sleeve: 242B2B
+        Gloves: 242B2B
+        Skirt: 242B2B
+        Boots: 252F36
+        Boots 2: F7FBFF
+        Eyes: 0B81B0
+
+casual_color_presets:
+    Blue Classic Smash:
+        Shirt: 3E4C62
+        Pants: 3E4C62
+        Pauldron: 9EABAD
+        Gloves: 403632
+        Boots: 5F442D
+        Boot Cuffs: AB9DA8
+    Red Classic Smash:
+        Shirt: 603E37
+        Pants: 603E37
+        Belt: 75706C
+        Gloves: 433F3F
+        Glove Band: 544F4F
+        Boots: 5B5359
+    Brown Classic Smash:
+        Shirt: 625643
+        Pants: 625643
+        Belt: 846645
+        Pauldron: 696481
+        Gauntlet 2: 696481
+        Gloves: 514541
+        Glove Band: 6A5A55
+        Boots: 4D4B4D
+    Kingdom Hearts:
+        Skin: FFD9B9
+        Hair: FFC869
+        Earring: F7FBFF
+        Shirt: 3A3E5C
+        Pants: 3A3E5C
+        Belt: 663820
+        Belt 2: 44494B
+        Belt 3: 7A818C
+        Pauldron: 7E8F97
+        Arm Wrap: 424242
+        Gauntlet 1: ABAFB5
+        Gauntlet 2: 454748
+        Gloves: 392215
+        Glove Band: 663820
+        Boots: 392215
+        Boots 2: 968E88
+        Boot Cuffs: 4D3021
+        Eyes: 0B81B0
