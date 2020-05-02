@@ -1,0 +1,22 @@
+hero_custom_colors:
+  Hair: FFEF10
+  Skin: F7DB9C
+  Arms: F7DB9C
+  Undershirt: F7DB9C
+  Shirt: C63929
+  Crab: FFFFD6
+  Glasses: FFA508
+  Lenses: 000000
+  Shorts: FFA508
+  Boots: 844A29
+
+casual_custom_colors:
+  Hair: FFEF10
+  Skin: F7DB9C
+  Shorts: 407BE3
+
+
+has_colored_eyebrows: false
+hide_ship_sail: true
+author: BigSharkZ
+comment: While Linka is on an adventure, Link enjoys a well-earned vacation! This confident, summer-themed version of Link is equipped with various items for the perfect beach trip, and he even uses a surfboard as his boat. 
