@@ -1,6 +1,8 @@
 hero_custom_colors:
   Skin: 807b5d
   Hair: ea6c37
+  Eyes - iris: b0531f
+  Eyes - sclera: ffffff
   Shirt: 9f4c51
   Pants: c9d7d5
   Jacket: 353a3f
@@ -18,6 +20,8 @@ hero_custom_colors:
 casual_custom_colors:
   Skin: 807b5d
   Hair: ea6c37
+  Eyes - iris: b0531f
+  Eyes - sclera: ffffff
   Shirt: 807b5d
   Pants: c9d7d5
   Jacket: 353a3f
@@ -30,4 +34,4 @@ casual_custom_colors:
 has_colored_eyebrows: true
 casual_hair_color_name: Earrings
 author: Adhexas
-comment: An original version of a young toon Ganondorf inspired by the king of evil's various appearances. Includes custom swords and shields based on Gerudo designs from Breath of the Wild as well as custom Iron Boots, Power Bracelets, and Hero's Charm that match his armor (but cannot be recolored). Custom audio was sourced from Super Smash Bros. Ultimate.
+comment: An original version of a young toon Ganondorf inspired by the king of evil's various appearances. Includes custom swords and shields based on Gerudo designs from Breath of the Wild as well as custom Iron Boots, Power Bracelets, and Hero's Charm that match his armor (but cannot be recolored) and a custom ship. Custom audio was sourced from Super Smash Bros. Ultimate.
