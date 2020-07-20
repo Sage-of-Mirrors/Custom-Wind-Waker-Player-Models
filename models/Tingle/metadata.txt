@@ -13,6 +13,110 @@ hero_custom_colors:
   Cheek Pattern: d68e7b
   Nose: ce614a
   Hair: 210c00
+  Eyes: 080c21
+hero_color_presets:
+    Ankle:
+        Suit: E7BAD6
+        Snake Pattern: FFEB0E
+        Underwear: 942C7B
+        Necklace: FFDB6E
+        Clock: 216994
+        Shoes: 946584
+
+    David Jr.:
+        Suit: FFFFF7
+        Snake Pattern: FFEB0E
+        Necklace: FFDB6E
+        Underwear: 8C9652
+        Shoes: 949E84
+        Clock: 216994
+
+    Knuckle:
+
+        Suit: 94A6CE
+        Snake Pattern: FFEB0E
+        Necklace: FFDB6E
+        Underwear: 003C9C
+        Shoes: 214D8C
+        Clock: 216994
+
+    Tingle Statue:
+
+        Suit: FFAA39
+        Snake Pattern: FFDB9C
+        Necklace: FFD794
+        Underwear: FF8E10
+        Belt: FF7900
+        Belt Buckle: FFCB84
+        Shoes: FF8608
+        Clock: FF8608
+        Clock Face: FFCB84
+        Clock Pointer: FF7100
+        Skin: FFCB7B
+        Cheek Pattern: FFAA39
+        Nose: FF9A21
+        Hair: FF6D00
+        Eyes: FFB432
+
+    Lorule Version (Hyrule Warriors):
+
+        Suit: 5C268D
+        Snake Pattern: 2C2CFF
+        Necklace: 646976
+        Underwear: 04289D
+        Shoes: 331550
+        Clock: 59B6CF
+        Clock Face: D2D9E6
+        Clock Pointer: 646976
+        Cheek Pattern: 7E1E26
+
+    Pinkle Skin (Hyrule Warriors):
+
+        Suit: EA339E
+        Snake Pattern: 703751
+        Underwear: 995B65
+        Belt: 4C4945
+        Shoes: 942065
+        Clock: 59B6CF
+        Clock Face: D2D9E6
+        Clock Pointer: 646976
+        Cheek Pattern: 703751
+        Hair: FFDD1A
+
+    Red Tingle (Four Swords Adventures):
+
+        Suit: C12E2A
+        Snake Pattern: FFEB0E
+        Necklace: FFDB6E
+        Underwear: D9711D
+        Shoes: 711918
+        Nose: FFC11F
+
+    Blue Tingle (Four Swords Adventures):
+
+        Suit: 274CD1
+        Snake Pattern: FFEB0E
+        Necklace: FFDB6E
+        Underwear: A74B76
+        Shoes: 152B73
+
+    Dark Tingle:
+
+        Suit: 1A1A1A
+        Snake Pattern: 353535
+        Necklace: 474747
+        Underwear: 1A1A1A
+        Belt: 0B0B0B
+        Belt Buckle: 5E5E5E
+        Shoes: 0C0C0C
+        Clock: 181818
+        Clock Face: 555555
+        Clock Pointer: 1C1C1C
+        Skin: 4E4E4E
+        Cheek Pattern: 414141
+        Nose: 343434
+        Hair: "060606"
+        Eyes: E92831
 casual_custom_colors:
   Pajama Shirt: bdddff
   Collar: 6a92df
@@ -23,6 +127,61 @@ casual_custom_colors:
   Cheek Pattern: d68e7b
   Nose: ce614a
   Hair: 210c00
+  Eyes: 080c21
+casual_color_presets:
+
+     Tingle Suit Colors:
+        Pajama Shirt: 008a31
+        Collar: 005d21
+        Lining: 005d21
+        Pajama Pants: 008a31
+        Shoes: 005D21
+
+     Fairy:
+        Pajama Shirt: FFFFDE
+        Collar: 529E00
+        Lining: 529E00
+        Pajama Pants: FFFFDE
+        Shoes: 529E00
+        Hair: CECF21
+        Eyes: 000021
+
+     Tingle Statue:
+
+        Pajama Shirt: FFAA39
+        Collar: FF8608
+        Lining: FF8608
+        Pajama Pants: FFAA39
+        Shoes: FF8608
+        Skin: FFCB7B
+        Cheek Pattern: FFAA39
+        Nose: FF9A21
+        Hair: FF6D00
+        Eyes: FFB432
+
+     Dark Tingle:
+
+        Pajama Shirt: 333333
+        Collar: 262626
+        Lining: 262626
+        Pajama Pants: 333333
+        Shoes: 232323
+        Skin: 333333
+        Cheek Pattern: 2B2B2B
+        Nose: 222222
+        Hair: 000000
+        Eyes: E92831
+
+     Peter Griffin:
+
+        Pajama Shirt: FFFFFF
+        Collar: 000000
+        Lining: 000000
+        Pajama Pants: 236107
+        Shoes: 451C02
+        Skin: FDB7A1
+        Hair: 7D3203
+        Eyes: FFFFFF
 has_colored_eyebrows: true
 author: FrasseFreak
-comment: The hero the Great Sea needs, but doesn't deserve. To play as his brothers, use these colors. (Sidenote, if you edit the suit, you might wanna change the color of the snake and necklace slightly, or it will look kinda pixelated.                                                                                                                                   Ankle. Suit = e7bad6. Underwear = 942c7b. Clock = 216994. Shoes = 946584.                                                                                                                                            David Jr. Suit = fffff7. Underwear = 8c9652. Clock = 216994. Shoes = 949e84                                                                                                                                                   Knuckle. Suit = 94a6ce. Underwear = 003c9c Clock = 216994. Shoes = 214d8c
+comment: Version 2.0! The hero the Great Sea needs, but doesn't deserve. Soundpack uses Hyrule Warriors Audio, and the casual outfit is a pajama outfit based on the one seen briefly in Tingle's Ripened Balloon Trip of Love. Shields made by the fantabulous DGod63!
