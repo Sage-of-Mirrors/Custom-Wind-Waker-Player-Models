@@ -1,0 +1,18 @@
+Credits:
+Sir. Kilp for:
+Models
+Textures
+Rigging
+
+Goldenknight90 for:
+Sounds
+Hammer Model
+
+Special Thanks to:
+The great people over at the Wind Waker Randomizer Discord
+
+Notes:
+ - We did not come up with the design for the casual clothes.
+I have no idea who made casue its a random image thats been on my desktop for a long time.
+If you think you know DM me on discord and can edit this file.
+ - Some of the models are edited from various model databases.
