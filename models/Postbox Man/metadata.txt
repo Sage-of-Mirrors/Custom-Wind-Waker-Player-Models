@@ -1,0 +1,26 @@
+hero_custom_colors:
+  Body: BD2910
+  Eyes: C60000
+  Eye White: FFFFFF
+  Mail Slot: EFE7DE
+  Hat: C60000
+  Hat Brim: 31214A
+  Belt and Armbands: CE0000
+  Belt Straps: FFD608
+  Banner: CE0000
+  Banner Stick: CEAD6B
+  Banner Straps: C6A521
+  Delivery Bag Front: EFEFB5
+  Delivery Bag Bottom: 630000
+  Delivery Bag Back: 426300
+
+casual_custom_colors:
+  Body: BD2910
+  Eyes: C60000
+  Eye White: FFFFFF
+  Mail Slot: EFE7DE
+
+
+has_colored_eyebrows: false
+author: BigSharkZ
+comment: What is a Postbox Man? A miserable little pile of letters? A Rito in disguise? A machine? The amalgamation of a thousand postmen? Who knows... But one thing's for sure, he's on a mission to deliver a lotta mail. If you want a special message, put the Hero's Charm in your starting items!
