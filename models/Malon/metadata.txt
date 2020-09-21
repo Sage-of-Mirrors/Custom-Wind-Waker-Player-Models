@@ -1,0 +1,42 @@
+hero_custom_colors:
+  Skin: FFE1A9
+  Hair: C12900
+  Eyes: 1879CE
+  Eye White: FFFFFF
+  Dress: FFFFC6
+  Dress Pattern: 3838E2
+  Dress Bottom Pattern: 3838E2
+  Scarf: F3A500
+  Boots: AA3800
+  Boot Soles: 938232
+  Bowser Brooch Mouth: FCD92D
+  Bowser Brooch Inside Mouth and Eyes: 654501
+  Bowser Brooch Hair: F27F1A
+  Bowser Brooch Horns and Teeth: F7E665
+  Bowser Brooch Skin: D8B61C
+
+casual_custom_colors:
+  Skin: FFE1A9
+  Hair: C12900
+  Eyes: 1879CE
+  Eye White: FFFFFF
+  Dress: FFFFC6
+  Dress Pattern: 3838E2
+  Dress Bottom: AE5CD8
+  Dress Bottom Pattern: 5804AD
+  Apron: AD7B38
+  Scarf: F3A500
+  Belt: 79270E
+  Belt Buckle: E9E9C6
+  Boots: AA3800
+  Boot Soles: 938232
+  Bowser Brooch Mouth: FCD92D
+  Bowser Brooch Inside Mouth and Eyes: 654501
+  Bowser Brooch Hair: F27F1A
+  Bowser Brooch Horns and Teeth: F7E665
+  Bowser Brooch Skin: D8B61C
+
+
+has_colored_eyebrows: true
+author: BigSharkZ
+comment: Malon / Romani takes some time away from the ranch to be a hero, all while she delivers fresh milk across the seas! Hero's Charm is the Romani Mask, Casual Clothes are Adult Malon / Cremia, and if you want to use the cucco seagull, you can find the file on the GameBanana page. Also included are hi-res textures that can be used with Dolphin.

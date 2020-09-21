@@ -1,0 +1,4 @@
+GZLE01 = Vanilla
+GZLE99 = Randomizer
+
+Place in Documents > Dolphin Emulator > Load > Textures
