@@ -1,0 +1,63 @@
+hero_custom_colors:
+  Fur primary: 0xFFD886
+  Fur secondary: 0x95633A
+  Ears and beans: 0xFC7847
+  Eyes: 0x53FDFD
+casual_custom_colors:
+  Fur primary: 0xFFD886
+  Fur secondary: 0x95633A
+  Ears and beans: 0xFC7847
+  Eyes: 0x53FDFD
+  Kirin primary: 0xEAEAEA
+  Kirin secondary: 0x647586
+  Kirin hair: 0xF9F1D8
+  Kirin horn: 0x759EB7
+  Kirin bell: 0x6EB0C1
+  Kirin belt: 0xB6502E
+  Kirin purse: 0xCE5B6B
+hero_color_presets:
+  Beats:
+    Fur primary: 0x505050
+    Fur secondary: 0xCC3700
+    Ears and beans: 0x505050
+    Eyes: 0xFFC82B
+  Cryo:
+    Fur primary: 0x78B2E3
+    Fur secondary: 0xFFE9D0
+    Ears and beans: 0xD86554
+    Eyes: 0xFFD81A
+  Fifi:
+    Fur primary: 0xFFE965
+    Fur secondary: 0xFDFDD4
+    Ears and beans: 0xF69C9C
+    Eyes: 0xABFDCC
+  Spex:
+    Fur primary: 0x78C23E
+    Fur secondary: 0xFFE9D0
+    Ears and beans: 0xFF7057
+    Eyes: 0x1FC4A3
+  Floof:
+    Fur primary: 0xFDE5DC
+    Fur secondary: 0xF19EAF
+    Ears and beans: 0xD06D86
+    Eyes: 0x92E5FD
+  Pansy:
+    Fur primary: 0xFFF9F9
+    Fur secondary: 0xEDA3BB
+    Ears and beans: 0xF47857
+    Eyes: 0x61D8E9
+casual_color_presets:
+  Oroshi:
+    Fur primary: 0x474741
+    Fur secondary: 0xFCF4DC
+    Kirin primary: 0x7D7D7D
+    Kirin secondary: 0xB3E6F7
+    Kirin hair: 0xDCE5ED
+    Kirin horn: 0x9775FD
+    Kirin bell: 0x7FA83D
+    Kirin belt: 0x357957
+    Kirin purse: 0x82AB40
+hero_hitomi_color_name: Eyes
+casual_hitomi_color_name: Eyes
+author: lori
+comment: If there's a new outfit from MHST you would like imported, let me know @ lori#6033 on Discord!
