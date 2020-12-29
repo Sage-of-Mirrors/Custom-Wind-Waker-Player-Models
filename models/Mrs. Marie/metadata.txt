@@ -1,0 +1,77 @@
+hero_custom_colors:
+  Hair: bd517b
+  Skin: d6c39c
+  Blush: e79ea5
+  Lipstick: c6598c
+  Eyes: 212152
+  Eyebrows: 4a1c18
+  Pearls: 188ace
+  Scarf: 73cb31
+  Coat: 005952
+  Coat Patterns: b5cf8c
+  Shirt: d68e10
+  Shorts: 390c39
+  Belt: 00599c
+  Leggings: bd386b
+  Shoes: 00246b
+  Shoe Soles: bdb284
+  
+hero_color_presets:
+     Dark Mrs. Marie:
+        Hair: 222222
+        Skin: 2D2D2D
+        Blush: 2E2E2E
+        Lipstick: 252525
+        Eyes: E92831
+        Eyebrows: 0B0B0B
+        Pearls: 1A1A1A
+        Scarf: 1E1E1E
+        Coat: 0D0D0D
+        Coat Patterns: 2B2B2B
+        Shirt: 1D1D1D
+        Shorts: 0C0C0C
+        Belt: 101010
+        Leggings: 202020
+        Shoes: 090909
+        Shoe Soles: 282828
+
+casual_custom_colors:
+  Hair: bd517b
+  Skin: d6c39c
+  Blush: e79ea5
+  Lipstick: c6598c
+  Eyes: 212152
+  Eyebrows: 4a1c18
+  Pearls: 188ace
+  Coat: 005952
+  Coat Patterns: b5cf8c
+  Shirt: d68e10
+  Shorts: 390c39
+  Belt: 00599c
+  Leggings: bd386b
+  Shoes: 00246b
+  Shoe Soles: bdb284
+casual_color_presets:
+
+     Dark Mrs. Marie:
+        Hair: 222222
+        Skin: 2D2D2D
+        Blush: 2E2E2E
+        Lipstick: 252525
+        Eyes: E92831
+        Eyebrows: 0B0B0B
+        Pearls: 1A1A1A
+        Scarf: 1E1E1E
+        Coat: 0D0D0D
+        Coat Patterns: 2B2B2B
+        Shirt: 1D1D1D
+        Shorts: 0C0C0C
+        Belt: 101010
+        Leggings: 202020
+        Shoes: 090909
+        Shoe Soles: 282828
+
+casual_clothes_option_text: Less Detail
+has_colored_eyebrows: false
+author: FrasseFreak
+comment: Mrs. Marie finally has enough of everyone skipping class, and decides to become an adventurer instead. Mirror Shield design drawn by the talented BigSharkZ. Audiopack uses Cia's Hyrule Warriors voice, as I didn't think the sounds Mrs. Marie had in the original game were enough.
