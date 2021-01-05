@@ -1,0 +1,22 @@
+hero_custom_colors:
+  Hat: 3A1322
+  Hair: 2C1D5E
+  Skin: C48888
+  Scarf: 5152E8
+  Coat: 3A1322
+  Legs: 28123D
+
+hero_color_presets:
+  Machine:
+    Hat: 412A4D
+    Hair: 452B52
+    Skin: AA747C
+    Scarf: 7C4C62
+    Coat: 412A4D
+    Legs: 3A1E56
+
+has_colored_eyebrows: false
+hero_hands_color_name: Coat
+author: SilverstarStream
+comment: I'm not a cat! Since Niko is not voiced in OneShot, this custom model uses the silent voice pack. To use Link's voice, check the "Disable Custom Voice" box. Linka's voice also fits the character well. Thank you @xinus22 on Twitter for the Niko model.
+disable_casual_clothes: true
