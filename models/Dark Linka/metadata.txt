@@ -1583,6 +1583,7 @@ casual_color_presets:
 		Flats: 0x670E00
 
 hero_hands_color_name: "Hands"
+casual_hands_color_name: "Hands"
 has_colored_eyebrows: false
 author: BigSharkZ
 comment: FULL PACK DOWNLOAD https://gamebanana.com/skins/183469 Dark Linka, also known as Kirie, is a snarky and mischievous version of Linka from a cursed timeline. She is accompanied by the Prince of Dark Dragons and always wants to be one step ahead of her pure-hearted counterpart. It is highly recommended to download the full pack on GameBanana for many extras, such as UI, animation and text changes, a custom soundtrack, new models and maps, and a final fight you won't want to miss!
