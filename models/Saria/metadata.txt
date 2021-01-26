@@ -1,20 +1,20 @@
 hero_custom_colors:
-  Hair: 88DD44
-  Hairband: 224422
-  Shirt: 66BB11
-  Pants: 66BB11
-  Sleeves: 224422
-  Belt: 224422
-  Boots: 117722
-  Skin: FFDDAA
+  Hair: 0x88DD44
+  Hairband: 0x224422
+  Shirt: 0x66BB11
+  Pants: 0x66BB11
+  Sleeves: 0x224422
+  Belt: 0x224422
+  Boots: 0x117722
+  Skin: 0xFFDDAA
 casual_custom_colors:
-  Hair: 88DD44
-  Shirt: 66BB11
-  Pants: 66BB11
-  Sleeves: 224422
-  Belt: 224422
-  Boots: 117722
-  Skin: FFDDAA
+  Hair: 0x88DD44
+  Shirt: 0x66BB11
+  Pants: 0x66BB11
+  Sleeves: 0x224422
+  Belt: 0x224422
+  Boots: 0x117722
+  Skin: 0xFFDDAA
 has_colored_eyebrows: true
 author: InTheBeef - Original Model by KromosRuby
 comment: Contact me @InTheBeef(#1252)

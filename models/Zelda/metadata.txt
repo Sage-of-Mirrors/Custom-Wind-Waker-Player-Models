@@ -1,11 +1,11 @@
 hero_custom_colors:
- Hair: ffef10
- Skin: f7e3d6
- Accessory: e7cb00
- Dress: e7aeef
+ Hair: 0xffef10
+ Skin: 0xf7e3d6
+ Accessory: 0xe7cb00
+ Dress: 0xe7aeef
 casual_custom_colors:
- Hair: ffef10
- Skin: f6e2d5
- Accessory: e7cb00
- Dress: 0084ff
+ Hair: 0xffef10
+ Skin: 0xf6e2d5
+ Accessory: 0xe7cb00
+ Dress: 0x0084ff
 author: Sir. Kilp & Goldenknight90

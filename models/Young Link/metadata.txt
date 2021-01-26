@@ -1,111 +1,111 @@
 hero_custom_colors:
-  Skin: f7db9c
-  Hair: ffcb0e
-  Tunic: 237a19
-  Torso Belt: 633008
-  Belt Buckles: ffef10
-  Waist Belt: 7b1d03
-  Boot Cuffs: d8913e
-  Boots: 944908
-  Eyes: 105483
-  Eye White: eff7ff
+  Skin: 0xf7db9c
+  Hair: 0xffcb0e
+  Tunic: 0x237a19
+  Torso Belt: 0x633008
+  Belt Buckles: 0xffef10
+  Waist Belt: 0x7b1d03
+  Boot Cuffs: 0xd8913e
+  Boots: 0x944908
+  Eyes: 0x105483
+  Eye White: 0xeff7ff
 casual_custom_colors:
-  Skin: f7db9c
-  Hair: ffcb0e
-  Tunic: 237a19
-  Belt Buckle: ffef10
-  Belt: 7b1d03
-  Boot Cuffs: d8913e
-  Boots: 944908
-  Eyes: 105483
-  Eye White: eff7ff
+  Skin: 0xf7db9c
+  Hair: 0xffcb0e
+  Tunic: 0x237a19
+  Belt Buckle: 0xffef10
+  Belt: 0x7b1d03
+  Boot Cuffs: 0xd8913e
+  Boots: 0x944908
+  Eyes: 0x105483
+  Eye White: 0xeff7ff
 has_colored_eyebrows: true
 author: Bird of Light
 
 hero_color_presets:
     Goron Tunic:
-        Tunic: 900000
-        Waist Belt: 9E2B27
+        Tunic: 0x900000
+        Waist Belt: 0x9E2B27
         
     Zora Tunic:
-        Tunic: 00007F
+        Tunic: 0x00007F
     
     Smash White Tunic:
-        Tunic: c8c4ef
+        Tunic: 0xc8c4ef
         
     Smash Pink Tunic:
-        Tunic: ed87b3
+        Tunic: 0xed87b3
     
     Smash Light Blue Tunic:
-        Tunic: 63abca
+        Tunic: 0x63abca
     
     Smash Orange Tunic:
-        Tunic: eb8444
+        Tunic: 0xeb8444
     
     Dark Link:
-        Skin: 000000
-        Hair: 000000
-        Tunic: 000000
-        Torso Belt: 000000
-        Belt Buckles: 000000
-        Waist Belt: 000000
-        Boot Cuffs: 000000
-        Boots: 000000
-        Eyes: FF0000
-        Eye White: 000000
+        Skin: 0x000000
+        Hair: 0x000000
+        Tunic: 0x000000
+        Torso Belt: 0x000000
+        Belt Buckles: 0x000000
+        Waist Belt: 0x000000
+        Boot Cuffs: 0x000000
+        Boots: 0x000000
+        Eyes: 0xFF0000
+        Eye White: 0x000000
     
     Smash Dark Link:
-        Skin: 6F7085
-        Hair: E4E0E9
-        Tunic: 4F5054
-        Torso Belt: 242324
-        Belt Buckles: 666666
-        Waist Belt: 242324
-        Boot Cuffs: 94949E
-        Boots: 514F51
-        Eyes: EE67A2
-        Eye White: B94278
+        Skin: 0x6F7085
+        Hair: 0xE4E0E9
+        Tunic: 0x4F5054
+        Torso Belt: 0x242324
+        Belt Buckles: 0x666666
+        Waist Belt: 0x242324
+        Boot Cuffs: 0x94949E
+        Boots: 0x514F51
+        Eyes: 0xEE67A2
+        Eye White: 0xB94278
         
 casual_color_presets:
     Goron Tunic:
-        Tunic: 900000
-        Belt: 9E2B27
+        Tunic: 0x900000
+        Belt: 0x9E2B27
         
     Zora Tunic:
-        Tunic: 00007F
+        Tunic: 0x00007F
     
     Smash White Tunic:
-        Tunic: c8c4ef
+        Tunic: 0xc8c4ef
         
     Smash Pink Tunic:
-        Tunic: ed87b3
+        Tunic: 0xed87b3
     
     Smash Light Blue Tunic:
-        Tunic: 63abca
+        Tunic: 0x63abca
     
     Smash Orange Tunic:
-        Tunic: eb8444
+        Tunic: 0xeb8444
     
     Dark Link:
-        Skin: 000000
-        Hair: 000000
-        Tunic: 000000
-        Belt Buckle: 000000
-        Belt: 000000
-        Boot Cuffs: 000000
-        Boots: 000000
-        Eyes: FF0000
-        Eye White: 000000
+        Skin: 0x000000
+        Hair: 0x000000
+        Tunic: 0x000000
+        Belt Buckle: 0x000000
+        Belt: 0x000000
+        Boot Cuffs: 0x000000
+        Boots: 0x000000
+        Eyes: 0xFF0000
+        Eye White: 0x000000
     
     Smash Dark Link:
-        Skin: 6F7085
-        Hair: E4E0E9
-        Tunic: 4F5054
-        Belt Buckle: 666666
-        Belt: 242324
-        Boot Cuffs: 94949E
-        Boots: 514F51
-        Eyes: EE67A2
-        Eye White: B94278
+        Skin: 0x6F7085
+        Hair: 0xE4E0E9
+        Tunic: 0x4F5054
+        Belt Buckle: 0x666666
+        Belt: 0x242324
+        Boot Cuffs: 0x94949E
+        Boots: 0x514F51
+        Eyes: 0xEE67A2
+        Eye White: 0xB94278
         
 comment: Credit to PizzaDog for the eye textures and BigSharkZ for general help!

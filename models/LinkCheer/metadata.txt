@@ -1,7 +1,7 @@
 hero_custom_colors:
-  Hair: F7EF10
-  ShirtAndSkirt: F154F9
-  Skin: F7DB9C
-  PonytailRibbon: EB30F3 
+  Hair: 0xF7EF10
+  ShirtAndSkirt: 0xF154F9
+  Skin: 0xF7DB9C
+  PonytailRibbon: 0xEB30F3 
 has_colored_eyebrows: false
 author: InTheBeef

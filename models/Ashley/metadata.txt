@@ -1,22 +1,22 @@
 hero_custom_colors:
-  Skin: ffddbb
-  Hair: 2f2e2b
-  Hairband: ff9933
-  Dress: bb1122
-  Sleeves: bb1122
-  Neckpiece: dd8822
-  Skull: ddcc11
-  Dress-Bottom: dd8822
-  Tights: 2f2e2b
-  Shoes: bb1122
+  Skin: 0xffddbb
+  Hair: 0x2f2e2b
+  Hairband: 0xff9933
+  Dress: 0xbb1122
+  Sleeves: 0xbb1122
+  Neckpiece: 0xdd8822
+  Skull: 0xddcc11
+  Dress-Bottom: 0xdd8822
+  Tights: 0x2f2e2b
+  Shoes: 0xbb1122
 casual_custom_colors:
-  Skin: ffddbb
-  Hair: 2f2e2b
-  Pajama-Dress: e5e7e4
-  Pajama-Sleeves: e5e7e4
-  Pajama-Dress-Bottom: b1b1ae
-  Legs: ffddbb
-  Shoes: e5e7e4
+  Skin: 0xffddbb
+  Hair: 0x2f2e2b
+  Pajama-Dress: 0xe5e7e4
+  Pajama-Sleeves: 0xe5e7e4
+  Pajama-Dress-Bottom: 0xb1b1ae
+  Legs: 0xffddbb
+  Shoes: 0xe5e7e4
 has_colored_eyebrows: true
 author: BigSharkZ
 comment: Who's the girl next door living on a haunted island?

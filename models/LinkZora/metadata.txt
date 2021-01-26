@@ -1,14 +1,14 @@
 hero_custom_colors:
-  Skin: C6EFEF
-  Secondary Skin: 52AEAD
-  Tunic: 52B24A
-  Undershirt: A5E342
-  Pants or Skin: C6EFEF
+  Skin: 0xC6EFEF
+  Secondary Skin: 0x52AEAD
+  Tunic: 0x52B24A
+  Undershirt: 0xA5E342
+  Pants or Skin: 0xC6EFEF
 casual_custom_colors:
-  Skin: C6EFEF
-  Secondary Skin: 52AEAD
-  Skirt: 52B24A
-  Pants or Skin: C6EFEF
+  Skin: 0xC6EFEF
+  Secondary Skin: 0x52AEAD
+  Skirt: 0x52B24A
+  Pants or Skin: 0xC6EFEF
 has_colored_eyebrows: false
 author: InTheBeef
 comment: Contact me @InTheBeef(#1252)

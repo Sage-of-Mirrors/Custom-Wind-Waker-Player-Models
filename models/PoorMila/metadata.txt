@@ -1,13 +1,13 @@
 hero_custom_colors:
-  Hair: E7E300
-  Skin: EFDEBD
-  Clothes: 57B249
-  Hairband: ADE342
+  Hair: 0xE7E300
+  Skin: 0xEFDEBD
+  Clothes: 0x57B249
+  Hairband: 0xADE342
 casual_custom_colors:
-  Hair: DECE10
-  Skin: EFDEBD
-  Clothes: 9C8C73
-  Patch: 526373
+  Hair: 0xDECE10
+  Skin: 0xEFDEBD
+  Clothes: 0x9C8C73
+  Patch: 0x526373
 has_colored_eyebrows: true
 revision: 1
 author: Ikey Ilex

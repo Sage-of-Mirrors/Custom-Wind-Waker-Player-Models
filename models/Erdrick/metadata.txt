@@ -1,14 +1,14 @@
 hero_custom_colors:
-  Hair: 000000
-  Tunic 1: 15A9DF
-  Tunic 2: FFD851
-  Gem: 18B5E4
-  Gloves & Boots: 8E8E5B
-  Metal: D7EAF0
-  Scarf: D45FC7
-  Belts: A18B59
-  Skin: F7DB9C
-  Iris: 000000
+  Hair: 0x000000
+  Tunic 1: 0x15A9DF
+  Tunic 2: 0xFFD851
+  Gem: 0x18B5E4
+  Gloves & Boots: 0x8E8E5B
+  Metal: 0xD7EAF0
+  Scarf: 0xD45FC7
+  Belts: 0xA18B59
+  Skin: 0xF7DB9C
+  Iris: 0x000000
 
 hero_hands_color_name: Gloves & Boots
 casual_hands_color_name: Gloves & Boots

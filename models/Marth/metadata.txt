@@ -1,38 +1,38 @@
 hero_custom_colors:
-  Headpiece: dfc673
-  Hair: 455892
-  Skin: f7db9c
-  Cape: 3e7796
-  Inner Cape: 8f302c
-  Cape Clasp: dfc673
-  Cape Clasp Gem: ee1111
-  Shoulderplates: 3e3e4f
-  Shoulderplate Trim: cba562
-  Chestplate: 3e3e4f
-  Chestplate Trim: cba562
-  Tunic: 345871
-  Tunic Trim: f4db78
-  Tunic Cuffs: ffffff
-  Bracers: 313135
-  Bracer Belts: 653e2c
-  Belts: 653e2c
-  Belt Buckles: b2a1a1
-  Pants: 313135
-  Boots: 614838
-  Boot Straps: 957557
-  Boot Armor: 998978
-  Boot Cuffs: ffffff
+  Headpiece: 0xdfc673
+  Hair: 0x455892
+  Skin: 0xf7db9c
+  Cape: 0x3e7796
+  Inner Cape: 0x8f302c
+  Cape Clasp: 0xdfc673
+  Cape Clasp Gem: 0xee1111
+  Shoulderplates: 0x3e3e4f
+  Shoulderplate Trim: 0xcba562
+  Chestplate: 0x3e3e4f
+  Chestplate Trim: 0xcba562
+  Tunic: 0x345871
+  Tunic Trim: 0xf4db78
+  Tunic Cuffs: 0xffffff
+  Bracers: 0x313135
+  Bracer Belts: 0x653e2c
+  Belts: 0x653e2c
+  Belt Buckles: 0xb2a1a1
+  Pants: 0x313135
+  Boots: 0x614838
+  Boot Straps: 0x957557
+  Boot Armor: 0x998978
+  Boot Cuffs: 0xffffff
 casual_custom_colors:
-  Headpiece: dfc673
-  Hair: 2d3d8e
-  Skin: f7db9c
-  Cape: 2d3d8e
-  Shoulderplates: 413d8f
-  Shoulderplate Trim: dfc673
-  Tunic: 85bccb
-  Tunic Belt: 292f35
-  Arm Straps: 653e2c
-  Belt: dfc673
-  Belt Gem: ee1111
-  Boots: 653e2c
+  Headpiece: 0xdfc673
+  Hair: 0x2d3d8e
+  Skin: 0xf7db9c
+  Cape: 0x2d3d8e
+  Shoulderplates: 0x413d8f
+  Shoulderplate Trim: 0xdfc673
+  Tunic: 0x85bccb
+  Tunic Belt: 0x292f35
+  Arm Straps: 0x653e2c
+  Belt: 0xdfc673
+  Belt Gem: 0xee1111
+  Boots: 0x653e2c
 author: Colonel Birdstrong

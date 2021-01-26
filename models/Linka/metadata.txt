@@ -1,27 +1,27 @@
 hero_custom_colors:
-  Skin: F7DB9C
-  Eyes: 415E8F
-  Eye White: FFFFFF
-  Hair: F7D538
-  Tunic: 528F3D
-  Hands: F7DB9C
-  Bracers: 944908
-  Bracers2: 633408
-  Belt: 633008
-  Belt_Buckle: F7D538
-  Stockings and Shirt: FFFCFC
-  Legs: F7DB9C
-  Boots: E58C3F
-  Boots2: 944908
+  Skin: 0xF7DB9C
+  Eyes: 0x415E8F
+  Eye White: 0xFFFFFF
+  Hair: 0xF7D538
+  Tunic: 0x528F3D
+  Hands: 0xF7DB9C
+  Bracers: 0x944908
+  Bracers2: 0x633408
+  Belt: 0x633008
+  Belt_Buckle: 0xF7D538
+  Stockings and Shirt: 0xFFFCFC
+  Legs: 0xF7DB9C
+  Boots: 0xE58C3F
+  Boots2: 0x944908
 
 casual_custom_colors:
-  Skin: F7DB9C
-  Eyes: 415E8F
-  Eye White: FFFFFF
-  Hair: F7D538
-  Dress: 4379BE
-  Leggings and Shirt: 65496A
-  Shoes: 4379BE
+  Skin: 0xF7DB9C
+  Eyes: 0x415E8F
+  Eye White: 0xFFFFFF
+  Hair: 0xF7D538
+  Dress: 0x4379BE
+  Leggings and Shirt: 0x65496A
+  Shoes: 0x4379BE
 
 
 hero_hands_color_name: "Hands"

@@ -1,19 +1,19 @@
 hero_custom_colors:
-  Hat: 3A1322
-  Hair: 2C1D5E
-  Skin: C48888
-  Scarf: 5152E8
-  Coat: 3A1322
-  Legs: 28123D
+  Hat: 0x3A1322
+  Hair: 0x2C1D5E
+  Skin: 0xC48888
+  Scarf: 0x5152E8
+  Coat: 0x3A1322
+  Legs: 0x28123D
 
 hero_color_presets:
   Machine:
-    Hat: 412A4D
-    Hair: 452B52
-    Skin: AA747C
-    Scarf: 7C4C62
-    Coat: 412A4D
-    Legs: 3A1E56
+    Hat: 0x412A4D
+    Hair: 0x452B52
+    Skin: 0xAA747C
+    Scarf: 0x7C4C62
+    Coat: 0x412A4D
+    Legs: 0x3A1E56
 
 has_colored_eyebrows: false
 hero_hands_color_name: Coat

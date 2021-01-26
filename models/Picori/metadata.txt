@@ -1,20 +1,20 @@
 hero_custom_colors:
-  Leafs: 6cb542
-  Cap: c53d31
-  Pants: 986d38
-  Jewelry: fff67f
-  Hair: cb9a5f
-  Tail Start: e2e4cc
-  Tail End: c53d31
-  Bracelets: 6cb542
-  Blush: f0926c
-  Skin: f8edb8
+  Leafs: 0x6cb542
+  Cap: 0xc53d31
+  Pants: 0x986d38
+  Jewelry: 0xfff67f
+  Hair: 0xcb9a5f
+  Tail Start: 0xe2e4cc
+  Tail End: 0xc53d31
+  Bracelets: 0x6cb542
+  Blush: 0xf0926c
+  Skin: 0xf8edb8
 casual_custom_colors:
-  Leafs: 42a6b5
-  Pants: 3155c6
-  Jewelry: e7e7ce
-  Bracelets: 42a6b5
-  Blush: f0926c
-  Skin: f8edb8
+  Leafs: 0x42a6b5
+  Pants: 0x3155c6
+  Jewelry: 0xe7e7ce
+  Bracelets: 0x42a6b5
+  Blush: 0xf0926c
+  Skin: 0xf8edb8
 author: SnipSlum
 comment: You're not hiding rupees in pots, or grass this time- You're collecting them. :^)

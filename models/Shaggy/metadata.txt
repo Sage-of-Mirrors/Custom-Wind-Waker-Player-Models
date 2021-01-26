@@ -1,10 +1,10 @@
 hero_custom_colors:
-  Skin: fed38c
-  Hair: e9af10
-  FacialHair: 231f20
-  Shirt: b8be19
-  Pants: a44138
-  Shoes: 41525c
+  Skin: 0xfed38c
+  Hair: 0xe9af10
+  FacialHair: 0x231f20
+  Shirt: 0xb8be19
+  Pants: 0xa44138
+  Shoes: 0x41525c
 
 has_colored_eyebrows: true
 eyebrow_color_name: FacialHair

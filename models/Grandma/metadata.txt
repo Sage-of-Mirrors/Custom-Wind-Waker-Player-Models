@@ -1,15 +1,15 @@
 hero_custom_colors:
-  Hair: f7f7d6
-  Shoes: 522d10
-  Skin: c6b68c
-  TunicA: 55a340
-  TunicB: 8dc13f
+  Hair: 0xf7f7d6
+  Shoes: 0x522d10
+  Skin: 0xc6b68c
+  TunicA: 0x55a340
+  TunicB: 0x8dc13f
 casual_custom_colors:
-  Hair: f7f7d6
-  Shoes: 670e00
-  Skin: c6b68c
-  TunicA: 943c21
-  TunicB: 8c5d8c
+  Hair: 0xf7f7d6
+  Shoes: 0x670e00
+  Skin: 0xc6b68c
+  TunicA: 0x943c21
+  TunicB: 0x8c5d8c
 has_colored_eyebrows: false
 author: Follyknight
 comment: Hi, thanks for checking out Grandma! This was my first time modding a game, so let me know if you find any game-breaking grandma bugs, thanks!

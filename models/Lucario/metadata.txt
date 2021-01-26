@@ -1,18 +1,18 @@
 hero_custom_colors:
-  Skin: 4898E8
-  Fur: 585858
-  Chest: E0E098
-  Crayfish: E0E098
-  Footpads: FF9999
-  Spikes: FFFFFF
-  Scarf: 5AB24A
+  Skin: 0x4898E8
+  Fur: 0x585858
+  Chest: 0xE0E098
+  Crayfish: 0xE0E098
+  Footpads: 0xFF9999
+  Spikes: 0xFFFFFF
+  Scarf: 0x5AB24A
 casual_custom_colors:
-  Skin: 4898E8
-  Fur: 585858
-  Chest: E0E098
-  Crayfish: E0E098
-  Footpads: FF9999
-  Spikes: FFFFFF
+  Skin: 0x4898E8
+  Fur: 0x585858
+  Chest: 0xE0E098
+  Crayfish: 0xE0E098
+  Footpads: 0xFF9999
+  Spikes: 0xFFFFFF
 has_colored_eyebrows: false
 revision: 3
 author: Ikey Ilex

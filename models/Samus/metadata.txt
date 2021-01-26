@@ -1,20 +1,20 @@
 hero_custom_colors:
-  Suit Orange: ff981d
-  Suit Yellow: facb33
-  Suit Red: d73211
-  Suit Black: 16181b
-  Arm Cannon: 2e4b46
-  Metal Trim: 9c9c9c
-  Suit Lights: 7fdd45
-  Cannon Lights: f08e3f
+  Suit Orange: 0xff981d
+  Suit Yellow: 0xfacb33
+  Suit Red: 0xd73211
+  Suit Black: 0x16181b
+  Arm Cannon: 0x2e4b46
+  Metal Trim: 0x9c9c9c
+  Suit Lights: 0x7fdd45
+  Cannon Lights: 0xf08e3f
 casual_custom_colors:
-  Suit Orange: ff981d
-  Suit Yellow: facb33
-  Suit Red: d73211
-  Suit Black: 16181b
-  Arm Cannon: 2e4b46
-  Metal Trim: 9c9c9c
-  Suit Lights: 7fdd45
-  Cannon Lights: f08e3f
+  Suit Orange: 0xff981d
+  Suit Yellow: 0xfacb33
+  Suit Red: 0xd73211
+  Suit Black: 0x16181b
+  Arm Cannon: 0x2e4b46
+  Metal Trim: 0x9c9c9c
+  Suit Lights: 0x7fdd45
+  Cannon Lights: 0xf08e3f
 author: Bird of Light
 comment: Ask before using Samus for a race or tournament! Due to using her arm cannon instead of the vanilla bow, she may be illegible for race/tournament use.

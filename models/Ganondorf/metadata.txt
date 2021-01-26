@@ -1,36 +1,36 @@
 hero_custom_colors:
-  Skin: 807b5d
-  Hair: ea6c37
-  Eyes - iris: b0531f
-  Eyes - sclera: ffffff
-  Shirt: 9f4c51
-  Pants: c9d7d5
-  Jacket: 353a3f
-  Jacket trim: e88237
-  Jacket emblem: 9f4c51
-  Boots: 5e5751
-  Belt: efe9db
-  Belt pattern 1: 73938f
-  Belt pattern 2: 7b454a
-  Armbands: c9d7d5
-  Armor 1: aa7a2f
-  Armor 2: 40c483
-  Armor gem: fee523
-  Straps: 4b4642
+  Skin: 0x807b5d
+  Hair: 0xea6c37
+  Eyes - iris: 0xb0531f
+  Eyes - sclera: 0xffffff
+  Shirt: 0x9f4c51
+  Pants: 0xc9d7d5
+  Jacket: 0x353a3f
+  Jacket trim: 0xe88237
+  Jacket emblem: 0x9f4c51
+  Boots: 0x5e5751
+  Belt: 0xefe9db
+  Belt pattern 1: 0x73938f
+  Belt pattern 2: 0x7b454a
+  Armbands: 0xc9d7d5
+  Armor 1: 0xaa7a2f
+  Armor 2: 0x40c483
+  Armor gem: 0xfee523
+  Straps: 0x4b4642
 casual_custom_colors:
-  Skin: 807b5d
-  Hair: ea6c37
-  Eyes - iris: b0531f
-  Eyes - sclera: ffffff
-  Shirt: 807b5d
-  Pants: c9d7d5
-  Jacket: 353a3f
-  Jacket trim: e88237
-  Jacket emblem: 73938f
-  Boots: 5e5751
-  Belt 1: 7b454a
-  Belt 2: e5dfce
-  Earrings: aa7a2f
+  Skin: 0x807b5d
+  Hair: 0xea6c37
+  Eyes - iris: 0xb0531f
+  Eyes - sclera: 0xffffff
+  Shirt: 0x807b5d
+  Pants: 0xc9d7d5
+  Jacket: 0x353a3f
+  Jacket trim: 0xe88237
+  Jacket emblem: 0x73938f
+  Boots: 0x5e5751
+  Belt 1: 0x7b454a
+  Belt 2: 0xe5dfce
+  Earrings: 0xaa7a2f
 has_colored_eyebrows: true
 casual_hair_color_name: Earrings
 author: Adhexas

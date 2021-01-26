@@ -1,17 +1,17 @@
 hero_custom_colors:
-  Afro: 160F08
-  Shirt: B5B5C9
-  Hoodie: 295118
-  Sleeves: 295118
-  Jeans: 2A2A2A
-  Belt_Buckle: 494949
-  Shoes: 083408
+  Afro: 0x160F08
+  Shirt: 0xB5B5C9
+  Hoodie: 0x295118
+  Sleeves: 0x295118
+  Jeans: 0x2A2A2A
+  Belt_Buckle: 0x494949
+  Shoes: 0x083408
 casual_custom_colors:
-  Hair: 160F08
-  Tank_Top: B5B5C9
-  Jeans: 2A3A55
-  Belt_Buckle: 74726B
-  Shoes: 0E0E0E
+  Hair: 0x160F08
+  Tank_Top: 0xB5B5C9
+  Jeans: 0x2A3A55
+  Belt_Buckle: 0x74726B
+  Shoes: 0x0E0E0E
 has_colored_eyebrows: false
 author: BigSharkZ
 comment: After five years on East Island, it was time to go home. Grove Island for life!

@@ -1,21 +1,21 @@
 hero_custom_colors:
-  Helmet Red: 831020
-  Helmet Emblem: E7B620
-  Helmet Emblem Trim: 7A440A
-  Arms & Inside Suit: CE8252
-  Gloves: B59E4A
-  Belt Gear: 558948
-  Belt: 000000
-  Scarf: C19855
-  Skin: F7DB9C
-  Silver: AFACA7
-  Shoes: D3D300
-  Suit Trim: FFFFFF
-  Suit Blue: 393C52
-  Back Gold: 735A31
-  Back Red: AA2C32
-  Back Blue: 393C52
-  Back White: E8E6EF
+  Helmet Red: 0x831020
+  Helmet Emblem: 0xE7B620
+  Helmet Emblem Trim: 0x7A440A
+  Arms & Inside Suit: 0xCE8252
+  Gloves: 0xB59E4A
+  Belt Gear: 0x558948
+  Belt: 0x000000
+  Scarf: 0xC19855
+  Skin: 0xF7DB9C
+  Silver: 0xAFACA7
+  Shoes: 0xD3D300
+  Suit Trim: 0xFFFFFF
+  Suit Blue: 0x393C52
+  Back Gold: 0x735A31
+  Back Red: 0xAA2C32
+  Back Blue: 0x393C52
+  Back White: 0xE8E6EF
 
 hero_hands_color_name: Gloves
 casual_hands_color_name: Gloves

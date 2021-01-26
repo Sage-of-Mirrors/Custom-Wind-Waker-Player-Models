@@ -1,40 +1,40 @@
 hero_custom_colors:
-  Skin: FFE1A9
-  Hair: C12900
-  Eyes: 1879CE
-  Eye White: FFFFFF
-  Dress: FFFFC6
-  Dress Pattern: 3838E2
-  Dress Bottom Pattern: 3838E2
-  Scarf: F3A500
-  Boots: AA3800
-  Boot Soles: 938232
-  Bowser Brooch Mouth: FCD92D
-  Bowser Brooch Inside Mouth and Eyes: 654501
-  Bowser Brooch Hair: F27F1A
-  Bowser Brooch Horns and Teeth: F7E665
-  Bowser Brooch Skin: D8B61C
+  Skin: 0xFFE1A9
+  Hair: 0xC12900
+  Eyes: 0x1879CE
+  Eye White: 0xFFFFFF
+  Dress: 0xFFFFC6
+  Dress Pattern: 0x3838E2
+  Dress Bottom Pattern: 0x3838E2
+  Scarf: 0xF3A500
+  Boots: 0xAA3800
+  Boot Soles: 0x938232
+  Bowser Brooch Mouth: 0xFCD92D
+  Bowser Brooch Inside Mouth and Eyes: 0x654501
+  Bowser Brooch Hair: 0xF27F1A
+  Bowser Brooch Horns and Teeth: 0xF7E665
+  Bowser Brooch Skin: 0xD8B61C
 
 casual_custom_colors:
-  Skin: FFE1A9
-  Hair: C12900
-  Eyes: 1879CE
-  Eye White: FFFFFF
-  Dress: FFFFC6
-  Dress Pattern: 3838E2
-  Dress Bottom: AE5CD8
-  Dress Bottom Pattern: 5804AD
-  Apron: AD7B38
-  Scarf: F3A500
-  Belt: 79270E
-  Belt Buckle: E9E9C6
-  Boots: AA3800
-  Boot Soles: 938232
-  Bowser Brooch Mouth: FCD92D
-  Bowser Brooch Inside Mouth and Eyes: 654501
-  Bowser Brooch Hair: F27F1A
-  Bowser Brooch Horns and Teeth: F7E665
-  Bowser Brooch Skin: D8B61C
+  Skin: 0xFFE1A9
+  Hair: 0xC12900
+  Eyes: 0x1879CE
+  Eye White: 0xFFFFFF
+  Dress: 0xFFFFC6
+  Dress Pattern: 0x3838E2
+  Dress Bottom: 0xAE5CD8
+  Dress Bottom Pattern: 0x5804AD
+  Apron: 0xAD7B38
+  Scarf: 0xF3A500
+  Belt: 0x79270E
+  Belt Buckle: 0xE9E9C6
+  Boots: 0xAA3800
+  Boot Soles: 0x938232
+  Bowser Brooch Mouth: 0xFCD92D
+  Bowser Brooch Inside Mouth and Eyes: 0x654501
+  Bowser Brooch Hair: 0xF27F1A
+  Bowser Brooch Horns and Teeth: 0xF7E665
+  Bowser Brooch Skin: 0xD8B61C
 
 
 has_colored_eyebrows: true

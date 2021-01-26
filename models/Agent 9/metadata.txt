@@ -1,27 +1,27 @@
 hero_custom_colors:
-  Helmet Blade and Shoulder Pads: 943839
-  Helmet and Belt Buckle: a5a6a5
-  Hair: 6b4939
-  Eyes: dea25a
-  Ears: 9c6142
-  Muzzle: b58a63
-  Suit: 9cc03e
-  Back Patch: 5a7118
-  Sleeves: b54939
-  Gloves: b54939
-  Belt: 4c4529
-  Boots: 5a5539
+  Helmet Blade and Shoulder Pads: 0x943839
+  Helmet and Belt Buckle: 0xa5a6a5
+  Hair: 0x6b4939
+  Eyes: 0xdea25a
+  Ears: 0x9c6142
+  Muzzle: 0xb58a63
+  Suit: 0x9cc03e
+  Back Patch: 0x5a7118
+  Sleeves: 0xb54939
+  Gloves: 0xb54939
+  Belt: 0x4c4529
+  Boots: 0x5a5539
 casual_custom_colors:
-  Hair: 6b4939
-  Eyes: dea25a
-  Ears: ad6963
-  Muzzle: b58a63
-  Suit: 9cbe21
-  Shoulder Pads: 943839
-  Arms: 6b4939
-  Gloves: c65121
-  Belt: 104100
-  Boots: 6b6d5a
+  Hair: 0x6b4939
+  Eyes: 0xdea25a
+  Ears: 0xad6963
+  Muzzle: 0xb58a63
+  Suit: 0x9cbe21
+  Shoulder Pads: 0x943839
+  Arms: 0x6b4939
+  Gloves: 0xc65121
+  Belt: 0x104100
+  Boots: 0x6b6d5a
 
 hero_hands_color_name: "Gloves"
 casual_hands_color_name: "Gloves"

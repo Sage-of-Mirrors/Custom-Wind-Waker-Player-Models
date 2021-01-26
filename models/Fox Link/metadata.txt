@@ -1,22 +1,22 @@
 hero_custom_colors:
-  Hair: FFEE10
-  Pupils: AA8111
-  Fur: C45F00
-  Fur 2: 1B1B1B
-  Fur 3: FFFAFA
-  Fur 4: F7FFFF
-  Shirt: 5AB24A
-  Undershirt: ACE241
-  Pants: FFFFFF
+  Hair: 0xFFEE10
+  Pupils: 0xAA8111
+  Fur: 0xC45F00
+  Fur 2: 0x1B1B1B
+  Fur 3: 0xFFFAFA
+  Fur 4: 0xF7FFFF
+  Shirt: 0x5AB24A
+  Undershirt: 0xACE241
+  Pants: 0xFFFFFF
 casual_custom_colors:
-  Hair: FFEE10
-  Pupils: AA8111
-  Fur: C45F00
-  Fur 2: 1B1B1B
-  Fur 3: FFFAFA
-  Fur 4: F7FFFF
-  Shirt: 4A75AC
-  Pants: FFA100
+  Hair: 0xFFEE10
+  Pupils: 0xAA8111
+  Fur: 0xC45F00
+  Fur 2: 0x1B1B1B
+  Fur 3: 0xFFFAFA
+  Fur 4: 0xF7FFFF
+  Shirt: 0x4A75AC
+  Pants: 0xFFA100
 has_colored_eyebrows: false
 revision: 4
 hero_hands_color_name: Fur 2

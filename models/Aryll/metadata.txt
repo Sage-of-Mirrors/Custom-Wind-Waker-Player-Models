@@ -1,13 +1,13 @@
 hero_custom_colors:
-  Hair: f7ef10
-  Skin: d6c3a5
-  Tunic1: 52aabd
-  Tunic2: e75d29
+  Hair: 0xf7ef10
+  Skin: 0xd6c3a5
+  Tunic1: 0x52aabd
+  Tunic2: 0xe75d29
 casual_custom_colors:
-  Hair: f7ef10
-  Skin: d6c3a5
-  Tunic1: 943462
-  Tunic2: eeeede
+  Hair: 0xf7ef10
+  Skin: 0xd6c3a5
+  Tunic1: 0x943462
+  Tunic2: 0xeeeede
 has_colored_eyebrows: true
 author: Laenthor
 comment: Custom audio is Link's voice pitched up by 10% (remove sound folder to keep original voice)

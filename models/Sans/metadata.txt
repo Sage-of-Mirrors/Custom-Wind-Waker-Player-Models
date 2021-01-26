@@ -1,20 +1,20 @@
 hero_custom_colors:
-  Coat: 008FE0
-  Crayfish: 008FE0
-  Shirt: dfdfd0
-  Shorts 1: 111111
-  Shorts 2: FFFFFF
-  Slippers: CA5F6E
-  Zipper: CCCCCC
-  Skin: FFFFFF
+  Coat: 0x008FE0
+  Crayfish: 0x008FE0
+  Shirt: 0xdfdfd0
+  Shorts 1: 0x111111
+  Shorts 2: 0xFFFFFF
+  Slippers: 0xCA5F6E
+  Zipper: 0xCCCCCC
+  Skin: 0xFFFFFF
 casual_custom_colors:
-  Coat: 313131
-  Crayfish: B20000
-  Shorts 1: 400000
-  Shorts 2: 8c8c00
-  Slippers: 78212D
-  Zipper: 8c8c00
-  Skin: FFFFFF
+  Coat: 0x313131
+  Crayfish: 0xB20000
+  Shorts 1: 0x400000
+  Shorts 2: 0x8c8c00
+  Slippers: 0x78212D
+  Zipper: 0x8c8c00
+  Skin: 0xFFFFFF
 has_colored_eyebrows: false
 revision:  4
 author: Ikey Ilex

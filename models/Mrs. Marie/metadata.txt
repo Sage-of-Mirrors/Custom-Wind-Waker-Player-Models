@@ -1,75 +1,75 @@
 hero_custom_colors:
-  Hair: bd517b
-  Skin: d6c39c
-  Blush: e79ea5
-  Lipstick: c6598c
-  Eyes: 212152
-  Eyebrows: 4a1c18
-  Pearls: 188ace
-  Scarf: 73cb31
-  Coat: 005952
-  Coat Patterns: b5cf8c
-  Shirt: d68e10
-  Shorts: 390c39
-  Belt: 00599c
-  Leggings: bd386b
-  Shoes: 00246b
-  Shoe Soles: bdb284
+  Hair: 0xbd517b
+  Skin: 0xd6c39c
+  Blush: 0xe79ea5
+  Lipstick: 0xc6598c
+  Eyes: 0x212152
+  Eyebrows: 0x4a1c18
+  Pearls: 0x188ace
+  Scarf: 0x73cb31
+  Coat: 0x005952
+  Coat Patterns: 0xb5cf8c
+  Shirt: 0xd68e10
+  Shorts: 0x390c39
+  Belt: 0x00599c
+  Leggings: 0xbd386b
+  Shoes: 0x00246b
+  Shoe Soles: 0xbdb284
   
 hero_color_presets:
      Dark Mrs. Marie:
-        Hair: 222222
-        Skin: 2D2D2D
-        Blush: 2E2E2E
-        Lipstick: 252525
-        Eyes: E92831
-        Eyebrows: 0B0B0B
-        Pearls: 1A1A1A
-        Scarf: 1E1E1E
-        Coat: 0D0D0D
-        Coat Patterns: 2B2B2B
-        Shirt: 1D1D1D
-        Shorts: 0C0C0C
-        Belt: 101010
-        Leggings: 202020
-        Shoes: 090909
-        Shoe Soles: 282828
+        Hair: 0x222222
+        Skin: 0x2D2D2D
+        Blush: 0x2E2E2E
+        Lipstick: 0x252525
+        Eyes: 0xE92831
+        Eyebrows: 0x0B0B0B
+        Pearls: 0x1A1A1A
+        Scarf: 0x1E1E1E
+        Coat: 0x0D0D0D
+        Coat Patterns: 0x2B2B2B
+        Shirt: 0x1D1D1D
+        Shorts: 0x0C0C0C
+        Belt: 0x101010
+        Leggings: 0x202020
+        Shoes: 0x090909
+        Shoe Soles: 0x282828
 
 casual_custom_colors:
-  Hair: bd517b
-  Skin: d6c39c
-  Blush: e79ea5
-  Lipstick: c6598c
-  Eyes: 212152
-  Eyebrows: 4a1c18
-  Pearls: 188ace
-  Coat: 005952
-  Coat Patterns: b5cf8c
-  Shirt: d68e10
-  Shorts: 390c39
-  Belt: 00599c
-  Leggings: bd386b
-  Shoes: 00246b
-  Shoe Soles: bdb284
+  Hair: 0xbd517b
+  Skin: 0xd6c39c
+  Blush: 0xe79ea5
+  Lipstick: 0xc6598c
+  Eyes: 0x212152
+  Eyebrows: 0x4a1c18
+  Pearls: 0x188ace
+  Coat: 0x005952
+  Coat Patterns: 0xb5cf8c
+  Shirt: 0xd68e10
+  Shorts: 0x390c39
+  Belt: 0x00599c
+  Leggings: 0xbd386b
+  Shoes: 0x00246b
+  Shoe Soles: 0xbdb284
 casual_color_presets:
 
      Dark Mrs. Marie:
-        Hair: 222222
-        Skin: 2D2D2D
-        Blush: 2E2E2E
-        Lipstick: 252525
-        Eyes: E92831
-        Eyebrows: 0B0B0B
-        Pearls: 1A1A1A
-        Scarf: 1E1E1E
-        Coat: 0D0D0D
-        Coat Patterns: 2B2B2B
-        Shirt: 1D1D1D
-        Shorts: 0C0C0C
-        Belt: 101010
-        Leggings: 202020
-        Shoes: 090909
-        Shoe Soles: 282828
+        Hair: 0x222222
+        Skin: 0x2D2D2D
+        Blush: 0x2E2E2E
+        Lipstick: 0x252525
+        Eyes: 0xE92831
+        Eyebrows: 0x0B0B0B
+        Pearls: 0x1A1A1A
+        Scarf: 0x1E1E1E
+        Coat: 0x0D0D0D
+        Coat Patterns: 0x2B2B2B
+        Shirt: 0x1D1D1D
+        Shorts: 0x0C0C0C
+        Belt: 0x101010
+        Leggings: 0x202020
+        Shoes: 0x090909
+        Shoe Soles: 0x282828
 
 casual_clothes_option_text: Less Detail
 has_colored_eyebrows: false

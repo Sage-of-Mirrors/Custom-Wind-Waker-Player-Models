@@ -1,25 +1,25 @@
 hero_custom_colors:
-  Skin: b5a284
-  Nose: a58273
-  Hair: 4a2808
-  Shoes1: 57371a
-  Shoes2: 8f7c4f
-  Belt1: 4a2808
-  Belt2: 85713d
-  Pants1: 1c304f
-  Pants2: 758793
-  Pants3: 671c1b
-  Shirt1: b7b7b7
-  Shirt2: 848a69
-  Bandana: 671c1b
+  Skin: 0xb5a284
+  Nose: 0xa58273
+  Hair: 0x4a2808
+  Shoes1: 0x57371a
+  Shoes2: 0x8f7c4f
+  Belt1: 0x4a2808
+  Belt2: 0x85713d
+  Pants1: 0x1c304f
+  Pants2: 0x758793
+  Pants3: 0x671c1b
+  Shirt1: 0xb7b7b7
+  Shirt2: 0x848a69
+  Bandana: 0x671c1b
   
 casual_custom_colors:
-  Skin: b5a284
-  Nose: a58273
-  Hair: 4a2808
-  Shoes: 211000
-  Pants1: 29555a
-  Pants2: ffffff
+  Skin: 0xb5a284
+  Nose: 0xa58273
+  Hair: 0x4a2808
+  Shoes: 0x211000
+  Pants1: 0x29555a
+  Pants2: 0xffffff
   
 casual_clothes_option_text: Wind Waker Beedle
 has_colored_eyebrows: true

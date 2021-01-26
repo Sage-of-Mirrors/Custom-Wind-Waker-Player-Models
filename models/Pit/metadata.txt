@@ -1,29 +1,29 @@
 hero_custom_colors:
-  Tunic 1: ffffff
-  Tunic 2: ffffff
-  Tunic 3: ffffff
-  Skirt Trim 1: ca0000
-  Skirt Trim 2: ffef10
-  Scarf 1: ffffff
-  Scarf 2: eef5e6
-  Metal: ffef10
-  Gem: ca0000
-  Shirt: 444454
-  Leather: 584038
-  Belt Trim: ffffff
-  Boot Trim: ffffff
-  Boot Belt: 896448
-  Skin: f7db9c
-  Hair: 4a3421
+  Tunic 1: 0xffffff
+  Tunic 2: 0xffffff
+  Tunic 3: 0xffffff
+  Skirt Trim 1: 0xca0000
+  Skirt Trim 2: 0xffef10
+  Scarf 1: 0xffffff
+  Scarf 2: 0xeef5e6
+  Metal: 0xffef10
+  Gem: 0xca0000
+  Shirt: 0x444454
+  Leather: 0x584038
+  Belt Trim: 0xffffff
+  Boot Trim: 0xffffff
+  Boot Belt: 0x896448
+  Skin: 0xf7db9c
+  Hair: 0x4a3421
 casual_custom_colors:
-  Tunic 1: ddf0f7
-  Tunic 2: ddf0f7
-  Tunic 3: ddf0f7
-  Scarf: f6f6f6
-  Leather: 896448
-  Belt: 584038
-  Pants: ddf0f7
-  Skin: f7db9c
-  Hair: 4a3421
+  Tunic 1: 0xddf0f7
+  Tunic 2: 0xddf0f7
+  Tunic 3: 0xddf0f7
+  Scarf: 0xf6f6f6
+  Leather: 0x896448
+  Belt: 0x584038
+  Pants: 0xddf0f7
+  Skin: 0xf7db9c
+  Hair: 0x4a3421
 author: Colonel Birdstrong
 comment: Extra Link.arc features an edited Bow for use outside of tournaments or races. Rename the normal Link.arc to something else and remove the -Bow part of the other .arc's name

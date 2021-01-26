@@ -1,26 +1,26 @@
 hero_custom_colors:
-  Skin: ece3f0
-  Hair: c9b7e5
-  Tunic1: 8980d6
-  Tunic2: 4c478a
-  Pants: f9412b
-  Shoes: f9412b
-  Cape: 4c478a
-  Hat: 4c478a
-  Metal: eac936
-  Gem: f9412b
-  Buckle: f9412b
+  Skin: 0xece3f0
+  Hair: 0xc9b7e5
+  Tunic1: 0x8980d6
+  Tunic2: 0x4c478a
+  Pants: 0xf9412b
+  Shoes: 0xf9412b
+  Cape: 0x4c478a
+  Hat: 0x4c478a
+  Metal: 0xeac936
+  Gem: 0xf9412b
+  Buckle: 0xf9412b
 
 casual_custom_colors:
-  Skin: ece3f0
-  Hair: cac4d6
-  Tunic1: 918ccf
-  Tunic2: 4b3f8f
-  Pants: b92618
-  Shoes: b92618
-  Hat: 514489
-  Metal: e2e5e1
-  Buckle: fa422b
+  Skin: 0xece3f0
+  Hair: 0xcac4d6
+  Tunic1: 0x918ccf
+  Tunic2: 0x4b3f8f
+  Pants: 0xb92618
+  Shoes: 0xb92618
+  Hat: 0x514489
+  Metal: 0xe2e5e1
+  Buckle: 0xfa422b
 
 has_colored_eyebrows: false
 casual_hair_color_name: Hat

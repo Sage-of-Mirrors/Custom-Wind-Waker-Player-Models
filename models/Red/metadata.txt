@@ -1,31 +1,31 @@
 hero_custom_colors:
-  Cap_1: B54129
-  Cap_2: E7E7E7
-  Badge_1: E7E7E7
-  Badge_2: 212C18
-  Badge_3: 84B618
-  Skin: F7DBDE
-  Hair: 313839
-  Shirt: 393C39
-  Jacket_1: B54129
-  Jacket_2: ECE8EC
-  Pants: 4A86AD
-  Shoes_1: B54129
-  Shoes_2: E7E7E7
+  Cap_1: 0xB54129
+  Cap_2: 0xE7E7E7
+  Badge_1: 0xE7E7E7
+  Badge_2: 0x212C18
+  Badge_3: 0x84B618
+  Skin: 0xF7DBDE
+  Hair: 0x313839
+  Shirt: 0x393C39
+  Jacket_1: 0xB54129
+  Jacket_2: 0xECE8EC
+  Pants: 0x4A86AD
+  Shoes_1: 0xB54129
+  Shoes_2: 0xE7E7E7
 casual_custom_colors:
-  Cap_1: B54129
-  Cap_2: E7E7E7
-  Badge_1: E7E7E7
-  Badge_2: 212C18
-  Badge_3: 84B618
-  Skin: F7DBDE
-  Hair: 313839
-  Shirt: 393C39
-  Jacket_1: B54129
-  Jacket_2: ECE8EC
-  Pants: 4A86AD
-  Shoes_1: B54129
-  Shoes_2: E7E7E7
+  Cap_1: 0xB54129
+  Cap_2: 0xE7E7E7
+  Badge_1: 0xE7E7E7
+  Badge_2: 0x212C18
+  Badge_3: 0x84B618
+  Skin: 0xF7DBDE
+  Hair: 0x313839
+  Shirt: 0x393C39
+  Jacket_1: 0xB54129
+  Jacket_2: 0xECE8EC
+  Pants: 0x4A86AD
+  Shoes_1: 0xB54129
+  Shoes_2: 0xE7E7E7
 has_colored_eyebrows: false
 author: BigSharkZ
 comment: FULL PACK HERE https://gamebanana.com/skins/175198 While sitting at the top of a mountain, a wise kid once said "...". After catching 'em all, it was time to use all these Pokemon in a new way. The full pack includes hi-res & Shiny textures, item icons, Pokemon replacing multiple enemies and NPCs, and more, so make sure to download it for the full experience. Enjoy!

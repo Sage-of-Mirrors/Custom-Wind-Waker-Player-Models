@@ -1,19 +1,19 @@
 hero_custom_colors:
-  Hair: FFEF10
-  Skin: F7DB9C
-  Arms: F7DB9C
-  Undershirt: F7DB9C
-  Shirt: C63929
-  Crab: FFFFD6
-  Glasses: FFA508
-  Lenses: 000000
-  Shorts: FFA508
-  Boots: 844A29
+  Hair: 0xFFEF10
+  Skin: 0xF7DB9C
+  Arms: 0xF7DB9C
+  Undershirt: 0xF7DB9C
+  Shirt: 0xC63929
+  Crab: 0xFFFFD6
+  Glasses: 0xFFA508
+  Lenses: 0x000000
+  Shorts: 0xFFA508
+  Boots: 0x844A29
 
 casual_custom_colors:
-  Hair: FFEF10
-  Skin: F7DB9C
-  Shorts: 407BE3
+  Hair: 0xFFEF10
+  Skin: 0xF7DB9C
+  Shorts: 0x407BE3
 
 
 has_colored_eyebrows: false
