@@ -29,7 +29,7 @@ casual_custom_colors:
   Shoes2: 0xd0b038
 
 hero_color_presets:
-  Red: 
+  Red:
     Hat: 0xd82828
     Hair: 0xf8e810
     Pupils: 0x101810

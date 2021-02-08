@@ -115,7 +115,7 @@ hero_color_presets:
         Skin: 0x4E4E4E
         Cheek Pattern: 0x414141
         Nose: 0x343434
-        Hair: "060606"
+        Hair: 0x060606
         Eyes: 0xE92831
 casual_custom_colors:
   Pajama Shirt: 0xbdddff
