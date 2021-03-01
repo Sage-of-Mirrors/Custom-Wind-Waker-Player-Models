@@ -16,3 +16,10 @@ Notes:
 I have no idea who made casue its a random image thats been on my desktop for a long time.
 If you think you know DM me on discord and can edit this file.
  - Some of the models are edited from various model databases.
+
+Changlog:
+ - 1.1:
+  - Pallets have been reworked
+  - Minor geometry changes on "cl"
+  - Fixed audio for medli and makar
+ - 1.0: Release!!!
