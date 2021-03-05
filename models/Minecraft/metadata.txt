@@ -1,0 +1,33 @@
+hero_custom_colors:
+  Shirt: 00afaf
+  Pants: 463aa5
+  Hair: 2f1f0f
+  Eyes: 523d89
+  Skin: aa7d66
+  Mouth: 774235
+  Shoes: 6b6b6b
+
+casual_custom_colors:
+  Shirt: 8cbe8a
+  Pants: 684530
+  Hair: e59947
+  Eyes: 236224
+  Skin: ebd3b3
+  Mouth: efbbb1
+  Shoes: 6b6b6b
+
+hero_color_presets:
+  Shrek:
+    Shirt: 9A6C1C
+    Pants: AA9E87
+    Hair: 00AA00
+    Eyes: 4C2A02
+    Skin: 00AA00
+    Mouth: 00AA00
+    Shoes: 00AA00
+
+hide_ship_sail: true
+casual_clothes_option_text: Alternate Skin
+
+author: sup3rgh0st
+comment: Minecraft's blocky protagonist breaks free from their gridded universe in search of a higher poly adventure. Bringing an arsenal of tools from their home dimension, no challenge will stand in the way.
