@@ -1,9 +1,10 @@
 Niko comes from OneShot, a very impactful game that I played during a sad time in my life several years ago. It has stuck with me ever since. I can't recommend it enough, it's an excellent experience.
 
-The mod replaces the following items:
+This mod replaces the following items:
 Bombs -> The Sun
+Deku Leaf -> Alula's Feather
+Hero's Charm -> Barrens' Gas Mask
 Power Bracelets -> Golden Clovers
-Perhaps replace the Hero's Charm with the Barren's gas mask in a future update?
 
 Thank You:
 
