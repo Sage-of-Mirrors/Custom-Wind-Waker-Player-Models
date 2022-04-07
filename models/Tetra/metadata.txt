@@ -1,21 +1,135 @@
 hero_custom_colors:
   Hair: 0xC5FF00
   Skin: 0xB4995A
-  Shirt: 0x184894
+  Vest: 0x184894
+  Shirt: 0xa5b2ff
   Pants: 0xEEF6FF
   Scarf: 0xF70042
   Armbands: 0xE7F7FF
   Belt: 0xF70042
   Sandals: 0x523C18
   Pouch: 0xC6CB94
+  Scleras: 0xe7f7ff
+  Pupils: 0x103156
+hero_color_presets:
+    Niko Colors (Hyrule Warriors):
+        Vest: 0xB30018
+        Shirt: 0xd57150
+        Pants: 0x405038
+        Scarf: 0x436FC3
+        Belt: 0x080908
+    Zelda Colors (Hyrule Warriors):
+        Vest: 0xED4D7D
+        Shirt: 0x8D91B8
+        Pants: 0xD8A5CB
+        Scarf: 0xDD91BD
+        Belt: 0xD3A900
+        Sandals: 0xB0B4B0
+        Pouch: 0xD3D5D3
+    Martha the Mermaid Colors (Hyrule Warriors):
+        Hair: 0x1d1c1d
+        Vest: 0xD88C28
+        Shirt: 0xC8B795
+        Pants: 0xDBCF8D
+        Scarf: 0xD3000D
+        Belt: 0x5B253B
+        Pouch: 0xCBD0D5
+    Jolene Colors (Hyrule Warriors):
+        Hair: 0x2B2C2B
+        Vest: 0x3D6C55
+        Shirt: 0x103930
+        Pants: 0x104738
+        Scarf: 0xED3B00
+        Armbands: 0x50392B
+        Belt: 0xC0AC18
+        Sandals: 0x301818
+        Pouch: 0x958565
+    Tetra's Mother:
+        Hair: 0x5A2808
+        Skin: 0xCEA663
+        Vest: 0x522421
+        Shirt: 0xAD7D18
+        Pants: 0x522421
+        Scarf: 0xAD7D18
+        Armbands: 0xAD7D18
+        Belt: 0xAD7D18
+        Sandals: 0xAD7D18
+        Pouch: 0xC6CB94
+        Scleras: 0xE7F7FF
+        Pupils: 0x525118
+    Dark Tetra:
+        Hair: 0x1B1B1B
+        Skin: 0x272727
+        Vest: 0x121212
+        Shirt: 0x444444
+        Pants: 0x444444
+        Scarf: 0x232323
+        Armbands: 0x444444
+        Belt: 0x232323
+        Sandals: 0x0F0F0F
+        Pouch: 0x333333
+        Scleras: 0x000000
+        Pupils: 0xE92831
 casual_custom_colors:
   Hair: 0xC5FF00
   Skin: 0xB4995A
-  Shirt: 0x184894
+  Vest: 0x184894
+  Shirt: 0xa5b2ff
   Pants: 0xEEF6FF
   Armbands: 0xE7F7FF
   Belt: 0xF70042
   Sandals: 0x523C18
+  Scleras: 0xe7f7ff
+  Pupils: 0x103156
+casual_color_presets:
+    Niko Colors (Hyrule Warriors):
+        Vest: 0xB30018
+        Shirt: 0xd57150
+        Pants: 0x405038
+        Belt: 0x080908
+    Zelda Colors (Hyrule Warriors):
+        Vest: 0xED4D7D
+        Shirt: 0x8D91B8
+        Pants: 0xD8A5CB
+        Belt: 0xD3A900
+        Sandals: 0xB0B4B0
+    Martha the Mermaid Colors (Hyrule Warriors):
+        Hair: 0x1d1c1d
+        Vest: 0xD88C28
+        Shirt: 0xC8B795
+        Pants: 0xDBCF8D
+        Belt: 0x5B253B
+    Jolene Colors (Hyrule Warriors):
+        Hair: 0x2B2C2B
+        Vest: 0x3D6C55
+        Shirt: 0x103930
+        Pants: 0x104738
+        Armbands: 0x50392B
+        Belt: 0xC0AC18
+        Sandals: 0x301818
+    Tetra's Mother:
+        Hair: 0x5A2808
+        Skin: 0xCEA663
+        Vest: 0x522421
+        Shirt: 0xAD7D18
+        Pants: 0x522421
+        Armbands: 0xAD7D18
+        Belt: 0xAD7D18
+        Sandals: 0xAD7D18
+        Scleras: 0xE7F7FF
+        Pupils: 0x525118
+    Dark Tetra:
+        Hair: 0x1B1B1B
+        Skin: 0x272727
+        Vest: 0x121212
+        Shirt: 0x444444
+        Pants: 0x444444
+        Armbands: 0x444444
+        Belt: 0x232323
+        Sandals: 0x0F0F0F
+        Scleras: 0x000000
+        Pupils: 0xE92831
 has_colored_eyebrows: true
 revision: 2
 author: Gamma
+comment: Voice files imported by FrasseFreak.
