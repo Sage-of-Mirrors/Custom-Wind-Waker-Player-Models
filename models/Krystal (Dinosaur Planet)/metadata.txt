@@ -1,0 +1,123 @@
+hero_custom_colors:
+  Fur: 0x627ad8
+  Fur Markings: 0xffffff
+  Fur Stripes: 0x464faa
+  Eyes: 0x00ba00
+  Eye Whites: 0xffffff
+  Nose: 0xffb4bc
+  Dress: 0xffc736
+  Dress Trim: 0xff8e1c
+  Boots: 0xffc736
+  Boots Trim: 0xff8e1c
+  Boot Laces: 0xffffea
+  Choker: 0x915f06
+  Crystal: 0xeaffff
+  Bracelets: 0xffc736
+hero_color_presets:
+
+    Red:
+
+        Fur: 0xe68245
+        Fur Markings: 0xf5f5f5
+        Fur Stripes: 0xe68245
+        Eyes: 0xd28004
+        Eye Whites: 0xffffff
+        Nose: 0x1e1e1e
+        Dress: 0x46d34d
+        Dress Trim: 0x1a7917
+        Boots: 0x46d34d
+        Boots Trim: 0x1a7917
+        Boot Laces: 0xffffff
+        Choker: 0x0d310d
+        Crystal: 0xeaffff
+        Bracelets: 0xc9c7c0
+
+    Silver:
+
+        Fur: 0x6e6e6e
+        Fur Markings: 0x585858
+        Fur Stripes: 0x505050
+        Eyes: 0x97470d
+        Eye Whites: 0xffffff
+        Nose: 0x1e1e1e
+        Dress: 0x979797
+        Dress Trim: 0x797979
+        Boots: 0x979797
+        Boots Trim: 0x797979
+        Boot Laces: 0x5b5b5b
+        Choker: 0x252525
+        Crystal: 0xffffff
+        Bracelets: 0xb4b4b4
+
+    Arctic:
+
+        Fur: 0xffffff
+        Fur Markings: 0xffffff
+        Fur Stripes: 0xffffff
+        Eyes: 0xa3d8de
+        Eye Whites: 0xffffff
+        Nose: 0xffd1cd
+        Dress: 0xb175fa
+        Dress Trim: 0x7f5fa5
+        Boots: 0xb175fa
+        Boots Trim: 0x7f5fa5
+        Boot Laces: 0xffffff
+        Choker: 0x1e0837
+        Crystal: 0xc3e7fc
+        Bracelets: 0xf6f494
+
+    Desert:
+
+        Fur: 0xe2d29a
+        Fur Markings: 0xeadeb0
+        Fur Stripes: 0xd2b58f
+        Eyes: 0x9453c0
+        Eye Whites: 0xffffff
+        Nose: 0x373737
+        Dress: 0x9d8064
+        Dress Trim: 0xead39f
+        Boots: 0xead39f
+        Boots Trim: 0x9d8064
+        Boot Laces: 0x9d8064
+        Choker: 0xeaeaea
+        Crystal: 0x301bde
+        Bracelets: 0x555555
+
+    Cerinian:
+
+        Fur: 0x3a4cb0
+        Fur Markings: 0xffffff
+        Fur Stripes: 0x3a4cb0
+        Eyes: 0x4ac2cc
+        Eye Whites: 0xffffff
+        Nose: 0x0d0f2c
+        Dress: 0xf2f2e9
+        Dress Trim: 0xf9eb6e
+        Boots: 0xf2f2e3
+        Boots Trim: 0xf9eb6e
+        Boot Laces: 0xf2f2e3
+        Choker: 0xf9eb6e
+        Crystal: 0x70f2e9
+        Bracelets: 0xf9eb6e
+
+    SharpClaw?:
+
+        Fur: 0xe87610
+        Fur Markings: 0xe4a132
+        Fur Stripes: 0xe4a132
+        Eyes: 0xf8de63
+        Eye Whites: 0xd45120
+        Nose: 0x8b5625
+        Dress: 0x8270fc
+        Dress Trim: 0x5343c0
+        Boots: 0x8270fc
+        Boots Trim: 0x5343c0
+        Boot Laces: 0x8270fc
+        Choker: 0x8270fc
+        Crystal: 0xeaffff
+        Bracelets: 0x5343c0
+
+disable_casual_clothes: true
+hero_hands_color_name: Fur
+author: AngelTheVixen
+comment: The magical blue vixen hailing from Animus! She finds herself in a strange world populated by furless weasels.
