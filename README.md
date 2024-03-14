@@ -9,20 +9,20 @@ Then open the randomizer, and in the "Player Customization" tab click "Install a
 * Gamma/Sage of Mirrors ([@SageOfMirrors](https://twitter.com/SageOfMirrors)): Rigged and imported Tetra.
 * LagoLunatic ([@LagoLunatic](https://twitter.com/LagoLunatic)): Rigged and imported Medli.
 * Ikey Ilex: Modeled, rigged and imported Sans and Lucario; rigged and imported Poor Mila.
-* Laenthor ([Youtube](https://www.youtube.com/channel/UCIWlBco_-iHpQZfmUaYbxpg)): Rigged and imported Fado, Aryll, and Goku.
-* Beefu ([@beefuwu](https://twitter.com/beefuwu)): Modeled, rigged and imported Cheerleader Link, Zora Link, Saria, ToonFlips, and Sakuya Izayoi.
+* Laenthor ([YouTube](https://www.youtube.com/@Laenthor)): Rigged and imported Fado, Aryll, and Goku.
+* Beefu ([@spicyBeefu](https://twitter.com/spicyBeefu)): Modeled, rigged and imported Cheerleader Link, Zora Link, Saria, ToonFlips, and Sakuya Izayoi.
 * Windwalker14: Rigged and imported Fox Link.
 * Praecipua ([@PraecipuaWW](https://twitter.com/PraecipuaWW)): Imported voices for Medli/Colette.
 * KromosRuby ([DeviantArt](https://www.deviantart.com/kromosruby)): Modeled Saria.
 * wooferzfg ([@wooferzfg](https://twitter.com/wooferzfg)): Imported voices for Sans.
 * Follyknight: Rigged and imported Grandma.
-* TemperedCreator ([@seanos1998](https://twitter.com/seanos1998)): Rigged and imported Din.
+* TemperedCreator: Rigged and imported Din.
 * FrasseFreak: Rigged and imported Poor Maggie, Tingle, and Mrs. Marie. Imported voices for Tetra.
-* YADUNDED ([@yadundev](https://twitter.com/yadundev)): Rigged and imported Kass, Shaggy, Vaati, Beedle, and DS Link.
+* YADUNDED: Rigged and imported Kass, Shaggy, Vaati, Beedle, and DS Link.
 * Bird of Light ([@ColBirdstrong](https://twitter.com/ColBirdstrong)): Rigged and imported Pit, Dark Pit, Samus, Cloud, Chocobo, Squall, Marth, Inteleon, and Young Link.
 * Adhexas: Modeled, rigged and imported Ganondorf.
 * ZodaInk: Modeled, rigged and imported Colette.
-* BigSharkZ: Modeled, rigged and imported Ashley, Red (+ [a pack](https://gamebanana.com/skins/175198) of many Pokemon models separate from the randomizer), CJ, Linka, Vacation Link, Postbox Man, Malon, and Dark Linka.
+* BigSharkZ ([YouTube](https://www.youtube.com/BigSharkZ)): Modeled, rigged and imported Ashley, Red (+ [a pack](https://gamebanana.com/skins/175198) of many Pokemon models separate from the randomizer), CJ, Linka, Vacation Link, Postbox Man, Malon, and Dark Linka.
 * DemonBoy: Modeled, rigged and imported Conductor Link and Tri Suit Link.
 * RustyMonkee: Modeled, rigged and imported Agent 9.
 * Brandors: Modeled, rigged and imported Erdrick and Captain Falcon.
