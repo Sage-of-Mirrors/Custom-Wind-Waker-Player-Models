@@ -8,7 +8,7 @@ Then open the randomizer, and in the "Player Customization" tab click "Install a
 # Credits
 * Gamma/Sage of Mirrors ([@SageOfMirrors](https://twitter.com/SageOfMirrors)): Rigged and imported Tetra.
 * LagoLunatic ([@LagoLunatic](https://twitter.com/LagoLunatic)): Rigged and imported Medli.
-* Ikey Ilex: Modeled, rigged and imported Sans and Lucario; rigged and imported Poor Mila.
+* Ikey Ilex: Modeled, rigged and imported Sans, Lucario, and Tails; rigged and imported Poor Mila.
 * Laenthor ([YouTube](https://www.youtube.com/@Laenthor)): Rigged and imported Fado, Aryll, and Goku.
 * Beefu ([@spicyBeefu](https://twitter.com/spicyBeefu)): Modeled, rigged and imported Cheerleader Link, Zora Link, Saria, ToonFlips, and Sakuya Izayoi.
 * Windwalker14: Rigged and imported Fox Link.

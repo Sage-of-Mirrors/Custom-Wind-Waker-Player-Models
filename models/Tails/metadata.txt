@@ -1,0 +1,41 @@
+hero_custom_colors:
+ Primary: 0xFF9326
+ Secondary: 0xEEEEEE
+ Tertiary: 0xEEEEEE
+ Nose: 0x000000
+ Gloves: 0xEEEEEE
+ Sleeves: 0xEEEEEE
+ Socks: 0xEEEEEE
+ Clothes: 0x401F0E
+ Buckle: 0x543B1A
+ Goggles: 0x73B9FF
+ Shoebase: 0xFF0000
+ Shoetip: 0xEEEEEE
+ Shoesoles: 0x555555
+ Eye: 0x265CFF
+
+casual_custom_colors:
+ Primary: 0xFF9326
+ Secondary: 0xEEEEEE
+ Tertiary: 0xEEEEEE
+ Nose: 0x000000
+ Gloves: 0xEEEEEE
+ Sleeves: 0xEEEEEE
+ Socks: 0xEEEEEE
+ Shoebase: 0xFF0000
+ Shoetip: 0xEEEEEE
+ Shoesoles: 0x555555
+ Eye: 0x265CFF
+
+casual_clothes_option_text: No Boom Equipment
+hero_hands_color_name: Gloves
+casual_hands_color_name: Gloves
+hero_hitomi_color_name: Eye
+casual_hitomi_color_name: Eye
+hero_mouth_color_name: Secondary
+casual_mouth_color_name: Secondary
+
+has_colored_eyebrows: false
+revision: 1
+author: Ikey Ilex
+comment: I heard the news about it on Satellite TV!
