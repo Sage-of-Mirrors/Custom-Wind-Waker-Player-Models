@@ -1,0 +1,37 @@
+hero_custom_colors:
+  Helmet: 0xD2C771
+  Armor: 0xC18044
+  ArmorSecondary: 0x83462E
+  ArmorLights: 0xD2C771
+  ArmorLightPlate: 0x15151B
+  UnderShirt: 0x15151B
+  Pants: 0x523E2C 
+  Gloves: 0x83462E
+  Boots: 0x241D17
+casual_custom_colors:
+  Helmet: 0xEAECE9
+  HelmetRim: 0xDFC07D
+  Armor: 0xC18044
+  ArmorSecondary: 0xC7945F
+  ArmorLights: 0xEAECE9
+  ArmorLightPlate: 0x15151B
+  ArmorBottomRim: 0x4A362D
+  UnderShirt: 0x15151B
+  Pants: 0x212127 
+  Gloves: 0x83462E
+  Boots: 0x241D17
+
+has_colored_eyebrows: false
+
+hero_hands_color_name: Gloves
+casual_hands_color_name: Gloves
+
+casual_clothes_option_text: RoR2 Armor
+
+sword_slash_trail_color: 0x09F7CEFF
+elixir_soup_sword_trail_color: 0x09F7CEFF
+parrying_sword_trail_color: 0x09F7CEFF
+boomerang_trail_color: 0xFF9F0080
+
+comment: Custom items are included. "Field Notes- Upon my arrival on this mostly aquatic planet a sentient boat found me and said it wants to help me. I do not trust this 'boat' but I do not have any other choices for travel and I have found through my interactions on land only a minority of the local species are friendly while the rest are deeply hostile."
+author: KeyBlader
