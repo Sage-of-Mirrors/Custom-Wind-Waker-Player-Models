@@ -1,0 +1,33 @@
+hero_custom_colors:
+  Skin: 0xFFDECE
+  Hair: 0x8F4649
+  Bow: 0x6B0F1A
+  Sweater: 0xFF95BC
+  Inner Squares: 0xFFD5DC
+  Outer Squares: 0x000000
+  Skirt: 0x70162D
+  Socks: 0x4F7D90
+  Shoes: 0x850008
+
+casual_custom_colors:
+  Skin: 0xFFDECE
+  Hair: 0xF2D4AC
+  Sweater: 0x6A3C84
+  Vest: 0xC287E4
+  Lines: 0xDDA9FE
+  Lines Intersect: 0xEED0FF
+  Skirt: 0x7578D6
+  Socks: 0x3F3F3F
+  Shoes: 0x313131
+
+has_colored_eyebrows: false
+
+casual_clothes_option_text: Urotsuki
+
+sword_slash_trail_color: 0x09F7CEFF
+elixir_soup_sword_trail_color: 0x09F7CEFF
+parrying_sword_trail_color: 0x09F7CEFF
+boomerang_trail_color: 0xFF9F0080
+
+comment: So Sleepy
+author: KeyBlader

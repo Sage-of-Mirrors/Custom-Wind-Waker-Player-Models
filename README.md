@@ -34,6 +34,6 @@ Then open the randomizer, and in the "Player Customization" tab click "Install a
 * Xinus22: Modeled Niko.
 * sup3rgh0st: Rigged and imported Minecraft Steve/Alex.
 * AngelTheVixen: Modeled, rigged and imported Krystal.
-* KeyBlader: Modeled, rigged and imported Commando.
+* KeyBlader: Modeled, rigged and imported Commando and Madotsuki.
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).
