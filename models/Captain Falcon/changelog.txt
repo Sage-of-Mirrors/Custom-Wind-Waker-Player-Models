@@ -1,3 +1,3 @@
 v1.0: Initial Release
-	Features:
-		  - Custom Voice using Captain Falcon's Smash Bros voice clips
+  Features:
+      - Custom Voice using Captain Falcon's Smash Bros voice clips

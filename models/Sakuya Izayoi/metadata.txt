@@ -48,7 +48,7 @@ casual_custom_colors:
 
 
 hero_color_presets:
-	Marisa:
+  Marisa:
     Skin: 0xFFDECE
     Eyes: 0xCF8A00
     Headband: 0x313131
@@ -70,8 +70,8 @@ hero_color_presets:
     Socks Lace: 0x313131
     Shoes: 0x313131
     Wristbands: 0xFFFFFF
-		
-	Reimu:
+
+  Reimu:
     Skin: 0xFFDECE
     Eyes: 0x8F0000
     Headband: 0xFF0000
@@ -94,7 +94,7 @@ hero_color_presets:
     Shoes: 0x313131
     Wristbands: 0xFF0000
 
-	Remilia:
+  Remilia:
     Skin: 0xFFDECE
     Eyes: 0xFF0000
     Headband: 0xFFA5C9
@@ -117,7 +117,7 @@ hero_color_presets:
     Shoes: 0x313131
     Wristbands: 0xFFA5C9
 
-	Flandre:
+  Flandre:
     Skin: 0xFFDECE
     Eyes: 0xFF0000
     Headband: 0xFF8EB0
@@ -140,7 +140,7 @@ hero_color_presets:
     Shoes: 0xBD0000
     Wristbands: 0xFF8EB0
 
-	Meiling:
+  Meiling:
     Skin: 0xFFDECE
     Headband: 0x007500
     Headband Frills: 0x007500
@@ -162,7 +162,7 @@ hero_color_presets:
     Shoes: 0x313131
     Wristbands: 0xFFFFFF
 
-	Patchouli:
+  Patchouli:
     Skin: 0xFFDECE
     Eyes: 0xCE009B
     Headband: 0xFFA0E9
@@ -185,7 +185,7 @@ hero_color_presets:
     Shoes: 0xD888C7
     Wristbands: 0xFFA0E9
 
-	Alice:
+  Alice:
     Skin: 0xFFDECE
     Headband: 0xFF4E4E
     Headband Frills: 0xFFFFFF
@@ -208,7 +208,7 @@ hero_color_presets:
     Wristbands: 0xFFFFFF
 
 casual_color_presets:
-	Marisa:
+  Marisa:
     Skin: 0xFFDECE
     Eyes: 0xCF8A00
     Headband: 0x313131
@@ -228,8 +228,8 @@ casual_color_presets:
     Bottoms: 0xFFFFFF
     Shoes: 0x313131
     Wristbands: 0xFFFFFF
-		
-	Reimu:
+
+  Reimu:
     Skin: 0xFFDECE
     Eyes: 0x8F0000
     Headband: 0xFF0000
@@ -250,7 +250,7 @@ casual_color_presets:
     Shoes: 0x313131
     Wristbands: 0xFF0000
 
-	Remilia:
+  Remilia:
     Skin: 0xFFDECE
     Eyes: 0xFF0000
     Headband: 0xFFA5C9
@@ -271,7 +271,7 @@ casual_color_presets:
     Shoes: 0x313131
     Wristbands: 0xFFA5C9
 
-	Flandre:
+  Flandre:
     Skin: 0xFFDECE
     Eyes: 0xFF0000
     Headband: 0xFF8EB0
@@ -292,7 +292,7 @@ casual_color_presets:
     Shoes: 0xBD0000
     Wristbands: 0xFF8EB0
 
-	Meiling:
+  Meiling:
     Skin: 0xFFDECE
     Headband: 0x007500
     Headband Frills: 0x007500
@@ -312,7 +312,7 @@ casual_color_presets:
     Shoes: 0x313131
     Wristbands: 0xFFFFFF
 
-	Patchouli:
+  Patchouli:
     Skin: 0xFFDECE
     Eyes: 0xCE009B
     Headband: 0xFFA0E9
@@ -333,7 +333,7 @@ casual_color_presets:
     Shoes: 0xD888C7
     Wristbands: 0xFFA0E9
 
-	Alice:
+  Alice:
     Skin: 0xFFDECE
     Headband: 0xFF4E4E
     Headband Frills: 0xFFFFFF

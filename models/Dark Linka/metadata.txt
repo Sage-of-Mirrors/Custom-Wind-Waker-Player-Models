@@ -17,7 +17,7 @@ hero_custom_colors:
   Belt Buckle: 0xCCCCCC
   Tights: 0x272727
   Boots: 0x909090
-  Boots 2: 0x363636  
+  Boots 2: 0x363636
   Boot Gems: 0x8C111C
 
 casual_custom_colors:
@@ -41,1546 +41,1546 @@ casual_custom_colors:
   Flats: 0x8C111C
 
 hero_color_presets:
-	1 - Gloves:
-		Hands: 0x919191
-		
-	2 - Kind of Casual:
-		Collar: 0x919191
-		Tunic 2: 0x8C111C
-		Sleeves: 0x9A695D
-		Tights: 0x9A695D
+  1 - Gloves:
+    Hands: 0x919191
 
-	3 - Alternate Palette:
-		Skin: 0xD1C4C4
-		Eyes: 0xBA0000
-		Eye White: 0x000000
-		Hair: 0xCFCCA4
-		Hands: 0xD1C4C4
-		
-	4 - Alternate Palette 2:
-		Skin: 0x6B6B6B
-		Eyes: 0xE10000
-		Eye White: 0xE10000
-		Hair: 0x614483
-		Armor: 0x676A6F
-		Hat: 0x363636
-		Collar: 0x72777A
-		Tunic: 0x363636
-		Tunic 2: 0x363636
-		Tunic Rips: 0x282828
-		Sleeves: 0x363636
-		Hands: 0x6B6B6B
-		Bracers: 0x363636
-		Bracers 2: 0x2D2D2D
-		Belt: 0xB1AEA9
-		Belt Buckle: 0xB2AF80
-		Tights: 0x363636
-		Boots: 0x676767
-		Boots 2: 0x676767
-		Boot Gems: 0x676767
+  2 - Kind of Casual:
+    Collar: 0x919191
+    Tunic 2: 0x8C111C
+    Sleeves: 0x9A695D
+    Tights: 0x9A695D
 
-	5 - Swapped:
-		Hair: 0x353535
-		Hat: 0x8C111C
-		Tunic: 0x8C111C
-		Tunic 2: 0x8C111C
-		Tunic Rips: 0x44080E
-		Belt: 0x44080E
-		
-	6 - Imposter:
-		Hat: 0x486440
-		Collar: 0xABAD93
-		Tunic: 0x486440
-		Tunic 2: 0x486440
-		Tunic Rips: 0x3C5335
-		Sleeves: 0xABAD93
-		Hands: 0x7F512C
-		Bracers: 0x7F512C
-		Bracers 2: 0x554125
-		Belt: 0x554125
-		Belt Buckle: 0xB0A673
-		Tights: 0xABAD93
-		Boots: 0x7F512C
-		Boots 2: 0x554125
-		Boot Gems: 0x8F6D4A
-		
-	7 - Linka:
-		Skin: 0xF7DB9C
-		Eyes: 0x5277B4
-		Hair: 0xF7D538
-		Armor: 0x90AC87
-		Hat: 0x528F3D
-		Collar: 0xFFFCFC
-		Tunic: 0x528F3D
-		Tunic 2: 0x528F3D
-		Tunic Rips: 0x447532
-		Sleeves: 0xFFFCFC
-		Hands: 0x944908
-		Bracers: 0x944908
-		Bracers 2: 0x633008
-		Belt: 0x633008
-		Belt Buckle: 0xF7D538
-		Tights: 0xFFFCFC
-		Boots: 0x944908
-		Boots 2: 0xE58C3F
-		Boot Gems: 0xE58C3F
-		
-	8 - Linka (Gold Armor):
-		Skin: 0xF7DB9C
-		Eyes: 0x5277B4
-		Hair: 0xF7D538
-		Armor: 0xD8C13F
-		Hat: 0x528F3D
-		Collar: 0xFFFCFC
-		Tunic: 0x528F3D
-		Tunic 2: 0x528F3D
-		Tunic Rips: 0x447532
-		Sleeves: 0xFFFCFC
-		Hands: 0x944908
-		Bracers: 0x944908
-		Bracers 2: 0x633008
-		Belt: 0x633008
-		Belt Buckle: 0xF7D538
-		Tights: 0xFFFCFC
-		Boots: 0x944908
-		Boots 2: 0xE58C3F
-		Boot Gems: 0xE58C3F
+  3 - Alternate Palette:
+    Skin: 0xD1C4C4
+    Eyes: 0xBA0000
+    Eye White: 0x000000
+    Hair: 0xCFCCA4
+    Hands: 0xD1C4C4
 
-	9 - ReDead (Ocarina of Time):
-		Skin: 0x925D2E
-		Eyes: 0x000000
-		Eye White: 0x000000
-		Hair: 0x5E4121
-		Armor: 0x5D4B31
-		Hat: 0x5E4121
-		Collar: 0x6C5B4A
-		Tunic: 0x5E4121
-		Tunic 2: 0x5E4121
-		Tunic Rips: 0x504337
-		Sleeves: 0x925D2E
-		Hands: 0x5E4121
-		Bracers: 0x5E4121
-		Bracers 2: 0x473018
-		Belt: 0x4C341A
-		Belt Buckle: 0x966735
-		Tights: 0x925D2E
-		Boots: 0x78542B
-		Boots 2: 0x553A1E
-		Boot Gems: 0x78542B
+  4 - Alternate Palette 2:
+    Skin: 0x6B6B6B
+    Eyes: 0xE10000
+    Eye White: 0xE10000
+    Hair: 0x614483
+    Armor: 0x676A6F
+    Hat: 0x363636
+    Collar: 0x72777A
+    Tunic: 0x363636
+    Tunic 2: 0x363636
+    Tunic Rips: 0x282828
+    Sleeves: 0x363636
+    Hands: 0x6B6B6B
+    Bracers: 0x363636
+    Bracers 2: 0x2D2D2D
+    Belt: 0xB1AEA9
+    Belt Buckle: 0xB2AF80
+    Tights: 0x363636
+    Boots: 0x676767
+    Boots 2: 0x676767
+    Boot Gems: 0x676767
 
-	10 - ReDead (Wind Waker):
-		Skin: 0x90CEC9
-		Eyes: 0xFC4402
-		Eye White: 0x000000
-		Hair: 0x64908C
-		Armor: 0xD6B745
-		Hat: 0x64908C
-		Collar: 0xD8E1E0
-		Tunic: 0x689691
-		Tunic 2: 0x689691
-		Tunic Rips: 0xD8E1E0
-		Sleeves: 0x90CEC9
-		Hands: 0x90CEC9
-		Bracers: 0x90CEC9
-		Bracers 2: 0xD8E1E0
-		Belt: 0x4E716D
-		Belt Buckle: 0xD8E1E0
-		Tights: 0x90CEC9
-		Boots: 0x6B9A95
-		Boots 2: 0xD8E1E0
-		Boot Gems: 0xD6B745
-        
-	11 - Fierce Deity:
-		Skin: 0xD4BDAC
-		Eyes: 0xFFFFFF
-		Hair: 0xCFD7E6
-		Armor: 0x9799AB
-		Hat: 0x98B9BA
-		Collar: 0x1D2E51
-		Tunic: 0x98B9BA
-		Tunic 2: 0x98B9BA
-		Tunic Rips: 0x7F9A9A
-		Sleeves: 0x1D2E51
-		Hands: 0x6F6F6F
-		Bracers: 0x6F6F6F
-		Bracers 2: 0x3E3E3E
-		Belt: 0x1D2E51
-		Belt Buckle: 0xD4D4D4
-		Tights: 0x1D2E51
-		Boots: 0x7D4E2D
-		Boots 2: 0xB8925E
-		Boot Gems: 0x98721A
+  5 - Swapped:
+    Hair: 0x353535
+    Hat: 0x8C111C
+    Tunic: 0x8C111C
+    Tunic 2: 0x8C111C
+    Tunic Rips: 0x44080E
+    Belt: 0x44080E
 
-	12 - Shadow Link (Four Swords Adventures):
-		Skin: 0x696969
-		Eyes: 0x353535
-		Eye White: 0x696969
-		Hair: 0x696969
-		Armor: 0x6F6F6F
-		Hat: 0x282828
-		Collar: 0x414141
-		Tunic: 0x282828
-		Tunic 2: 0x282828
-		Tunic Rips: 0x151515
-		Sleeves: 0x282828
-		Hands: 0x696969
-		Bracers: 0x6F6F6F
-		Bracers 2: 0x414141
-		Belt: 0x444444
-		Belt Buckle: 0x6F6F6F
-		Tights: 0x1B1B1B
-		Boots: 0x6F6F6F
-		Boots 2: 0x292929
-		Boot Gems: 0x2A2A2A
-		
-	13 - Dark Link (Oracle of Ages):
-		Skin: 0x4F4F4F
-		Eye White: 0x0B0B0B
-		Hair: 0x232323
-		Armor: 0x4F4F4F
-		Hat: 0x4F4F4F
-		Collar: 0x4F4F4F
-		Tunic: 0x4F4F4F
-		Tunic 2: 0x4F4F4F
-		Tunic Rips: 0x4F4F4F
-		Sleeves: 0x4F4F4F
-		Hands: 0x4F4F4F
-		Bracers: 0x4F4F4F
-		Bracers 2: 0x4F4F4F
-		Belt: 0x4F4F4F
-		Belt Buckle: 0x4F4F4F
-		Tights: 0x4F4F4F
-		Boots: 0x4F4F4F
-		Boots 2: 0x4F4F4F
-		Boot Gems: 0x4F4F4F
+  6 - Imposter:
+    Hat: 0x486440
+    Collar: 0xABAD93
+    Tunic: 0x486440
+    Tunic 2: 0x486440
+    Tunic Rips: 0x3C5335
+    Sleeves: 0xABAD93
+    Hands: 0x7F512C
+    Bracers: 0x7F512C
+    Bracers 2: 0x554125
+    Belt: 0x554125
+    Belt Buckle: 0xB0A673
+    Tights: 0xABAD93
+    Boots: 0x7F512C
+    Boots 2: 0x554125
+    Boot Gems: 0x8F6D4A
 
-	14 - Dark Link / Dark Interloper (Twilight Princess):
-		Skin: 0x000000
-		Eye White: 0xE20000
-		Hair: 0x898B8A
-		Armor: 0x6A6A6A
-		Hat: 0x565E56
-		Collar: 0x161616
-		Tunic: 0x565E56
-		Tunic 2: 0x565E56
-		Tunic Rips: 0x343934
-		Sleeves: 0x111111
-		Hands: 0xBAB7B0
-		Bracers: 0xBAB7B0
-		Bracers 2: 0x6B6965
-		Belt: 0x535353
-		Belt Buckle: 0xCCCCCC
-		Tights: 0x272727
-		Boots: 0xBAB7B0
-		Boots 2: 0xA5A5A5
-		Boot Gems: 0xC2C2C2
+  7 - Linka:
+    Skin: 0xF7DB9C
+    Eyes: 0x5277B4
+    Hair: 0xF7D538
+    Armor: 0x90AC87
+    Hat: 0x528F3D
+    Collar: 0xFFFCFC
+    Tunic: 0x528F3D
+    Tunic 2: 0x528F3D
+    Tunic Rips: 0x447532
+    Sleeves: 0xFFFCFC
+    Hands: 0x944908
+    Bracers: 0x944908
+    Bracers 2: 0x633008
+    Belt: 0x633008
+    Belt Buckle: 0xF7D538
+    Tights: 0xFFFCFC
+    Boots: 0x944908
+    Boots 2: 0xE58C3F
+    Boot Gems: 0xE58C3F
 
-	15 - Dark Young Link (Super Smash Bros.):
-		Skin: 0x6C6C81
-		Eyes: 0xF05666
-		Eye White: 0xD84C6A
-		Hair: 0xE3E0E7
-		Armor: 0x3A373A
-		Hat: 0x5B5C5E
-		Collar: 0x555566
-		Tunic: 0x5B5C5E
-		Tunic 2: 0x5B5C5E
-		Tunic Rips: 0x434446
-		Sleeves: 0x6C6C81
-		Hands: 0x6C6C81
-		Bracers: 0x6C6C81
-		Bracers 2: 0x3A373A
-		Belt: 0x3A373A
-		Belt Buckle: 0xA09EA2
-		Tights: 0x6C6C81
-		Boots: 0x4A464A
-		Boots 2: 0xA09EA2
-		Boot Gems: 0x3A373A
+  8 - Linka (Gold Armor):
+    Skin: 0xF7DB9C
+    Eyes: 0x5277B4
+    Hair: 0xF7D538
+    Armor: 0xD8C13F
+    Hat: 0x528F3D
+    Collar: 0xFFFCFC
+    Tunic: 0x528F3D
+    Tunic 2: 0x528F3D
+    Tunic Rips: 0x447532
+    Sleeves: 0xFFFCFC
+    Hands: 0x944908
+    Bracers: 0x944908
+    Bracers 2: 0x633008
+    Belt: 0x633008
+    Belt Buckle: 0xF7D538
+    Tights: 0xFFFCFC
+    Boots: 0x944908
+    Boots 2: 0xE58C3F
+    Boot Gems: 0xE58C3F
 
-	16 - Dark Toon Link (Super Smash Bros.):
-		Skin: 0x6B5C5F
-		Eyes: 0xE10000
-		Eye White: 0x000000
-		Hair: 0xC9CFCC
-		Armor: 0x676A6F
-		Hat: 0x363636
-		Collar: 0x72777A
-		Tunic: 0x363636
-		Tunic 2: 0x363636
-		Tunic Rips: 0x282828
-		Sleeves: 0x363636
-		Hands: 0x6B5C5F
-		Bracers: 0x363636
-		Bracers 2: 0x2D2D2D
-		Belt: 0xB1AEA9
-		Belt Buckle: 0xB2AF80
-		Tights: 0x898E92
-		Boots: 0x676767
-		Boots 2: 0x676767
-		Boot Gems: 0x676767
+  9 - ReDead (Ocarina of Time):
+    Skin: 0x925D2E
+    Eyes: 0x000000
+    Eye White: 0x000000
+    Hair: 0x5E4121
+    Armor: 0x5D4B31
+    Hat: 0x5E4121
+    Collar: 0x6C5B4A
+    Tunic: 0x5E4121
+    Tunic 2: 0x5E4121
+    Tunic Rips: 0x504337
+    Sleeves: 0x925D2E
+    Hands: 0x5E4121
+    Bracers: 0x5E4121
+    Bracers 2: 0x473018
+    Belt: 0x4C341A
+    Belt Buckle: 0x966735
+    Tights: 0x925D2E
+    Boots: 0x78542B
+    Boots 2: 0x553A1E
+    Boot Gems: 0x78542B
 
-	17 - Shadow Link (A Link Between Worlds):
-		Skin: 0x361B36
-		Eyes: 0xE20047
-		Eye White: 0x361B36
-		Hair: 0x582A5A
-		Armor: 0x4B244D
-		Hat: 0x361B36
-		Collar: 0x361B36
-		Tunic: 0x361B36
-		Tunic 2: 0x361B36
-		Tunic Rips: 0x361B36
-		Sleeves: 0x361B36
-		Hands: 0x361B36
-		Bracers: 0x361B36
-		Bracers 2: 0x361B36
-		Belt: 0x361B36
-		Belt Buckle: 0x733776
-		Tights: 0x361B36
-		Boots: 0x361B36
-		Boots 2: 0x361B36
-		Boot Gems: 0x361B36
+  10 - ReDead (Wind Waker):
+    Skin: 0x90CEC9
+    Eyes: 0xFC4402
+    Eye White: 0x000000
+    Hair: 0x64908C
+    Armor: 0xD6B745
+    Hat: 0x64908C
+    Collar: 0xD8E1E0
+    Tunic: 0x689691
+    Tunic 2: 0x689691
+    Tunic Rips: 0xD8E1E0
+    Sleeves: 0x90CEC9
+    Hands: 0x90CEC9
+    Bracers: 0x90CEC9
+    Bracers 2: 0xD8E1E0
+    Belt: 0x4E716D
+    Belt Buckle: 0xD8E1E0
+    Tights: 0x90CEC9
+    Boots: 0x6B9A95
+    Boots 2: 0xD8E1E0
+    Boot Gems: 0xD6B745
 
-	18 - Shadow Link (Link's Awakening):
-		Skin: 0x150432
-		Eyes: 0xFFF5A5
-		Eye White: 0xFEFFD8
-		Hair: 0x1E064C
-		Armor: 0x2C0968
-		Hat: 0x240854
-		Collar: 0x230853
-		Tunic: 0x240855
-		Tunic 2: 0x240855
-		Tunic Rips: 0x1E074A
-		Sleeves: 0x2F0A6F
-		Hands: 0x28095D
-		Bracers: 0x2B0964
-		Bracers 2: 0x2A0963
-		Belt: 0x260859
-		Belt Buckle: 0x290862
-		Tights: 0x1C0642
-		Boots: 0x1A063E
-		Boots 2: 0x1C0642
-		Boot Gems: 0x350C78
+  11 - Fierce Deity:
+    Skin: 0xD4BDAC
+    Eyes: 0xFFFFFF
+    Hair: 0xCFD7E6
+    Armor: 0x9799AB
+    Hat: 0x98B9BA
+    Collar: 0x1D2E51
+    Tunic: 0x98B9BA
+    Tunic 2: 0x98B9BA
+    Tunic Rips: 0x7F9A9A
+    Sleeves: 0x1D2E51
+    Hands: 0x6F6F6F
+    Bracers: 0x6F6F6F
+    Bracers 2: 0x3E3E3E
+    Belt: 0x1D2E51
+    Belt Buckle: 0xD4D4D4
+    Tights: 0x1D2E51
+    Boots: 0x7D4E2D
+    Boots 2: 0xB8925E
+    Boot Gems: 0x98721A
 
-	19 - Cursed / Creepypasta:
-		Skin: 0xFFFFFF
-		Eyes: 0x000000
-		Eye White: 0x000000
-		Hair: 0xB81626
-		Hands: 0xFFFFFF
-		Bracers: 0x505050
-		Belt Buckle: 0xFFFFFF
-		Tights: 0xFFFFFF
-		Boots: 0x363636
+  12 - Shadow Link (Four Swords Adventures):
+    Skin: 0x696969
+    Eyes: 0x353535
+    Eye White: 0x696969
+    Hair: 0x696969
+    Armor: 0x6F6F6F
+    Hat: 0x282828
+    Collar: 0x414141
+    Tunic: 0x282828
+    Tunic 2: 0x282828
+    Tunic Rips: 0x151515
+    Sleeves: 0x282828
+    Hands: 0x696969
+    Bracers: 0x6F6F6F
+    Bracers 2: 0x414141
+    Belt: 0x444444
+    Belt Buckle: 0x6F6F6F
+    Tights: 0x1B1B1B
+    Boots: 0x6F6F6F
+    Boots 2: 0x292929
+    Boot Gems: 0x2A2A2A
 
-	20 - Failed Hero:
-		Skin: 0xB7B7B7
-		Eyes: 0xAD0E0A
-		Hair: 0xC8C8C8
-		Hat: 0x696969
-		Collar: 0xEAEAEA
-		Tunic: 0x696969
-		Tunic 2: 0x696969
-		Tunic Rips: 0x585858
-		Sleeves: 0xEAEAEA
-		Hands: 0x71302A
-		Bracers: 0x71302A
-		Bracers 2: 0x582520
-		Belt: 0x54231F
-		Tights: 0xEAEAEA
-		Boots: 0x71302A
-		Boots 2: 0x71302A
-		Boot Gems: 0x71302A
+  13 - Dark Link (Oracle of Ages):
+    Skin: 0x4F4F4F
+    Eye White: 0x0B0B0B
+    Hair: 0x232323
+    Armor: 0x4F4F4F
+    Hat: 0x4F4F4F
+    Collar: 0x4F4F4F
+    Tunic: 0x4F4F4F
+    Tunic 2: 0x4F4F4F
+    Tunic Rips: 0x4F4F4F
+    Sleeves: 0x4F4F4F
+    Hands: 0x4F4F4F
+    Bracers: 0x4F4F4F
+    Bracers 2: 0x4F4F4F
+    Belt: 0x4F4F4F
+    Belt Buckle: 0x4F4F4F
+    Tights: 0x4F4F4F
+    Boots: 0x4F4F4F
+    Boots 2: 0x4F4F4F
+    Boot Gems: 0x4F4F4F
 
-	21 - Dark Link (Adventure of Link):
-		Skin: 0x000000
-		Eyes: 0x000000
-		Eye White: 0x000000
-		Hair: 0x000000
-		Armor: 0x000000
-		Hat: 0x000000
-		Collar: 0x000000
-		Tunic: 0x000000
-		Tunic 2: 0x000000
-		Tunic Rips: 0x000000
-		Sleeves: 0x000000
-		Hands: 0x000000
-		Bracers: 0x000000
-		Bracers 2: 0x000000
-		Belt: 0x000000
-		Belt Buckle: 0x000000
-		Tights: 0x000000
-		Boots: 0x000000
-		Boots 2: 0x000000
-		Boot Gems: 0x000000
+  14 - Dark Link / Dark Interloper (Twilight Princess):
+    Skin: 0x000000
+    Eye White: 0xE20000
+    Hair: 0x898B8A
+    Armor: 0x6A6A6A
+    Hat: 0x565E56
+    Collar: 0x161616
+    Tunic: 0x565E56
+    Tunic 2: 0x565E56
+    Tunic Rips: 0x343934
+    Sleeves: 0x111111
+    Hands: 0xBAB7B0
+    Bracers: 0xBAB7B0
+    Bracers 2: 0x6B6965
+    Belt: 0x535353
+    Belt Buckle: 0xCCCCCC
+    Tights: 0x272727
+    Boots: 0xBAB7B0
+    Boots 2: 0xA5A5A5
+    Boot Gems: 0xC2C2C2
 
-	22 - Dark Link (Spirit Tracks):
-		Skin: 0x000000
-		Eyes: 0x000000
-		Hair: 0x000000
-		Armor: 0x000000
-		Hat: 0x000000
-		Collar: 0x000000
-		Tunic: 0x000000
-		Tunic 2: 0x000000
-		Tunic Rips: 0x000000
-		Sleeves: 0x000000
-		Hands: 0x000000
-		Bracers: 0x000000
-		Bracers 2: 0x000000
-		Belt: 0x000000
-		Belt Buckle: 0x000000
-		Tights: 0x000000
-		Boots: 0x000000
-		Boots 2: 0x000000
-		Boot Gems: 0x000000
+  15 - Dark Young Link (Super Smash Bros.):
+    Skin: 0x6C6C81
+    Eyes: 0xF05666
+    Eye White: 0xD84C6A
+    Hair: 0xE3E0E7
+    Armor: 0x3A373A
+    Hat: 0x5B5C5E
+    Collar: 0x555566
+    Tunic: 0x5B5C5E
+    Tunic 2: 0x5B5C5E
+    Tunic Rips: 0x434446
+    Sleeves: 0x6C6C81
+    Hands: 0x6C6C81
+    Bracers: 0x6C6C81
+    Bracers 2: 0x3A373A
+    Belt: 0x3A373A
+    Belt Buckle: 0xA09EA2
+    Tights: 0x6C6C81
+    Boots: 0x4A464A
+    Boots 2: 0xA09EA2
+    Boot Gems: 0x3A373A
 
-	23 - Dark Link (Ocarina of Time):
-		Skin: 0x000000
-		Eye White: 0x000000
-		Hair: 0x000000
-		Armor: 0x000000
-		Hat: 0x000000
-		Collar: 0x000000
-		Tunic: 0x000000
-		Tunic 2: 0x000000
-		Tunic Rips: 0x000000
-		Sleeves: 0x000000
-		Hands: 0x000000
-		Bracers: 0x000000
-		Bracers 2: 0x000000
-		Belt: 0x000000
-		Belt Buckle: 0x000000
-		Tights: 0x000000
-		Boots: 0x000000
-		Boots 2: 0x000000
-		Boot Gems: 0x000000
-		
-	24 - Shadow Link (Four Swords Adventures Manga):
-		Skin: 0xFFCEAB
-		Eyes: 0x778CA8
-		Eye White: 0x361B36
-		Hair: 0xA33E8D
-		Armor: 0x646464
-		Hat: 0x4F4F4F
-		Collar: 0xEFEFEF
-		Tunic: 0x4F4F4F
-		Tunic 2: 0x4F4F4F
-		Tunic Rips: 0x3A3A3A
-		Sleeves: 0xEFEFEF
-		Hands: 0xFFCEAB
-		Bracers: 0xEFEFEF
-		Bracers 2: 0xEFEFEF
-		Belt: 0xB52F53
-		Belt Buckle: 0xFCE832
-		Tights: 0xEFEFEF
-		Boots: 0x646464
-		Boots 2: 0x4F4F4F
-		Boot Gems: 0x4F4F4F
+  16 - Dark Toon Link (Super Smash Bros.):
+    Skin: 0x6B5C5F
+    Eyes: 0xE10000
+    Eye White: 0x000000
+    Hair: 0xC9CFCC
+    Armor: 0x676A6F
+    Hat: 0x363636
+    Collar: 0x72777A
+    Tunic: 0x363636
+    Tunic 2: 0x363636
+    Tunic Rips: 0x282828
+    Sleeves: 0x363636
+    Hands: 0x6B5C5F
+    Bracers: 0x363636
+    Bracers 2: 0x2D2D2D
+    Belt: 0xB1AEA9
+    Belt Buckle: 0xB2AF80
+    Tights: 0x898E92
+    Boots: 0x676767
+    Boots 2: 0x676767
+    Boot Gems: 0x676767
 
-	25 - Ravio:
-		Skin: 0xECC5BB
-		Eyes: 0x6B7D1B
-		Hair: 0x45355F
-		Armor: 0x714827
-		Hat: 0xB662BC
-		Collar: 0x1B69B8
-		Tunic: 0xB662BC
-		Tunic 2: 0xB662BC
-		Tunic Rips: 0x834687
-		Sleeves: 0xB662BC
-		Hands: 0xECC5BB
-		Bracers: 0xB662BC
-		Bracers 2: 0x834687
-		Belt: 0xB03838
-		Belt Buckle: 0x45DC6C
-		Tights: 0xECC5BB
-		Boots: 0x714827
-		Boots 2: 0x714827
-		Boot Gems: 0x45DC6C
+  17 - Shadow Link (A Link Between Worlds):
+    Skin: 0x361B36
+    Eyes: 0xE20047
+    Eye White: 0x361B36
+    Hair: 0x582A5A
+    Armor: 0x4B244D
+    Hat: 0x361B36
+    Collar: 0x361B36
+    Tunic: 0x361B36
+    Tunic 2: 0x361B36
+    Tunic Rips: 0x361B36
+    Sleeves: 0x361B36
+    Hands: 0x361B36
+    Bracers: 0x361B36
+    Bracers 2: 0x361B36
+    Belt: 0x361B36
+    Belt Buckle: 0x733776
+    Tights: 0x361B36
+    Boots: 0x361B36
+    Boots 2: 0x361B36
+    Boot Gems: 0x361B36
 
-	26 - Ravio 2:
-		Skin: 0xECD0D0
-		Eyes: 0x6B7D1B
-		Hair: 0x45355F
-		Armor: 0x714827
-		Hat: 0xB662BC
-		Collar: 0x1B69B8
-		Tunic: 0xB662BC
-		Tunic 2: 0xB662BC
-		Tunic Rips: 0x834687
-		Sleeves: 0xECD0D0
-		Hands: 0xECD0D0
-		Bracers: 0x1B69B8
-		Bracers 2: 0x232323
-		Belt: 0xB03838
-		Belt Buckle: 0x6DDC7A
-		Tights: 0x502B53
-		Boots: 0x714827
-		Boots 2: 0x714827
-		Boot Gems: 0x45DC6C
+  18 - Shadow Link (Link's Awakening):
+    Skin: 0x150432
+    Eyes: 0xFFF5A5
+    Eye White: 0xFEFFD8
+    Hair: 0x1E064C
+    Armor: 0x2C0968
+    Hat: 0x240854
+    Collar: 0x230853
+    Tunic: 0x240855
+    Tunic 2: 0x240855
+    Tunic Rips: 0x1E074A
+    Sleeves: 0x2F0A6F
+    Hands: 0x28095D
+    Bracers: 0x2B0964
+    Bracers 2: 0x2A0963
+    Belt: 0x260859
+    Belt Buckle: 0x290862
+    Tights: 0x1C0642
+    Boots: 0x1A063E
+    Boots 2: 0x1C0642
+    Boot Gems: 0x350C78
 
-	27 - Dark Link (A Link to the Past, Green):
-		Skin: 0x988880
-		Eyes: 0xD85048
-		Eye White: 0x000000
-		Hair: 0x305398
-		Armor: 0x657661
-		Hat: 0x2F5529
-		Collar: 0x505050
-		Tunic: 0x2F5529
-		Tunic 2: 0x2F5529
-		Tunic Rips: 0x223E1E
-		Sleeves: 0x5A4B3C
-		Hands: 0x606048
-		Bracers: 0x606048
-		Bracers 2: 0x424231
-		Belt: 0x848051
-		Belt Buckle: 0x75553E
-		Tights: 0x4B433F
-		Boots: 0x753436
-		Boots 2: 0x5E1F20
-		Boot Gems: 0x753436	
+  19 - Cursed / Creepypasta:
+    Skin: 0xFFFFFF
+    Eyes: 0x000000
+    Eye White: 0x000000
+    Hair: 0xB81626
+    Hands: 0xFFFFFF
+    Bracers: 0x505050
+    Belt Buckle: 0xFFFFFF
+    Tights: 0xFFFFFF
+    Boots: 0x363636
 
-	28 - Dark Link (A Link to the Past, Red):
-		Skin: 0x988880
-		Eyes: 0xD85048
-		Eye White: 0x000000
-		Hair: 0x305398
-		Armor: 0x657661
-		Hat: 0x983B32
-		Collar: 0x505050
-		Tunic: 0x983B32
-		Tunic 2: 0x983B32
-		Tunic Rips: 0x5D2F1F
-		Sleeves: 0x5A4B3C
-		Hands: 0x606048
-		Bracers: 0x606048
-		Bracers 2: 0x424231
-		Belt: 0x848051
-		Belt Buckle: 0x75553E
-		Tights: 0x4B433F
-		Boots: 0x753436
-		Boots 2: 0x5E1F20
-		Boot Gems: 0x753436
+  20 - Failed Hero:
+    Skin: 0xB7B7B7
+    Eyes: 0xAD0E0A
+    Hair: 0xC8C8C8
+    Hat: 0x696969
+    Collar: 0xEAEAEA
+    Tunic: 0x696969
+    Tunic 2: 0x696969
+    Tunic Rips: 0x585858
+    Sleeves: 0xEAEAEA
+    Hands: 0x71302A
+    Bracers: 0x71302A
+    Bracers 2: 0x582520
+    Belt: 0x54231F
+    Tights: 0xEAEAEA
+    Boots: 0x71302A
+    Boots 2: 0x71302A
+    Boot Gems: 0x71302A
 
-	29 - Dark Link (A Link to the Past, Blue):
-		Skin: 0x988880
-		Eyes: 0xD85048
-		Eye White: 0x000000
-		Hair: 0x305398
-		Armor: 0x657661
-		Hat: 0x3B4374
-		Collar: 0x505050
-		Tunic: 0x3B4374
-		Tunic 2: 0x3B4374
-		Tunic Rips: 0x323962
-		Sleeves: 0x5A4B3C
-		Hands: 0x606048
-		Bracers: 0x606048
-		Bracers 2: 0x424231
-		Belt: 0x848051
-		Belt Buckle: 0x75553E
-		Tights: 0x4B433F
-		Boots: 0x753436
-		Boots 2: 0x5E1F20
-		Boot Gems: 0x753436
+  21 - Dark Link (Adventure of Link):
+    Skin: 0x000000
+    Eyes: 0x000000
+    Eye White: 0x000000
+    Hair: 0x000000
+    Armor: 0x000000
+    Hat: 0x000000
+    Collar: 0x000000
+    Tunic: 0x000000
+    Tunic 2: 0x000000
+    Tunic Rips: 0x000000
+    Sleeves: 0x000000
+    Hands: 0x000000
+    Bracers: 0x000000
+    Bracers 2: 0x000000
+    Belt: 0x000000
+    Belt Buckle: 0x000000
+    Tights: 0x000000
+    Boots: 0x000000
+    Boots 2: 0x000000
+    Boot Gems: 0x000000
 
-	30 - Dark Link (A Link to the Past, Purple):
-		Skin: 0x988880
-		Eyes: 0xD85048
-		Eye White: 0x000000
-		Hair: 0x305398
-		Armor: 0x657661
-		Hat: 0x74266D
-		Collar: 0x505050
-		Tunic: 0x74266D
-		Tunic 2: 0x74266D
-		Tunic Rips: 0x4C1848
-		Sleeves: 0x5A4B3C
-		Hands: 0x606048
-		Bracers: 0x606048
-		Bracers 2: 0x424231
-		Belt: 0x848051
-		Belt Buckle: 0x75553E
-		Tights: 0x4B433F
-		Boots: 0x753436
-		Boots 2: 0x5E1F20
-		Boot Gems: 0x753436
+  22 - Dark Link (Spirit Tracks):
+    Skin: 0x000000
+    Eyes: 0x000000
+    Hair: 0x000000
+    Armor: 0x000000
+    Hat: 0x000000
+    Collar: 0x000000
+    Tunic: 0x000000
+    Tunic 2: 0x000000
+    Tunic Rips: 0x000000
+    Sleeves: 0x000000
+    Hands: 0x000000
+    Bracers: 0x000000
+    Bracers 2: 0x000000
+    Belt: 0x000000
+    Belt Buckle: 0x000000
+    Tights: 0x000000
+    Boots: 0x000000
+    Boots 2: 0x000000
+    Boot Gems: 0x000000
+
+  23 - Dark Link (Ocarina of Time):
+    Skin: 0x000000
+    Eye White: 0x000000
+    Hair: 0x000000
+    Armor: 0x000000
+    Hat: 0x000000
+    Collar: 0x000000
+    Tunic: 0x000000
+    Tunic 2: 0x000000
+    Tunic Rips: 0x000000
+    Sleeves: 0x000000
+    Hands: 0x000000
+    Bracers: 0x000000
+    Bracers 2: 0x000000
+    Belt: 0x000000
+    Belt Buckle: 0x000000
+    Tights: 0x000000
+    Boots: 0x000000
+    Boots 2: 0x000000
+    Boot Gems: 0x000000
+
+  24 - Shadow Link (Four Swords Adventures Manga):
+    Skin: 0xFFCEAB
+    Eyes: 0x778CA8
+    Eye White: 0x361B36
+    Hair: 0xA33E8D
+    Armor: 0x646464
+    Hat: 0x4F4F4F
+    Collar: 0xEFEFEF
+    Tunic: 0x4F4F4F
+    Tunic 2: 0x4F4F4F
+    Tunic Rips: 0x3A3A3A
+    Sleeves: 0xEFEFEF
+    Hands: 0xFFCEAB
+    Bracers: 0xEFEFEF
+    Bracers 2: 0xEFEFEF
+    Belt: 0xB52F53
+    Belt Buckle: 0xFCE832
+    Tights: 0xEFEFEF
+    Boots: 0x646464
+    Boots 2: 0x4F4F4F
+    Boot Gems: 0x4F4F4F
+
+  25 - Ravio:
+    Skin: 0xECC5BB
+    Eyes: 0x6B7D1B
+    Hair: 0x45355F
+    Armor: 0x714827
+    Hat: 0xB662BC
+    Collar: 0x1B69B8
+    Tunic: 0xB662BC
+    Tunic 2: 0xB662BC
+    Tunic Rips: 0x834687
+    Sleeves: 0xB662BC
+    Hands: 0xECC5BB
+    Bracers: 0xB662BC
+    Bracers 2: 0x834687
+    Belt: 0xB03838
+    Belt Buckle: 0x45DC6C
+    Tights: 0xECC5BB
+    Boots: 0x714827
+    Boots 2: 0x714827
+    Boot Gems: 0x45DC6C
+
+  26 - Ravio 2:
+    Skin: 0xECD0D0
+    Eyes: 0x6B7D1B
+    Hair: 0x45355F
+    Armor: 0x714827
+    Hat: 0xB662BC
+    Collar: 0x1B69B8
+    Tunic: 0xB662BC
+    Tunic 2: 0xB662BC
+    Tunic Rips: 0x834687
+    Sleeves: 0xECD0D0
+    Hands: 0xECD0D0
+    Bracers: 0x1B69B8
+    Bracers 2: 0x232323
+    Belt: 0xB03838
+    Belt Buckle: 0x6DDC7A
+    Tights: 0x502B53
+    Boots: 0x714827
+    Boots 2: 0x714827
+    Boot Gems: 0x45DC6C
+
+  27 - Dark Link (A Link to the Past, Green):
+    Skin: 0x988880
+    Eyes: 0xD85048
+    Eye White: 0x000000
+    Hair: 0x305398
+    Armor: 0x657661
+    Hat: 0x2F5529
+    Collar: 0x505050
+    Tunic: 0x2F5529
+    Tunic 2: 0x2F5529
+    Tunic Rips: 0x223E1E
+    Sleeves: 0x5A4B3C
+    Hands: 0x606048
+    Bracers: 0x606048
+    Bracers 2: 0x424231
+    Belt: 0x848051
+    Belt Buckle: 0x75553E
+    Tights: 0x4B433F
+    Boots: 0x753436
+    Boots 2: 0x5E1F20
+    Boot Gems: 0x753436
+
+  28 - Dark Link (A Link to the Past, Red):
+    Skin: 0x988880
+    Eyes: 0xD85048
+    Eye White: 0x000000
+    Hair: 0x305398
+    Armor: 0x657661
+    Hat: 0x983B32
+    Collar: 0x505050
+    Tunic: 0x983B32
+    Tunic 2: 0x983B32
+    Tunic Rips: 0x5D2F1F
+    Sleeves: 0x5A4B3C
+    Hands: 0x606048
+    Bracers: 0x606048
+    Bracers 2: 0x424231
+    Belt: 0x848051
+    Belt Buckle: 0x75553E
+    Tights: 0x4B433F
+    Boots: 0x753436
+    Boots 2: 0x5E1F20
+    Boot Gems: 0x753436
+
+  29 - Dark Link (A Link to the Past, Blue):
+    Skin: 0x988880
+    Eyes: 0xD85048
+    Eye White: 0x000000
+    Hair: 0x305398
+    Armor: 0x657661
+    Hat: 0x3B4374
+    Collar: 0x505050
+    Tunic: 0x3B4374
+    Tunic 2: 0x3B4374
+    Tunic Rips: 0x323962
+    Sleeves: 0x5A4B3C
+    Hands: 0x606048
+    Bracers: 0x606048
+    Bracers 2: 0x424231
+    Belt: 0x848051
+    Belt Buckle: 0x75553E
+    Tights: 0x4B433F
+    Boots: 0x753436
+    Boots 2: 0x5E1F20
+    Boot Gems: 0x753436
+
+  30 - Dark Link (A Link to the Past, Purple):
+    Skin: 0x988880
+    Eyes: 0xD85048
+    Eye White: 0x000000
+    Hair: 0x305398
+    Armor: 0x657661
+    Hat: 0x74266D
+    Collar: 0x505050
+    Tunic: 0x74266D
+    Tunic 2: 0x74266D
+    Tunic Rips: 0x4C1848
+    Sleeves: 0x5A4B3C
+    Hands: 0x606048
+    Bracers: 0x606048
+    Bracers 2: 0x424231
+    Belt: 0x848051
+    Belt Buckle: 0x75553E
+    Tights: 0x4B433F
+    Boots: 0x753436
+    Boots 2: 0x5E1F20
+    Boot Gems: 0x753436
 
 casual_color_presets:
-	1 - Linka Casual:
-		Skin: 0xF7DB9C
-		Skin 2: 0xF7DB9C
-		Arms: 0xF7DB9C
-		Hands: 0xF7DB9C
-		Eyes: 0x4E71AB
-		Hair: 0xF7D538
-		Hairband: 0x4379BE
-		Shirt: 0x4379BE
-		Buttons: 0xFDFDFD
-		Undershirt: 0x65496A
-		Belt: 0x78B8F4
-		Belt Buckle: 0xFDFDFD
-		Skirt: 0x4379BE
-		Tights: 0x65496A
-		Tights 2: 0x65496A
-		Tights 3: 0xF7DB9C
-		Flats: 0x4379BE
+  1 - Linka Casual:
+    Skin: 0xF7DB9C
+    Skin 2: 0xF7DB9C
+    Arms: 0xF7DB9C
+    Hands: 0xF7DB9C
+    Eyes: 0x4E71AB
+    Hair: 0xF7D538
+    Hairband: 0x4379BE
+    Shirt: 0x4379BE
+    Buttons: 0xFDFDFD
+    Undershirt: 0x65496A
+    Belt: 0x78B8F4
+    Belt Buckle: 0xFDFDFD
+    Skirt: 0x4379BE
+    Tights: 0x65496A
+    Tights 2: 0x65496A
+    Tights 3: 0xF7DB9C
+    Flats: 0x4379BE
 
-	2 - Linka Hero:
-		Skin: 0xF7DB9C
-		Skin 2: 0x944908
-		Arms: 0xFFFCFC
-		Hands: 0xF7DB9C
-		Eyes: 0x4E71AB
-		Hair: 0xF7D538
-		Hairband: 0x528F3D
-		Shirt: 0x528F3D
-		Buttons: 0x447632
-		Undershirt: 0xFFFCFC
-		Belt: 0x633008
-		Belt Buckle: 0xF7D538
-		Skirt: 0x528F3D
-		Tights: 0xFFFCFC
-		Tights 2: 0xF7DB9C
-		Tights 3: 0xE58C3F
-		Flats: 0x944908
+  2 - Linka Hero:
+    Skin: 0xF7DB9C
+    Skin 2: 0x944908
+    Arms: 0xFFFCFC
+    Hands: 0xF7DB9C
+    Eyes: 0x4E71AB
+    Hair: 0xF7D538
+    Hairband: 0x528F3D
+    Shirt: 0x528F3D
+    Buttons: 0x447632
+    Undershirt: 0xFFFCFC
+    Belt: 0x633008
+    Belt Buckle: 0xF7D538
+    Skirt: 0x528F3D
+    Tights: 0xFFFCFC
+    Tights 2: 0xF7DB9C
+    Tights 3: 0xE58C3F
+    Flats: 0x944908
 
-	3 - Not-so Casual:
-		Skin 2: 0x818181
-		Arms: 0x353535
-		Undershirt: 0x434343
-		Skirt: 0x353535
-		Tights: 0x909090
-		Tights 3: 0x4F4F4F
-		Flats: 0x909090
-		
-	4 - Swapped:
-		Hair: 0x353535
-		Hairband: 0x8C111C
-		Shirt: 0x8C111C
-		Buttons: 0xBC5456
-		Belt: 0x532122
-		Skirt: 0x353535
-		Tights: 0x8C111C
-		Tights 2: 0x8C111C
-		Tights 3: 0x8C111C
-		Flats: 0x272727
-		
-	5 - Alternate Palette:
-		Skin: 0xD1C4C4
-		Skin 2: 0xD1C4C4
-		Hands: 0xD1C4C4
-		Arms: 0xD1C4C4
-		Eye White: 0x000000
-		Hair: 0xCFCCA4
-		Skirt: 0x8C8C8C
-		Tights 2: 0xD1C4C4
-		Tights 3: 0x272727
-		Flats: 0x8C8C8C
-		
-	6 - Alternate Palette 2:
-		Skin: 0x6B6B6B
-		Skin 2: 0x6B6B6B
-		Hands: 0x6B6B6B
-		Arms: 0x6B6B6B
-		Eyes: 0xE10000
-		Eye White: 0xE10000
-		Hair: 0x614483
-		Shirt: 0x363636
-		Undershirt: 0x614483
-		Belt: 0xB1AEA9
-		Belt Buckle: 0xB2AF80
-		Skirt: 0x614483
-		Tights: 0x363636
-		Tights 2: 0x363636
-		Tights 3: 0x363636 
-		Flats: 0x222222
+  3 - Not-so Casual:
+    Skin 2: 0x818181
+    Arms: 0x353535
+    Undershirt: 0x434343
+    Skirt: 0x353535
+    Tights: 0x909090
+    Tights 3: 0x4F4F4F
+    Flats: 0x909090
 
-	7 - It's not a Phase:
-		Skin: 0xD6C3BB
-		Skin 2: 0x343434
-		Hands: 0xD6C3BB
-		Arms: 0xD6C3BB
-		Eyes: 0x886363
-		Hair: 0x303030
-		Hairband: 0x303030
-		Buttons: 0x353535
-		Undershirt: 0x1E1E1E
-		Belt: 0xD6C3BB
-		Skirt: 0x1E1E1E
-		Tights: 0x343434
-		Tights 2: 0xD6C3BB
-		Tights 3: 0xD6C3BB
-		Flats: 0x1E1E1E
-				
-	8 - Dark Kokiri:
-		Skin: 0xAEA7CC
-		Skin 2: 0x3C3F42
-		Hands: 0x3C3F42
-		Arms: 0xAEA7CC
-		Eyes: 0xF0E2FF
-		Eye White: 0x3C3F42
-		Hair: 0xE6E4E6
-		Shirt: 0x434343
-		Buttons: 0xB8A859
-		Undershirt: 0xB8A859
-		Belt: 0xB8A859
-		Belt Buckle: 0xE6D9AB
-		Skirt: 0xB8A859
-		Tights: 0x3C3F42
-		Tights 2: 0xAEA7CC
-		Tights 3: 0x3C3F42 
-		Flats: 0xB8A859
-		
-	9 - Dark Young Link:
-		Skin: 0x6C6C81
-		Skin 2: 0x6C6C81
-		Hands: 0x6C6C81
-		Arms: 0x6C6C81
-		Eyes: 0xF05666
-		Eye White: 0xD84C6A
-		Hair: 0xE3E0E7
-		Hairband: 0x5B5C5E
-		Shirt: 0x5B5C5E		
-		Buttons: 0x3A373A		
-		Undershirt: 0x42424F
-		Belt: 0x3A373A
-		Belt Buckle: 0xA09EA2
-		Skirt: 0x5B5C5E
-		Tights: 0x272727
-		Tights 2: 0x6C6C81
-		Tights 3: 0x272727
-		Flats: 0x272727
-		
-	10 - Dark Toon Link:
-		Skin: 0x6B5C5F
-		Skin 2: 0x6B7073
-		Hands: 0x6B5C5F
-		Arms: 0x6B7073
-		Eyes: 0xE10000
-		Eye White: 0x000000
-		Hair: 0xC9CFCC
-		Hairband: 0x363636
-		Shirt: 0x363636		
-		Buttons: 0x363636		
-		Undershirt: 0x6B7073
-		Belt: 0xB1AEA9
-		Belt Buckle: 0xB2AF80
-		Skirt: 0x363636
-		Tights: 0x4F4F4F
-		Tights 2: 0x898E92
-		Tights 3: 0x4F4F4F
-		Flats: 0x4F4F4F
-		
-	11 - Dark Link:
-		Skin: 0x000000
-		Skin 2: 0x000000
-		Hands: 0x000000
-		Arms: 0x000000
-		Eyes: 0xFF0000
-		Eye White: 0x000000
-		Hair: 0x000000
-		Hairband: 0x000000
-		Shirt: 0x000000		
-		Buttons: 0x000000		
-		Undershirt: 0x000000
-		Belt: 0x000000
-		Belt Buckle: 0x000000
-		Skirt: 0x000000
-		Tights: 0x000000
-		Tights 2: 0x000000
-		Tights 3: 0x000000
-		Flats: 0x000000
-		
-	12 - Great Fairy:
-		Skin: 0x1F4156
-		Skin 2: 0x22475E
-		Hands: 0x22475E
-		Arms: 0x22475E
-		Eyes: 0x9FCAEF
-		Eye White: 0x9FCAEF 
-		Hair: 0xB0D6EF		
-		Hairband: 0x9FCAEF
-		Shirt: 0x9FCAEF
-		Buttons: 0x9FCAEF
-		Undershirt: 0x7EA1BD
-		Belt: 0x9FCAEF
-		Belt Buckle: 0x9FCAEF
-		Skirt: 0x78ABCB
-		Tights: 0x50489D
-		Tights 2: 0x465D9D
-		Tights 3: 0x393066
-		Flats: 0x000000
-		
-	13 - Mrs. Marie:
-		Skin: 0xC9B58D
-		Skin 2: 0x005F55
-		Hands: 0xC9B58D
-		Arms: 0x005F55
-		Eyes: 0x5656D5
-		Eye White: 0x000000 
-		Hair: 0xD5598F		
-		Hairband: 0x1894D1
-		Shirt: 0x005F55
-		Buttons: 0xDABC42
-		Undershirt: 0xA0CC6E
-		Belt: 0x2A8BB4
-		Belt Buckle: 0x23AEEA
-		Skirt: 0x005F55
-		Tights: 0x583A5C
-		Tights 2: 0x583A5C
-		Tights 3: 0xCB548A
-		Flats: 0x56529C
-		
-	14 - Fierce Deity:
-		Skin: 0xD4BDAC
-		Skin 2: 0x6F6F6F
-		Hands: 0x6F6F6F
-		Arms: 0x1D2E51
-		Eyes: 0xFFFFFF
-		Hair: 0xCFD7E6
-		Hairband: 0x809C9C
-		Shirt: 0x98B9BA
-		Buttons: 0x9799AB
-		Undershirt: 0x1D2E51
-		Belt: 0x1D2E51
-		Belt Buckle: 0xD4D4D4
-		Skirt: 0x98B9BA
-		Tights: 0x7D4E2D
-		Tights 2: 0x1D2E51
-		Tights 3: 0x7D4E2D
-		Flats: 0x7D4E2D
+  4 - Swapped:
+    Hair: 0x353535
+    Hairband: 0x8C111C
+    Shirt: 0x8C111C
+    Buttons: 0xBC5456
+    Belt: 0x532122
+    Skirt: 0x353535
+    Tights: 0x8C111C
+    Tights 2: 0x8C111C
+    Tights 3: 0x8C111C
+    Flats: 0x272727
 
-	15 - Ganondorf:
-		Skin: 0xA19479
-		Skin 2: 0x1D1F26
-		Hands: 0xA19479
-		Arms: 0x1D1F26
-		Eyes: 0xFF9501
-		Hair: 0xF56C32		
-		Hairband: 0x629B82
-		Shirt: 0x1D1F26
-		Buttons: 0x9D6631
-		Undershirt: 0x964E5C
-		Belt: 0xA59B8E
-		Belt Buckle: 0x629B82
-		Skirt: 0x964E5C
-		Tights: 0x1D1F26
-		Tights 2: 0x1D1F26
-		Tights 3: 0xC08A47
-		Flats: 0xC08A47
-		
-	16 - Midna:
-		Skin: 0xC4DED3
-		Skin 2: 0x45CAA2
-		Hands: 0x3B4648
-		Arms: 0x3B4648
-		Eyes: 0xFE7A3D
-		Eye White: 0xFFFF00 
-		Hair: 0xE79C05		
-		Hairband: 0x757575
-		Shirt: 0x363636
-		Buttons: 0x45CAA2
-		Undershirt: 0xC4DED3
-		Belt: 0xC4DED3
-		Belt Buckle: 0xC4DED3
-		Skirt: 0x3B4648
-		Tights: 0x3B4648
-		Tights 2: 0xC4DED3
-		Tights 3: 0x45CAA2
-		Flats: 0x3B4648
-		
-	17 - Aryll:
-		Skin: 0xECDAC7
-		Skin 2: 0x715858
-		Hands: 0xECDAC7
-		Arms: 0xECDAC7
-		Eyes: 0x255267
-		Hair: 0xFFF007		
-		Hairband: 0xFFF007
-		Shirt: 0x51ACBE
-		Buttons: 0xE7E7E7
-		Undershirt: 0x51ACBE
-		Belt: 0xEF5D24
-		Belt Buckle: 0xE7E7E7
-		Skirt: 0x51ACBE
-		Tights: 0xECDAC7
-		Tights 2: 0xECDAC7
-		Tights 3: 0x715858
-		Flats: 0x715858
+  5 - Alternate Palette:
+    Skin: 0xD1C4C4
+    Skin 2: 0xD1C4C4
+    Hands: 0xD1C4C4
+    Arms: 0xD1C4C4
+    Eye White: 0x000000
+    Hair: 0xCFCCA4
+    Skirt: 0x8C8C8C
+    Tights 2: 0xD1C4C4
+    Tights 3: 0x272727
+    Flats: 0x8C8C8C
 
-	18 - Tetra:
-		Skin: 0xA78E53
-		Skin 2: 0x715858
-		Hands: 0xA78E53
-		Arms: 0xA78E53
-		Eyes: 0x184894
-		Hair: 0xB4E600		
-		Hairband: 0xB4E600
-		Shirt: 0x0E4287
-		Buttons: 0x98A4EC
-		Undershirt: 0xE0003B
-		Belt: 0xE0003B
-		Belt Buckle: 0xE01D4A
-		Skirt: 0xEEF6FF
-		Tights: 0xA78E53
-		Tights 2: 0xEEF6FF
-		Tights 3: 0x523C18
-		Flats: 0x523C18
-		
-	19 - Saria:
-		Skin: 0xE9C990
-		Skin 2: 0x006B2B
-		Hands: 0xE9C990
-		Arms: 0x006B2B
-		Eyes: 0x0961D5
-		Hair: 0x7BB53D		
-		Hairband: 0x114B13
-		Shirt: 0x368A05
-		Buttons: 0x114B13
-		Undershirt: 0x114B13
-		Belt: 0x114B13
-		Belt Buckle: 0xB0CC30
-		Skirt: 0x368A05
-		Tights: 0x114B13
-		Tights 2: 0xE9C990
-		Tights 3: 0x114B13
-		Flats: 0x003B17
+  6 - Alternate Palette 2:
+    Skin: 0x6B6B6B
+    Skin 2: 0x6B6B6B
+    Hands: 0x6B6B6B
+    Arms: 0x6B6B6B
+    Eyes: 0xE10000
+    Eye White: 0xE10000
+    Hair: 0x614483
+    Shirt: 0x363636
+    Undershirt: 0x614483
+    Belt: 0xB1AEA9
+    Belt Buckle: 0xB2AF80
+    Skirt: 0x614483
+    Tights: 0x363636
+    Tights 2: 0x363636
+    Tights 3: 0x363636
+    Flats: 0x222222
 
-	20 - Malon / Romani:
-		Skin: 0xEACE9A
-		Skin 2: 0xEACE9A
-		Hands: 0xEACE9A
-		Arms: 0xEACE9A
-		Eyes: 0x1879CE
-		Hair: 0xC12900		
-		Hairband: 0xC12900
-		Shirt: 0xEAEAB5
-		Buttons: 0xE8C729
-		Undershirt: 0xDE9500
-		Belt: 0x6B1D09
-		Belt Buckle: 0xE8C729
-		Skirt: 0xEAEAB5
-		Tights: 0xAA3800
-		Tights 2: 0xEACE9A
-		Tights 3: 0xAA3800
-		Flats: 0xAA3800
+  7 - It's not a Phase:
+    Skin: 0xD6C3BB
+    Skin 2: 0x343434
+    Hands: 0xD6C3BB
+    Arms: 0xD6C3BB
+    Eyes: 0x886363
+    Hair: 0x303030
+    Hairband: 0x303030
+    Buttons: 0x353535
+    Undershirt: 0x1E1E1E
+    Belt: 0xD6C3BB
+    Skirt: 0x1E1E1E
+    Tights: 0x343434
+    Tights 2: 0xD6C3BB
+    Tights 3: 0xD6C3BB
+    Flats: 0x1E1E1E
 
-	21 - Adult Malon / Cremia:
-		Skin: 0xEACE9A
-		Skin 2: 0xEACE9A
-		Hands: 0xEACE9A
-		Arms: 0xEACE9A
-		Eyes: 0x1879CE
-		Hair: 0xC12900		
-		Hairband: 0xC12900
-		Shirt: 0xEAEAB5
-		Buttons: 0xE8C729
-		Undershirt: 0xDE9500
-		Belt: 0x6B1D09
-		Belt Buckle: 0xD7D5B6
-		Skirt: 0xA054C7
-		Tights: 0xAA3800
-		Tights 2: 0xEACE9A
-		Tights 3: 0xAA3800
-		Flats: 0xAA3800
-		
-	22 - Leek Android:
-		Skin: 0xFADFD2
-		Skin 2: 0x323B3B
-		Hands: 0xFADFD2
-		Arms: 0xFADFD2
-		Eyes: 0x6BB9B5
-		Hair: 0x71C4C1		
-		Hairband: 0xDA358D
-		Shirt: 0xBBC5CC
-		Buttons: 0x71C4C1
-		Undershirt: 0x71C4C1
-		Belt: 0x9CA4A1
-		Belt Buckle: 0x71C4C1
-		Skirt: 0x323B3B
-		Tights: 0x323B3B
-		Tights 2: 0xFADFD2
-		Tights 3: 0x323B3B
-		Flats: 0x71C4C1
+  8 - Dark Kokiri:
+    Skin: 0xAEA7CC
+    Skin 2: 0x3C3F42
+    Hands: 0x3C3F42
+    Arms: 0xAEA7CC
+    Eyes: 0xF0E2FF
+    Eye White: 0x3C3F42
+    Hair: 0xE6E4E6
+    Shirt: 0x434343
+    Buttons: 0xB8A859
+    Undershirt: 0xB8A859
+    Belt: 0xB8A859
+    Belt Buckle: 0xE6D9AB
+    Skirt: 0xB8A859
+    Tights: 0x3C3F42
+    Tights 2: 0xAEA7CC
+    Tights 3: 0x3C3F42
+    Flats: 0xB8A859
 
-	23 - Right Android:
-		Skin: 0xFADFD2
-		Skin 2: 0x57706B
-		Hands: 0xFADFD2
-		Arms: 0xFADFD2
-		Eyes: 0x35B4AE
-		Hair: 0xF8DD79		
-		Hairband: 0xEFEFEF
-		Shirt: 0xF7F7F4
-		Buttons: 0xFBD071
-		Undershirt: 0xFBD071
-		Belt: 0xFBD071
-		Belt Buckle: 0xE1E1E1
-		Skirt: 0x6A8882
-		Tights: 0x57706B
-		Tights 2: 0xFADFD2
-		Tights 3: 0xF7F7F4
-		Flats: 0xFBD071
-		
-	24 - Chillin', Head-Chillin':
-		Skin: 0xE8D8D1
-		Skin 2: 0xEA294C
-		Hands: 0x76380F
-		Arms: 0xE8D8D1
-		Eyes: 0x158BBE
-		Hair: 0x299BAB		
-		Hairband: 0xEA294C
-		Shirt: 0xE98DBE
-		Buttons: 0xDDDDDD
-		Undershirt: 0xAC5EBE
-		Belt: 0x76380F
-		Belt Buckle: 0xD1D1D1
-		Skirt: 0xE98DBE
-		Tights: 0xDACBC5
-		Tights 2: 0xDACBC5
-		Tights 3: 0xAC5EBE
-		Flats: 0x257AA3
-		
-	25 - Get Fit in a Coffin:
-		Skin: 0xF1F0EE
-		Skin 2: 0xF1F0EE
-		Hands: 0xF1F0EE
-		Arms: 0xF1F0EE
-		Eyes: 0x969594
-		Eye White: 0xF1F0EE
-		Hair: 0x6D6F63		
-		Hairband: 0x6D6F63
-		Shirt: 0x61BBEB
-		Buttons: 0x61BBEB
-		Undershirt: 0xF1F0EE
-		Belt: 0xF1F0EE
-		Belt Buckle: 0xF1F0EE
-		Skirt: 0x3E3F41
-		Tights: 0x3E3F41
-		Tights 2: 0x3E3F41
-		Tights 3: 0xF1F0EE
-		Flats: 0xF1F0EE
-		
-	26 - Phantom Tendency:
-		Skin: 0xF8DBCF
-		Skin 2: 0x535686
-		Hands: 0x535686
-		Arms: 0xF8DBCF
-		Eyes: 0x5876A5
-		Hair: 0x433F32		
-		Hairband: 0x433F32
-		Shirt: 0x4B4E79
-		Buttons: 0x3B3D5F
-		Undershirt: 0xB13131
-		Belt: 0x2E314C
-		Belt Buckle: 0x535686
-		Skirt: 0x433F3C
-		Tights: 0x433F3C
-		Tights 2: 0x433F3C
-		Tights 3: 0x433F3C
-		Flats: 0xB13A1C
-		
-		
-	27 - You're a Squid now:
-		Skin: 0xFCF5CB
-		Skin 2: 0xFCF5CB
-		Hands: 0xFCF5CB
-		Arms: 0xFCF5CB
-		Eyes: 0xF87523
-		Hair: 0xF87523
-		Hairband: 0xF87523
-		Shirt: 0xF3F1F4
-		Buttons: 0x2D2D2D
-		Undershirt: 0x2A2A2A
-		Belt: 0xF3F1F4
-		Belt Buckle: 0xED90D5
-		Skirt: 0x272727
-		Tights: 0xFCF5CB
-		Tights 2: 0x272727
-		Tights 3: 0x994B94
-		Flats: 0xED75CF
+  9 - Dark Young Link:
+    Skin: 0x6C6C81
+    Skin 2: 0x6C6C81
+    Hands: 0x6C6C81
+    Arms: 0x6C6C81
+    Eyes: 0xF05666
+    Eye White: 0xD84C6A
+    Hair: 0xE3E0E7
+    Hairband: 0x5B5C5E
+    Shirt: 0x5B5C5E
+    Buttons: 0x3A373A
+    Undershirt: 0x42424F
+    Belt: 0x3A373A
+    Belt Buckle: 0xA09EA2
+    Skirt: 0x5B5C5E
+    Tights: 0x272727
+    Tights 2: 0x6C6C81
+    Tights 3: 0x272727
+    Flats: 0x272727
 
-	28 - Escaping from Apes:
-		Skin: 0xFFDBB7
-		Skin 2: 0xF4F4F4
-		Hands: 0x5558FF
-		Arms: 0xFFDBB7
-		Eyes: 0x3D8C14
-		Hair: 0x9A1D2B
-		Hairband: 0xFEA2BC
-		Shirt: 0xFEA2BC
-		Buttons: 0xF3F1F4
-		Undershirt: 0x403A35
-		Belt: 0xEB2A98
-		Belt Buckle: 0xED90D5
-		Skirt: 0xFEFEFC
-		Tights: 0xFFDBB7
-		Tights 2: 0x403A35 
-		Tights 3: 0xF4F4F4
-		Flats: 0xFE5429
+  10 - Dark Toon Link:
+    Skin: 0x6B5C5F
+    Skin 2: 0x6B7073
+    Hands: 0x6B5C5F
+    Arms: 0x6B7073
+    Eyes: 0xE10000
+    Eye White: 0x000000
+    Hair: 0xC9CFCC
+    Hairband: 0x363636
+    Shirt: 0x363636
+    Buttons: 0x363636
+    Undershirt: 0x6B7073
+    Belt: 0xB1AEA9
+    Belt Buckle: 0xB2AF80
+    Skirt: 0x363636
+    Tights: 0x4F4F4F
+    Tights 2: 0x898E92
+    Tights 3: 0x4F4F4F
+    Flats: 0x4F4F4F
 
-	29 - This Gaia is Cool:
-		Skin: 0xFAE0C2
-		Skin 2: 0x44465B
-		Hands: 0x44465B
-		Arms: 0xFAE0C2
-		Eyes: 0xB22C4E
-		Hair: 0xF05876
-		Hairband: 0x44465B
-		Shirt: 0x44465B
-		Buttons: 0x44465B
-		Undershirt: 0xB22C4E
-		Belt: 0xD5D7E4
-		Belt Buckle: 0xB22C4E
-		Skirt: 0x44465B
-		Tights: 0x44465B
-		Tights 2: 0xFAE0C2
-		Tights 3: 0x44465B
-		Flats: 0xB32D52
+  11 - Dark Link:
+    Skin: 0x000000
+    Skin 2: 0x000000
+    Hands: 0x000000
+    Arms: 0x000000
+    Eyes: 0xFF0000
+    Eye White: 0x000000
+    Hair: 0x000000
+    Hairband: 0x000000
+    Shirt: 0x000000
+    Buttons: 0x000000
+    Undershirt: 0x000000
+    Belt: 0x000000
+    Belt Buckle: 0x000000
+    Skirt: 0x000000
+    Tights: 0x000000
+    Tights 2: 0x000000
+    Tights 3: 0x000000
+    Flats: 0x000000
 
-	30 - Month before June:
-		Skin: 0xE2C5B4
-		Skin 2: 0x184C66
-		Hands: 0xE3F3E7
-		Arms: 0xE2C5B4
-		Eyes: 0x43738B
-		Hair: 0x9E7B5C
-		Hairband: 0xD03235
-		Shirt: 0xD03235
-		Buttons: 0x184C66
-		Undershirt: 0x184C66
-		Belt: 0xEECC42
-		Belt Buckle: 0xEEDA65
-		Skirt: 0xE3F3E7
-		Tights: 0xE2C5B4
-		Tights 2: 0x184C66
-		Tights 3: 0x184C66
-		Flats: 0xD03235
+  12 - Great Fairy:
+    Skin: 0x1F4156
+    Skin 2: 0x22475E
+    Hands: 0x22475E
+    Arms: 0x22475E
+    Eyes: 0x9FCAEF
+    Eye White: 0x9FCAEF
+    Hair: 0xB0D6EF
+    Hairband: 0x9FCAEF
+    Shirt: 0x9FCAEF
+    Buttons: 0x9FCAEF
+    Undershirt: 0x7EA1BD
+    Belt: 0x9FCAEF
+    Belt Buckle: 0x9FCAEF
+    Skirt: 0x78ABCB
+    Tights: 0x50489D
+    Tights 2: 0x465D9D
+    Tights 3: 0x393066
+    Flats: 0x000000
 
-	31 - A Symphonic Card:
-		Skin: 0xF0E1D8
-		Skin 2: 0x97ADDC
-		Arms: 0x3F3B4C
-		Hands: 0xD1CBED
-		Eyes: 0xA1796F
-		Hair: 0x7A778F
-		Hairband: 0xF3C3D9
-		Shirt: 0xD1CBED
-		Buttons: 0x97ADDC
-		Undershirt: 0xEDEEFF
-		Belt: 0xFBACC2
-		Belt Buckle: 0xF35B44
-		Skirt: 0xD1CBED
-		Tights: 0xD1CBED
-		Tights 2: 0x3F3B4C
-		Tights 3: 0x3F3B4C
-		Flats: 0x97ADDC
-		
-	32 - Convicted Astronaut:
-		Skin: 0x8DD497
-		Skin 2: 0xF0BB70
-		Hands: 0x8DD497
-		Arms: 0x8DD497
-		Eyes: 0xFC7F7B
-		Eye White: 0xFC7F7B
-		Hair: 0x61904A		
-		Hairband: 0xC60405
-		Shirt: 0xC60405
-		Buttons: 0xE6790B
-		Undershirt: 0xF5CB8F
-		Belt: 0xDC740B
-		Belt Buckle: 0xB35B08
-		Skirt: 0xC60405
-		Tights: 0xC60405
-		Tights 2: 0x8DD497
-		Tights 3: 0x830108
-		Flats: 0xC60405
-		
-	33 - Saving Vampires:
-		Skin: 0xFBDACB
-		Skin 2: 0x6D7DFE
-		Hands: 0xFBDACB
-		Arms: 0xFBDACB
-		Eyes: 0xBE1F22
-		Hair: 0xD563EC		
-		Hairband: 0xD91517
-		Shirt: 0xD91517
-		Buttons: 0xFBDACB
-		Undershirt: 0xC8D7F3
-		Belt: 0xD91517
-		Belt Buckle: 0xD91517
-		Skirt: 0x757CF2
-		Tights: 0xD91517
-		Tights 2: 0x757CF2
-		Tights 3: 0xD91517
-		Flats: 0xD91517
-		
-	34 - Impact of the Key:
-		Skin: 0xF3DED3
-		Skin 2: 0x6B351E
-		Hands: 0x8F5D3C
-		Arms: 0xFAFAFA
-		Eyes: 0xD3371B
-		Hair: 0xFEFCD3		
-		Hairband: 0xD3371B
-		Shirt: 0xD3371B
-		Buttons: 0xFBC7A0
-		Undershirt: 0xFBC7A0
-		Belt: 0x62321C
-		Belt Buckle: 0xFAFAFA
-		Skirt: 0xD3371B
-		Tights: 0x8F5D3C
-		Tights 2: 0xF3DED3
-		Tights 3: 0x8F5D3C
-		Flats: 0x8F5D3C
+  13 - Mrs. Marie:
+    Skin: 0xC9B58D
+    Skin 2: 0x005F55
+    Hands: 0xC9B58D
+    Arms: 0x005F55
+    Eyes: 0x5656D5
+    Eye White: 0x000000
+    Hair: 0xD5598F
+    Hairband: 0x1894D1
+    Shirt: 0x005F55
+    Buttons: 0xDABC42
+    Undershirt: 0xA0CC6E
+    Belt: 0x2A8BB4
+    Belt Buckle: 0x23AEEA
+    Skirt: 0x005F55
+    Tights: 0x583A5C
+    Tights 2: 0x583A5C
+    Tights 3: 0xCB548A
+    Flats: 0x56529C
 
-	35 - Banished Scarlet:
-		Skin: 0xF3DED3
-		Skin 2: 0xF3DED3
-		Hands: 0xF3DED3
-		Arms: 0xF3DED3
-		Eyes: 0xEE2541
-		Hair: 0xFDDB84		
-		Hairband: 0xEE2541
-		Shirt: 0xEE2541
-		Buttons: 0xFDDB84
-		Undershirt: 0xFEF8F9
-		Belt: 0xFEEEEF
-		Belt Buckle: 0xFAFAFA
-		Skirt: 0xEE2541
-		Tights: 0xFEF8F9
-		Tights 2: 0xF3DED3
-		Tights 3: 0xEE2541
-		Flats: 0xEE2541
-		
-	36 - Super Mega Girl:
-		Skin: 0xFFD3A6
-		Skin 2: 0xFFD3A6
-		Hands: 0xFFD3A6
-		Arms: 0xFFD3A6
-		Eyes: 0x2D8FF0
-		Hair: 0xFFEC50		
-		Hairband: 0x009A44
-		Shirt: 0xE70012
-		Buttons: 0xE70012
-		Undershirt: 0xFFFFFF
-		Belt: 0xC50010
-		Belt Buckle: 0xFFFFFF
-		Skirt: 0xE70012
-		Tights: 0xFFD3A6
-		Tights 2: 0xFFD3A6
-		Tights 3: 0xFFD3A6
-		Flats: 0xE70012
+  14 - Fierce Deity:
+    Skin: 0xD4BDAC
+    Skin 2: 0x6F6F6F
+    Hands: 0x6F6F6F
+    Arms: 0x1D2E51
+    Eyes: 0xFFFFFF
+    Hair: 0xCFD7E6
+    Hairband: 0x809C9C
+    Shirt: 0x98B9BA
+    Buttons: 0x9799AB
+    Undershirt: 0x1D2E51
+    Belt: 0x1D2E51
+    Belt Buckle: 0xD4D4D4
+    Skirt: 0x98B9BA
+    Tights: 0x7D4E2D
+    Tights 2: 0x1D2E51
+    Tights 3: 0x7D4E2D
+    Flats: 0x7D4E2D
 
-	37 - Ultra Mega Girl:
-		Skin: 0xFFD3A6
-		Skin 2: 0xFBFBF3
-		Hands: 0xFFD3A6
-		Arms: 0x4C3B65
-		Eyes: 0x70A736
-		Hair: 0xF9DD3E		
-		Hairband: 0x77B139
-		Shirt: 0xE02525
-		Buttons: 0x4C3B65
-		Undershirt: 0xFFFFFF
-		Belt: 0xE02525
-		Belt Buckle: 0xFFFFFF
-		Skirt: 0xE02525
-		Tights: 0x4C3B65
-		Tights 2: 0xF5CBA0
-		Tights 3: 0xE02525
-		Flats: 0xE02525
-		
-	38 - Witchy War & Wares:
-		Skin: 0xEAC5AC
-		Skin 2: 0xD8271D
-		Hands: 0xEAC5AC
-		Arms: 0xD8271D
-		Eyes: 0xD8271D
-		Hair: 0x2D2D2D		
-		Hairband: 0xE99328
-		Shirt: 0xD8271D
-		Buttons: 0xF4E727
-		Undershirt: 0xE99328
-		Belt: 0xE99328
-		Belt Buckle: 0xF4E727
-		Skirt: 0xD8271D
-		Tights: 0x212A29
-		Tights 2: 0x212A29
-		Tights 3: 0xE99328
-		Flats: 0xD8271D
+  15 - Ganondorf:
+    Skin: 0xA19479
+    Skin 2: 0x1D1F26
+    Hands: 0xA19479
+    Arms: 0x1D1F26
+    Eyes: 0xFF9501
+    Hair: 0xF56C32
+    Hairband: 0x629B82
+    Shirt: 0x1D1F26
+    Buttons: 0x9D6631
+    Undershirt: 0x964E5C
+    Belt: 0xA59B8E
+    Belt Buckle: 0x629B82
+    Skirt: 0x964E5C
+    Tights: 0x1D1F26
+    Tights 2: 0x1D1F26
+    Tights 3: 0xC08A47
+    Flats: 0xC08A47
 
-	39 - Medli:
-		Skin: 0xFFF7DE
-		Skin 2: 0xFFF7DE
-		Hands: 0xFFF7DE
-		Arms: 0xFFF7DE
-		Eyes: 0xAD1000
-		Eye White: 0x000000 
-		Hair: 0xA55D39		
-		Hairband: 0xFFC729
-		Shirt: 0x5A696B
-		Buttons: 0x841818
-		Undershirt: 0xFFFFFF
-		Belt: 0x105D18
-		Belt Buckle: 0xC67108
-		Skirt: 0x5A696B
-		Tights: 0xFFC729
-		Tights 2: 0xE2DBC5
-		Tights 3: 0xAA841C
-		Flats: 0xFFC729
+  16 - Midna:
+    Skin: 0xC4DED3
+    Skin 2: 0x45CAA2
+    Hands: 0x3B4648
+    Arms: 0x3B4648
+    Eyes: 0xFE7A3D
+    Eye White: 0xFFFF00
+    Hair: 0xE79C05
+    Hairband: 0x757575
+    Shirt: 0x363636
+    Buttons: 0x45CAA2
+    Undershirt: 0xC4DED3
+    Belt: 0xC4DED3
+    Belt Buckle: 0xC4DED3
+    Skirt: 0x3B4648
+    Tights: 0x3B4648
+    Tights 2: 0xC4DED3
+    Tights 3: 0x45CAA2
+    Flats: 0x3B4648
 
-	40 - Silly & Dandy:
-		Skin: 0xF5E2D8
-		Skin 2: 0xF5E2D8
-		Hands: 0xF5E2D8
-		Arms: 0xF5E2D8
-		Eyes: 0x090909
-		Hair: 0xFFE674		
-		Hairband: 0x272727
-		Shirt: 0xF7ABBD
-		Buttons: 0x6CCEE4
-		Undershirt: 0xF7ABBD
-		Belt: 0xF7ABBD
-		Belt Buckle: 0xFFE674
-		Skirt: 0xF7ABBD
-		Tights: 0xE5D4CB
-		Tights 2: 0xE5D4CB
-		Tights 3: 0xF7F7F7
-		Flats: 0x272727
-		
-	41 - Grumpy Witch:
-		Skin: 0x76BA28
-		Skin 2: 0x342B37
-		Hands: 0x76BA28
-		Arms: 0x342B37
-		Eyes: 0xE89F00
-		Hair: 0x342B37		
-		Hairband: 0x342B37
-		Shirt: 0x342B37
-		Buttons: 0xFDC1FD
-		Undershirt: 0xD501D4
-		Belt: 0x161218
-		Belt Buckle: 0xD501D4
-		Skirt: 0x342B37
-		Tights: 0x342B37
-		Tights 2: 0x342B37
-		Tights 3: 0xD501D4
-		Flats: 0x342B37
-		
-	42 - Legendary Pyromaniac:
-		Skin: 0xD9B09B
-		Skin 2: 0x90305E
-		Hands: 0xD9B09B
-		Arms: 0xD9B09B
-		Eyes: 0x6B8F45
-		Hair: 0xB01868		
-		Hairband: 0xDF88C5
-		Shirt: 0x2C4881
-		Buttons: 0x416ABE
-		Undershirt: 0x6C42A7
-		Belt: 0x516EAD
-		Belt Buckle: 0x8B9CB5
-		Skirt: 0x6C42A7
-		Tights: 0x6C42A7
-		Tights 2: 0xD9B09B
-		Tights 3: 0xD582BB
-		Flats: 0x4B3D36
+  17 - Aryll:
+    Skin: 0xECDAC7
+    Skin 2: 0x715858
+    Hands: 0xECDAC7
+    Arms: 0xECDAC7
+    Eyes: 0x255267
+    Hair: 0xFFF007
+    Hairband: 0xFFF007
+    Shirt: 0x51ACBE
+    Buttons: 0xE7E7E7
+    Undershirt: 0x51ACBE
+    Belt: 0xEF5D24
+    Belt Buckle: 0xE7E7E7
+    Skirt: 0x51ACBE
+    Tights: 0xECDAC7
+    Tights 2: 0xECDAC7
+    Tights 3: 0x715858
+    Flats: 0x715858
 
-	43 - Aim of a Rose:
-		Skin: 0xFEDCBD
-		Skin 2: 0xF3C41B
-		Hands: 0xFFFFFF
-		Arms: 0xFEDCBD
-		Eyes: 0x04C924
-		Hair: 0xFCB7CC		
-		Hairband: 0xFD2A07
-		Shirt: 0xFD2A07
-		Buttons: 0xFD2A07
-		Undershirt: 0xFFFFFF
-		Belt: 0xDEDEDE
-		Belt Buckle: 0xFFFFFF
-		Skirt: 0xFD2A07
-		Tights: 0xFFFFFF
-		Tights 2: 0xFCB7CC
-		Tights 3: 0xFD2A07
-		Flats: 0xFD2A07
-		
-	44 - Linka Magica:
-		Skin: 0xFFE9CE
-		Skin 2: 0xEB848C
-		Hands: 0xFFFFFF
-		Arms: 0xFFE9CE
-		Eyes: 0xEB848C
-		Hair: 0xFFC4CC		
-		Hairband: 0xEB848C
-		Shirt: 0xFFC4CC
-		Buttons: 0xF78190
-		Undershirt: 0xCC0C0F
-		Belt: 0xF78190
-		Belt Buckle: 0xFFFDE4
-		Skirt: 0xFFFFFF
-		Tights: 0xFFFFFF
-		Tights 2: 0xFFE9CE
-		Tights 3: 0xFFFFFF
-		Flats: 0xCC0C0F
+  18 - Tetra:
+    Skin: 0xA78E53
+    Skin 2: 0x715858
+    Hands: 0xA78E53
+    Arms: 0xA78E53
+    Eyes: 0x184894
+    Hair: 0xB4E600
+    Hairband: 0xB4E600
+    Shirt: 0x0E4287
+    Buttons: 0x98A4EC
+    Undershirt: 0xE0003B
+    Belt: 0xE0003B
+    Belt Buckle: 0xE01D4A
+    Skirt: 0xEEF6FF
+    Tights: 0xA78E53
+    Tights 2: 0xEEF6FF
+    Tights 3: 0x523C18
+    Flats: 0x523C18
 
-	45 - A Lonely Axe:
-		Skin: 0xF9E2D2
-		Skin 2: 0xD1CFDA
-		Hands: 0xD1CFDA
-		Arms: 0xF9E2D2
-		Eyes: 0xA0C6EA
-		Hair: 0xF1ADC4		
-		Hairband: 0xDA5580
-		Shirt: 0x5B5674
-		Buttons: 0x252432
-		Undershirt: 0xF3C37C
-		Belt: 0xD0A384
-		Belt Buckle: 0xDFDFE8
-		Skirt: 0x5B5674
-		Tights: 0xD1CFDA
-		Tights 2: 0xF9E2D2
-		Tights 3: 0xD1CFDA
-		Flats: 0xF0EEF9
+  19 - Saria:
+    Skin: 0xE9C990
+    Skin 2: 0x006B2B
+    Hands: 0xE9C990
+    Arms: 0x006B2B
+    Eyes: 0x0961D5
+    Hair: 0x7BB53D
+    Hairband: 0x114B13
+    Shirt: 0x368A05
+    Buttons: 0x114B13
+    Undershirt: 0x114B13
+    Belt: 0x114B13
+    Belt Buckle: 0xB0CC30
+    Skirt: 0x368A05
+    Tights: 0x114B13
+    Tights 2: 0xE9C990
+    Tights 3: 0x114B13
+    Flats: 0x003B17
 
-	46 - Starry Luck:
-		Skin: 0xFED6C5
-		Skin 2: 0xBB2558
-		Hands: 0xFED6C5
-		Arms: 0xFFFFFF
-		Eyes: 0x7C7BC0
-		Hair: 0xB395D6		
-		Hairband: 0xECEC7E
-		Shirt: 0xBB2558
-		Buttons: 0xFE557F
-		Undershirt: 0xFFFFFF
-		Belt: 0xFFFFFF
-		Belt Buckle: 0xFE557F
-		Skirt: 0xBB2558
-		Tights: 0xFFFFFF
-		Tights 2: 0xFED6C5
-		Tights 3: 0x9E5849
-		Flats: 0x9E5849
+  20 - Malon / Romani:
+    Skin: 0xEACE9A
+    Skin 2: 0xEACE9A
+    Hands: 0xEACE9A
+    Arms: 0xEACE9A
+    Eyes: 0x1879CE
+    Hair: 0xC12900
+    Hairband: 0xC12900
+    Shirt: 0xEAEAB5
+    Buttons: 0xE8C729
+    Undershirt: 0xDE9500
+    Belt: 0x6B1D09
+    Belt Buckle: 0xE8C729
+    Skirt: 0xEAEAB5
+    Tights: 0xAA3800
+    Tights 2: 0xEACE9A
+    Tights 3: 0xAA3800
+    Flats: 0xAA3800
 
-	47 - Poking the Mist:
-		Skin: 0xFBCDBE
-		Skin 2: 0xFBCDBE
-		Hands: 0xFBCDBE
-		Arms: 0xFBCDBE
-		Eyes: 0x48986B
-		Hair: 0xFA7538		
-		Hairband: 0x4E5EC6
-		Shirt: 0xFEE779
-		Buttons: 0xA8241D
-		Undershirt: 0xFEE779
-		Belt: 0xFBCDBE
-		Belt Buckle: 0xFFAA00
-		Skirt: 0x41AABD
-		Tights: 0xFBCDBE
-		Tights 2: 0xFBCDBE
-		Tights 3: 0xFFFFFF
-		Flats: 0xD6403E
+  21 - Adult Malon / Cremia:
+    Skin: 0xEACE9A
+    Skin 2: 0xEACE9A
+    Hands: 0xEACE9A
+    Arms: 0xEACE9A
+    Eyes: 0x1879CE
+    Hair: 0xC12900
+    Hairband: 0xC12900
+    Shirt: 0xEAEAB5
+    Buttons: 0xE8C729
+    Undershirt: 0xDE9500
+    Belt: 0x6B1D09
+    Belt Buckle: 0xD7D5B6
+    Skirt: 0xA054C7
+    Tights: 0xAA3800
+    Tights 2: 0xEACE9A
+    Tights 3: 0xAA3800
+    Flats: 0xAA3800
 
-	48 - Link-ON!:
-		Skin: 0xFADDBC
-		Skin 2: 0x2B3544
-		Hands: 0xFADDBC
-		Arms: 0x2B3544
-		Eyes: 0x865A2F
-		Hair: 0xFFFFFF		
-		Hairband: 0x865A2F
-		Shirt: 0x2B3544
-		Buttons: 0xB09435
-		Undershirt: 0xFFFFFF
-		Belt: 0x2B3544
-		Belt Buckle: 0xB09435
-		Skirt: 0x939DB4
-		Tights: 0x353535
-		Tights 2: 0x353535
-		Tights 3: 0x3B2517
-		Flats: 0x3B2517
+  22 - Leek Android:
+    Skin: 0xFADFD2
+    Skin 2: 0x323B3B
+    Hands: 0xFADFD2
+    Arms: 0xFADFD2
+    Eyes: 0x6BB9B5
+    Hair: 0x71C4C1
+    Hairband: 0xDA358D
+    Shirt: 0xBBC5CC
+    Buttons: 0x71C4C1
+    Undershirt: 0x71C4C1
+    Belt: 0x9CA4A1
+    Belt Buckle: 0x71C4C1
+    Skirt: 0x323B3B
+    Tights: 0x323B3B
+    Tights 2: 0xFADFD2
+    Tights 3: 0x323B3B
+    Flats: 0x71C4C1
 
-	49 - Awakened Descendant:
-		Skin: 0xFAE3D9
-		Skin 2: 0xB6C0C8
-		Hands: 0x466579
-		Arms: 0x233340
-		Eyes: 0x5F6691
-		Hair: 0x576889		
-		Hairband: 0xF6D079
-		Shirt: 0x3A5767
-		Buttons: 0xFFD992
-		Undershirt: 0x252F3C
-		Belt: 0x484741
-		Belt Buckle: 0xCCBFB4
-		Skirt: 0x3A5767
-		Tights: 0x3A5767
-		Tights 2: 0x252F3C
-		Tights 3: 0x252F3C
-		Flats: 0x3A5767
-		
-	50 - Chaotic Socks:
-		Skin: 0xFFE8E9
-		Skin 2: 0xF6F5F8
-		Hands: 0xFFE8E9
-		Arms: 0x18171F
-		Eyes: 0x87E1E8
-		Hair: 0x2F426D		
-		Hairband: 0x4B7BDD
-		Shirt: 0x18171F
-		Buttons: 0x18171F
-		Undershirt: 0xFFFFFF
-		Belt: 0x4B7BDD
-		Belt Buckle: 0xFFFFFF
-		Skirt: 0xFFFFFF
-		Tights: 0x4B7BDD
-		Tights 2: 0x18171F
-		Tights 3: 0x18171F
-		Flats: 0x18171F
+  23 - Right Android:
+    Skin: 0xFADFD2
+    Skin 2: 0x57706B
+    Hands: 0xFADFD2
+    Arms: 0xFADFD2
+    Eyes: 0x35B4AE
+    Hair: 0xF8DD79
+    Hairband: 0xEFEFEF
+    Shirt: 0xF7F7F4
+    Buttons: 0xFBD071
+    Undershirt: 0xFBD071
+    Belt: 0xFBD071
+    Belt Buckle: 0xE1E1E1
+    Skirt: 0x6A8882
+    Tights: 0x57706B
+    Tights 2: 0xFADFD2
+    Tights 3: 0xF7F7F4
+    Flats: 0xFBD071
 
-	51 - Dancing Genie:
-		Skin: 0xC2874F
-		Skin 2: 0xF2D028
-		Hands: 0xC2874F
-		Arms: 0xC2874F
-		Eyes: 0x2392BA
-		Hair: 0x944ED1		
-		Hairband: 0xF2D028
-		Shirt: 0xB3151B
-		Buttons: 0xF2D028
-		Undershirt: 0xC2874F
-		Belt: 0xC2874F
-		Belt Buckle: 0xF2D028
-		Skirt: 0xB3151B
-		Tights: 0xF2D028
-		Tights 2: 0xB3151B
-		Tights 3: 0xC2874F
-		Flats: 0xB3151B
+  24 - Chillin', Head-Chillin':
+    Skin: 0xE8D8D1
+    Skin 2: 0xEA294C
+    Hands: 0x76380F
+    Arms: 0xE8D8D1
+    Eyes: 0x158BBE
+    Hair: 0x299BAB
+    Hairband: 0xEA294C
+    Shirt: 0xE98DBE
+    Buttons: 0xDDDDDD
+    Undershirt: 0xAC5EBE
+    Belt: 0x76380F
+    Belt Buckle: 0xD1D1D1
+    Skirt: 0xE98DBE
+    Tights: 0xDACBC5
+    Tights 2: 0xDACBC5
+    Tights 3: 0xAC5EBE
+    Flats: 0x257AA3
 
-	52 - Grandma:
-		Skin: 0xC6B68C
-		Skin 2: 0xC6B68C
-		Hands: 0xC6B68C
-		Arms: 0xC6B68C
-		Eyes: 0x2D2D2D
-		Eye White: 0x000000 
-		Hair: 0xF7F7D6		
-		Hairband: 0x79688A
-		Shirt: 0x943C21
-		Buttons: 0x943C21
-		Undershirt: 0x943C21
-		Belt: 0x8C5D8C
-		Belt Buckle: 0xC9BECC
-		Skirt: 0x943C21
-		Tights: 0xC6B68C
-		Tights 2: 0xC6B68C
-		Tights 3: 0x670E00
-		Flats: 0x670E00
+  25 - Get Fit in a Coffin:
+    Skin: 0xF1F0EE
+    Skin 2: 0xF1F0EE
+    Hands: 0xF1F0EE
+    Arms: 0xF1F0EE
+    Eyes: 0x969594
+    Eye White: 0xF1F0EE
+    Hair: 0x6D6F63
+    Hairband: 0x6D6F63
+    Shirt: 0x61BBEB
+    Buttons: 0x61BBEB
+    Undershirt: 0xF1F0EE
+    Belt: 0xF1F0EE
+    Belt Buckle: 0xF1F0EE
+    Skirt: 0x3E3F41
+    Tights: 0x3E3F41
+    Tights 2: 0x3E3F41
+    Tights 3: 0xF1F0EE
+    Flats: 0xF1F0EE
+
+  26 - Phantom Tendency:
+    Skin: 0xF8DBCF
+    Skin 2: 0x535686
+    Hands: 0x535686
+    Arms: 0xF8DBCF
+    Eyes: 0x5876A5
+    Hair: 0x433F32
+    Hairband: 0x433F32
+    Shirt: 0x4B4E79
+    Buttons: 0x3B3D5F
+    Undershirt: 0xB13131
+    Belt: 0x2E314C
+    Belt Buckle: 0x535686
+    Skirt: 0x433F3C
+    Tights: 0x433F3C
+    Tights 2: 0x433F3C
+    Tights 3: 0x433F3C
+    Flats: 0xB13A1C
+
+
+  27 - You're a Squid now:
+    Skin: 0xFCF5CB
+    Skin 2: 0xFCF5CB
+    Hands: 0xFCF5CB
+    Arms: 0xFCF5CB
+    Eyes: 0xF87523
+    Hair: 0xF87523
+    Hairband: 0xF87523
+    Shirt: 0xF3F1F4
+    Buttons: 0x2D2D2D
+    Undershirt: 0x2A2A2A
+    Belt: 0xF3F1F4
+    Belt Buckle: 0xED90D5
+    Skirt: 0x272727
+    Tights: 0xFCF5CB
+    Tights 2: 0x272727
+    Tights 3: 0x994B94
+    Flats: 0xED75CF
+
+  28 - Escaping from Apes:
+    Skin: 0xFFDBB7
+    Skin 2: 0xF4F4F4
+    Hands: 0x5558FF
+    Arms: 0xFFDBB7
+    Eyes: 0x3D8C14
+    Hair: 0x9A1D2B
+    Hairband: 0xFEA2BC
+    Shirt: 0xFEA2BC
+    Buttons: 0xF3F1F4
+    Undershirt: 0x403A35
+    Belt: 0xEB2A98
+    Belt Buckle: 0xED90D5
+    Skirt: 0xFEFEFC
+    Tights: 0xFFDBB7
+    Tights 2: 0x403A35
+    Tights 3: 0xF4F4F4
+    Flats: 0xFE5429
+
+  29 - This Gaia is Cool:
+    Skin: 0xFAE0C2
+    Skin 2: 0x44465B
+    Hands: 0x44465B
+    Arms: 0xFAE0C2
+    Eyes: 0xB22C4E
+    Hair: 0xF05876
+    Hairband: 0x44465B
+    Shirt: 0x44465B
+    Buttons: 0x44465B
+    Undershirt: 0xB22C4E
+    Belt: 0xD5D7E4
+    Belt Buckle: 0xB22C4E
+    Skirt: 0x44465B
+    Tights: 0x44465B
+    Tights 2: 0xFAE0C2
+    Tights 3: 0x44465B
+    Flats: 0xB32D52
+
+  30 - Month before June:
+    Skin: 0xE2C5B4
+    Skin 2: 0x184C66
+    Hands: 0xE3F3E7
+    Arms: 0xE2C5B4
+    Eyes: 0x43738B
+    Hair: 0x9E7B5C
+    Hairband: 0xD03235
+    Shirt: 0xD03235
+    Buttons: 0x184C66
+    Undershirt: 0x184C66
+    Belt: 0xEECC42
+    Belt Buckle: 0xEEDA65
+    Skirt: 0xE3F3E7
+    Tights: 0xE2C5B4
+    Tights 2: 0x184C66
+    Tights 3: 0x184C66
+    Flats: 0xD03235
+
+  31 - A Symphonic Card:
+    Skin: 0xF0E1D8
+    Skin 2: 0x97ADDC
+    Arms: 0x3F3B4C
+    Hands: 0xD1CBED
+    Eyes: 0xA1796F
+    Hair: 0x7A778F
+    Hairband: 0xF3C3D9
+    Shirt: 0xD1CBED
+    Buttons: 0x97ADDC
+    Undershirt: 0xEDEEFF
+    Belt: 0xFBACC2
+    Belt Buckle: 0xF35B44
+    Skirt: 0xD1CBED
+    Tights: 0xD1CBED
+    Tights 2: 0x3F3B4C
+    Tights 3: 0x3F3B4C
+    Flats: 0x97ADDC
+
+  32 - Convicted Astronaut:
+    Skin: 0x8DD497
+    Skin 2: 0xF0BB70
+    Hands: 0x8DD497
+    Arms: 0x8DD497
+    Eyes: 0xFC7F7B
+    Eye White: 0xFC7F7B
+    Hair: 0x61904A
+    Hairband: 0xC60405
+    Shirt: 0xC60405
+    Buttons: 0xE6790B
+    Undershirt: 0xF5CB8F
+    Belt: 0xDC740B
+    Belt Buckle: 0xB35B08
+    Skirt: 0xC60405
+    Tights: 0xC60405
+    Tights 2: 0x8DD497
+    Tights 3: 0x830108
+    Flats: 0xC60405
+
+  33 - Saving Vampires:
+    Skin: 0xFBDACB
+    Skin 2: 0x6D7DFE
+    Hands: 0xFBDACB
+    Arms: 0xFBDACB
+    Eyes: 0xBE1F22
+    Hair: 0xD563EC
+    Hairband: 0xD91517
+    Shirt: 0xD91517
+    Buttons: 0xFBDACB
+    Undershirt: 0xC8D7F3
+    Belt: 0xD91517
+    Belt Buckle: 0xD91517
+    Skirt: 0x757CF2
+    Tights: 0xD91517
+    Tights 2: 0x757CF2
+    Tights 3: 0xD91517
+    Flats: 0xD91517
+
+  34 - Impact of the Key:
+    Skin: 0xF3DED3
+    Skin 2: 0x6B351E
+    Hands: 0x8F5D3C
+    Arms: 0xFAFAFA
+    Eyes: 0xD3371B
+    Hair: 0xFEFCD3
+    Hairband: 0xD3371B
+    Shirt: 0xD3371B
+    Buttons: 0xFBC7A0
+    Undershirt: 0xFBC7A0
+    Belt: 0x62321C
+    Belt Buckle: 0xFAFAFA
+    Skirt: 0xD3371B
+    Tights: 0x8F5D3C
+    Tights 2: 0xF3DED3
+    Tights 3: 0x8F5D3C
+    Flats: 0x8F5D3C
+
+  35 - Banished Scarlet:
+    Skin: 0xF3DED3
+    Skin 2: 0xF3DED3
+    Hands: 0xF3DED3
+    Arms: 0xF3DED3
+    Eyes: 0xEE2541
+    Hair: 0xFDDB84
+    Hairband: 0xEE2541
+    Shirt: 0xEE2541
+    Buttons: 0xFDDB84
+    Undershirt: 0xFEF8F9
+    Belt: 0xFEEEEF
+    Belt Buckle: 0xFAFAFA
+    Skirt: 0xEE2541
+    Tights: 0xFEF8F9
+    Tights 2: 0xF3DED3
+    Tights 3: 0xEE2541
+    Flats: 0xEE2541
+
+  36 - Super Mega Girl:
+    Skin: 0xFFD3A6
+    Skin 2: 0xFFD3A6
+    Hands: 0xFFD3A6
+    Arms: 0xFFD3A6
+    Eyes: 0x2D8FF0
+    Hair: 0xFFEC50
+    Hairband: 0x009A44
+    Shirt: 0xE70012
+    Buttons: 0xE70012
+    Undershirt: 0xFFFFFF
+    Belt: 0xC50010
+    Belt Buckle: 0xFFFFFF
+    Skirt: 0xE70012
+    Tights: 0xFFD3A6
+    Tights 2: 0xFFD3A6
+    Tights 3: 0xFFD3A6
+    Flats: 0xE70012
+
+  37 - Ultra Mega Girl:
+    Skin: 0xFFD3A6
+    Skin 2: 0xFBFBF3
+    Hands: 0xFFD3A6
+    Arms: 0x4C3B65
+    Eyes: 0x70A736
+    Hair: 0xF9DD3E
+    Hairband: 0x77B139
+    Shirt: 0xE02525
+    Buttons: 0x4C3B65
+    Undershirt: 0xFFFFFF
+    Belt: 0xE02525
+    Belt Buckle: 0xFFFFFF
+    Skirt: 0xE02525
+    Tights: 0x4C3B65
+    Tights 2: 0xF5CBA0
+    Tights 3: 0xE02525
+    Flats: 0xE02525
+
+  38 - Witchy War & Wares:
+    Skin: 0xEAC5AC
+    Skin 2: 0xD8271D
+    Hands: 0xEAC5AC
+    Arms: 0xD8271D
+    Eyes: 0xD8271D
+    Hair: 0x2D2D2D
+    Hairband: 0xE99328
+    Shirt: 0xD8271D
+    Buttons: 0xF4E727
+    Undershirt: 0xE99328
+    Belt: 0xE99328
+    Belt Buckle: 0xF4E727
+    Skirt: 0xD8271D
+    Tights: 0x212A29
+    Tights 2: 0x212A29
+    Tights 3: 0xE99328
+    Flats: 0xD8271D
+
+  39 - Medli:
+    Skin: 0xFFF7DE
+    Skin 2: 0xFFF7DE
+    Hands: 0xFFF7DE
+    Arms: 0xFFF7DE
+    Eyes: 0xAD1000
+    Eye White: 0x000000
+    Hair: 0xA55D39
+    Hairband: 0xFFC729
+    Shirt: 0x5A696B
+    Buttons: 0x841818
+    Undershirt: 0xFFFFFF
+    Belt: 0x105D18
+    Belt Buckle: 0xC67108
+    Skirt: 0x5A696B
+    Tights: 0xFFC729
+    Tights 2: 0xE2DBC5
+    Tights 3: 0xAA841C
+    Flats: 0xFFC729
+
+  40 - Silly & Dandy:
+    Skin: 0xF5E2D8
+    Skin 2: 0xF5E2D8
+    Hands: 0xF5E2D8
+    Arms: 0xF5E2D8
+    Eyes: 0x090909
+    Hair: 0xFFE674
+    Hairband: 0x272727
+    Shirt: 0xF7ABBD
+    Buttons: 0x6CCEE4
+    Undershirt: 0xF7ABBD
+    Belt: 0xF7ABBD
+    Belt Buckle: 0xFFE674
+    Skirt: 0xF7ABBD
+    Tights: 0xE5D4CB
+    Tights 2: 0xE5D4CB
+    Tights 3: 0xF7F7F7
+    Flats: 0x272727
+
+  41 - Grumpy Witch:
+    Skin: 0x76BA28
+    Skin 2: 0x342B37
+    Hands: 0x76BA28
+    Arms: 0x342B37
+    Eyes: 0xE89F00
+    Hair: 0x342B37
+    Hairband: 0x342B37
+    Shirt: 0x342B37
+    Buttons: 0xFDC1FD
+    Undershirt: 0xD501D4
+    Belt: 0x161218
+    Belt Buckle: 0xD501D4
+    Skirt: 0x342B37
+    Tights: 0x342B37
+    Tights 2: 0x342B37
+    Tights 3: 0xD501D4
+    Flats: 0x342B37
+
+  42 - Legendary Pyromaniac:
+    Skin: 0xD9B09B
+    Skin 2: 0x90305E
+    Hands: 0xD9B09B
+    Arms: 0xD9B09B
+    Eyes: 0x6B8F45
+    Hair: 0xB01868
+    Hairband: 0xDF88C5
+    Shirt: 0x2C4881
+    Buttons: 0x416ABE
+    Undershirt: 0x6C42A7
+    Belt: 0x516EAD
+    Belt Buckle: 0x8B9CB5
+    Skirt: 0x6C42A7
+    Tights: 0x6C42A7
+    Tights 2: 0xD9B09B
+    Tights 3: 0xD582BB
+    Flats: 0x4B3D36
+
+  43 - Aim of a Rose:
+    Skin: 0xFEDCBD
+    Skin 2: 0xF3C41B
+    Hands: 0xFFFFFF
+    Arms: 0xFEDCBD
+    Eyes: 0x04C924
+    Hair: 0xFCB7CC
+    Hairband: 0xFD2A07
+    Shirt: 0xFD2A07
+    Buttons: 0xFD2A07
+    Undershirt: 0xFFFFFF
+    Belt: 0xDEDEDE
+    Belt Buckle: 0xFFFFFF
+    Skirt: 0xFD2A07
+    Tights: 0xFFFFFF
+    Tights 2: 0xFCB7CC
+    Tights 3: 0xFD2A07
+    Flats: 0xFD2A07
+
+  44 - Linka Magica:
+    Skin: 0xFFE9CE
+    Skin 2: 0xEB848C
+    Hands: 0xFFFFFF
+    Arms: 0xFFE9CE
+    Eyes: 0xEB848C
+    Hair: 0xFFC4CC
+    Hairband: 0xEB848C
+    Shirt: 0xFFC4CC
+    Buttons: 0xF78190
+    Undershirt: 0xCC0C0F
+    Belt: 0xF78190
+    Belt Buckle: 0xFFFDE4
+    Skirt: 0xFFFFFF
+    Tights: 0xFFFFFF
+    Tights 2: 0xFFE9CE
+    Tights 3: 0xFFFFFF
+    Flats: 0xCC0C0F
+
+  45 - A Lonely Axe:
+    Skin: 0xF9E2D2
+    Skin 2: 0xD1CFDA
+    Hands: 0xD1CFDA
+    Arms: 0xF9E2D2
+    Eyes: 0xA0C6EA
+    Hair: 0xF1ADC4
+    Hairband: 0xDA5580
+    Shirt: 0x5B5674
+    Buttons: 0x252432
+    Undershirt: 0xF3C37C
+    Belt: 0xD0A384
+    Belt Buckle: 0xDFDFE8
+    Skirt: 0x5B5674
+    Tights: 0xD1CFDA
+    Tights 2: 0xF9E2D2
+    Tights 3: 0xD1CFDA
+    Flats: 0xF0EEF9
+
+  46 - Starry Luck:
+    Skin: 0xFED6C5
+    Skin 2: 0xBB2558
+    Hands: 0xFED6C5
+    Arms: 0xFFFFFF
+    Eyes: 0x7C7BC0
+    Hair: 0xB395D6
+    Hairband: 0xECEC7E
+    Shirt: 0xBB2558
+    Buttons: 0xFE557F
+    Undershirt: 0xFFFFFF
+    Belt: 0xFFFFFF
+    Belt Buckle: 0xFE557F
+    Skirt: 0xBB2558
+    Tights: 0xFFFFFF
+    Tights 2: 0xFED6C5
+    Tights 3: 0x9E5849
+    Flats: 0x9E5849
+
+  47 - Poking the Mist:
+    Skin: 0xFBCDBE
+    Skin 2: 0xFBCDBE
+    Hands: 0xFBCDBE
+    Arms: 0xFBCDBE
+    Eyes: 0x48986B
+    Hair: 0xFA7538
+    Hairband: 0x4E5EC6
+    Shirt: 0xFEE779
+    Buttons: 0xA8241D
+    Undershirt: 0xFEE779
+    Belt: 0xFBCDBE
+    Belt Buckle: 0xFFAA00
+    Skirt: 0x41AABD
+    Tights: 0xFBCDBE
+    Tights 2: 0xFBCDBE
+    Tights 3: 0xFFFFFF
+    Flats: 0xD6403E
+
+  48 - Link-ON!:
+    Skin: 0xFADDBC
+    Skin 2: 0x2B3544
+    Hands: 0xFADDBC
+    Arms: 0x2B3544
+    Eyes: 0x865A2F
+    Hair: 0xFFFFFF
+    Hairband: 0x865A2F
+    Shirt: 0x2B3544
+    Buttons: 0xB09435
+    Undershirt: 0xFFFFFF
+    Belt: 0x2B3544
+    Belt Buckle: 0xB09435
+    Skirt: 0x939DB4
+    Tights: 0x353535
+    Tights 2: 0x353535
+    Tights 3: 0x3B2517
+    Flats: 0x3B2517
+
+  49 - Awakened Descendant:
+    Skin: 0xFAE3D9
+    Skin 2: 0xB6C0C8
+    Hands: 0x466579
+    Arms: 0x233340
+    Eyes: 0x5F6691
+    Hair: 0x576889
+    Hairband: 0xF6D079
+    Shirt: 0x3A5767
+    Buttons: 0xFFD992
+    Undershirt: 0x252F3C
+    Belt: 0x484741
+    Belt Buckle: 0xCCBFB4
+    Skirt: 0x3A5767
+    Tights: 0x3A5767
+    Tights 2: 0x252F3C
+    Tights 3: 0x252F3C
+    Flats: 0x3A5767
+
+  50 - Chaotic Socks:
+    Skin: 0xFFE8E9
+    Skin 2: 0xF6F5F8
+    Hands: 0xFFE8E9
+    Arms: 0x18171F
+    Eyes: 0x87E1E8
+    Hair: 0x2F426D
+    Hairband: 0x4B7BDD
+    Shirt: 0x18171F
+    Buttons: 0x18171F
+    Undershirt: 0xFFFFFF
+    Belt: 0x4B7BDD
+    Belt Buckle: 0xFFFFFF
+    Skirt: 0xFFFFFF
+    Tights: 0x4B7BDD
+    Tights 2: 0x18171F
+    Tights 3: 0x18171F
+    Flats: 0x18171F
+
+  51 - Dancing Genie:
+    Skin: 0xC2874F
+    Skin 2: 0xF2D028
+    Hands: 0xC2874F
+    Arms: 0xC2874F
+    Eyes: 0x2392BA
+    Hair: 0x944ED1
+    Hairband: 0xF2D028
+    Shirt: 0xB3151B
+    Buttons: 0xF2D028
+    Undershirt: 0xC2874F
+    Belt: 0xC2874F
+    Belt Buckle: 0xF2D028
+    Skirt: 0xB3151B
+    Tights: 0xF2D028
+    Tights 2: 0xB3151B
+    Tights 3: 0xC2874F
+    Flats: 0xB3151B
+
+  52 - Grandma:
+    Skin: 0xC6B68C
+    Skin 2: 0xC6B68C
+    Hands: 0xC6B68C
+    Arms: 0xC6B68C
+    Eyes: 0x2D2D2D
+    Eye White: 0x000000
+    Hair: 0xF7F7D6
+    Hairband: 0x79688A
+    Shirt: 0x943C21
+    Buttons: 0x943C21
+    Undershirt: 0x943C21
+    Belt: 0x8C5D8C
+    Belt Buckle: 0xC9BECC
+    Skirt: 0x943C21
+    Tights: 0xC6B68C
+    Tights 2: 0xC6B68C
+    Tights 3: 0x670E00
+    Flats: 0x670E00
 
 hero_hands_color_name: "Hands"
 casual_hands_color_name: "Hands"
