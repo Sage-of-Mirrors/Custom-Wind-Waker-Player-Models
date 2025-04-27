@@ -36,5 +36,6 @@ Then open the randomizer, and in the "Player Customization" tab click "Install a
 * AngelTheVixen: Modeled, rigged and imported Krystal.
 * KeyBlader: Modeled, rigged and imported Commando and Madotsuki.
 * OniFox: Rigged and imported Midna and Midna Helmetless.
+* UltIMa647: Modeled, rigged and imported Goku (Mini).
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).

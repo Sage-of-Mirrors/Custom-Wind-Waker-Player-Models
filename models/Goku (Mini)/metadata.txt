@@ -1,0 +1,129 @@
+hero_custom_colors:
+  Hair: 0x262324
+  Skin: 0xEDC097
+  Hands: 0xEDC097
+  Outline: 0x3F2B22
+  Gi: 0xF3A924
+  Shirt: 0x1A67BF
+  Wristband: 0x1A67BF
+  Strap: 0xE3ECEB
+  Pants: 0xF3A924
+  Boots: 0x184FA2
+  Boot_Strap: 0xE3ECEB
+  Soles: 0xCDCCB8
+  Belt: 0x1A67BF
+
+casual_custom_colors:
+  Hair: 0x262324
+  Skin: 0xEDC097
+  Hands: 0xEDC097
+  Outline: 0x000000
+  Gi: 0xE77629
+  Shirt: 0x18376A
+  Wristband: 0x18376A
+  Pants: 0xE77629
+  Boots: 0x0D2C57
+  Boot_Strap: 0xA53647
+  Soles: 0xBA9A57
+  Belt: 0x31419C
+  Glasses Lens: 0xAEB663
+  Glasses Rim: 0xAF121B
+
+hero_color_presets:
+  GT Goku:
+    Hair: 0x262626
+    Skin: 0xE0A38E
+    Hands: 0xE0A38E
+    Outline: 0x000000
+    Gi: 0x6874C3
+    Shirt: 0xDE7D91
+    Wristband: 0xDE7D91
+    Strap: 0xE7B47E
+    Pants: 0xE6A331
+    Boots: 0x5A5765
+    Boot_Strap: 0xE6DFEF
+    Soles: 0xE6DFEF
+    Belt: 0xE6DFEF
+  Z Goku:
+    Hair: 0x262324
+    Skin: 0xEDC097
+    Hands: 0xEDC097
+    Outline: 0x000000
+    Gi: 0xE77629
+    Shirt: 0x18376A
+    Wristband: 0x18376A
+    Strap: 0xFFE9B5
+    Pants: 0xE77629
+    Boots: 0x0D2C57
+    Boot_Strap: 0xA53647
+    Soles: 0xBA9A57
+    Belt: 0x31419C
+  Legends Mirror:
+    Hair: 0x191517
+    Skin: 0xEDC097
+    Hands: 0xEDC097
+    Outline: 0x3F2B22
+    Gi: 0x3279AD
+    Shirt: 0x231B22
+    Wristband: 0x231B22
+    Strap: 0xECE3E3
+    Pants: 0x3279AD
+    Boots: 0x231B22
+    Boot_Strap: 0xE5F3FE
+    Soles: 0xE5F3FE
+    Belt: 0x231B22
+  Goku Black:
+    Hair: 0x0F0E0E
+    Skin: 0xF0BF8E
+    Hands: 0xF0BF8E
+    Outline: 0x000000
+    Gi: 0x7B7E7E
+    Shirt: 0x4C4C4C
+    Wristband: 0x4C4C4C
+    Strap: 0xF4F3F4
+    Pants: 0x4C4C4C
+    Boots: 0xF4F3F4
+    Boot_Strap: 0x737478
+    Soles: 0x737478
+    Belt: 0xC53C4F
+  Link:
+    Hair: 0x262324
+    Skin: 0xEDC097
+    Hands: 0xEDC097
+    Outline: 0x3F2B22
+    Gi: 0x5AB24A
+    Shirt: 0xADE342
+    Wristband: 0xADE342
+    Strap: 0xFFEE00
+    Pants: 0xFFFFFF
+    Boots: 0x944908
+    Boot_Strap: 0x633008
+    Soles: 0x633008
+    Belt: 0x633008
+
+casual_color_presets:
+  Daima Goku:
+    Hair: 0x262324
+    Skin: 0xEDC097
+    Hands: 0xEDC097
+    Outline: 0x3F2B22
+    Gi: 0xF3A924
+    Shirt: 0x1A67BF
+    Wristband: 0x1A67BF
+    Pants: 0xF3A924
+    Boots: 0x184FA2
+    Boot_Strap: 0xE3ECEB
+    Soles: 0xCDCCB8
+    Belt: 0x1A67BF
+    Glasses Lens: 0x3F7A51
+    Glasses Rim: 0xD2BC58
+
+hero_hands_color_name: "Hands"
+casual_hands_color_name: "Hands"
+sword_slash_trail_color: 0xFF0000FF
+elixir_soup_sword_trail_color: 0xFF8080FF
+parrying_sword_trail_color: 0xFF6060FF
+arrow_trail_color: 0xFFFF0040
+revision: 1
+author: UltIMa647
+comment: Welcome to the Demon Realm!
