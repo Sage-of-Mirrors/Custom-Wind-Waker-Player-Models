@@ -1,0 +1,640 @@
+hero_custom_colors:
+  Skin: c6ebde
+  Skin Secondary: 102021
+  Pattern: 00febc
+  Pattern Secondary: 00febc
+  Sclera: f4e13c
+  Iris: 400604
+  Pupil: 000000
+  Hair Start: ff7608
+  Hair Main: ff940c
+  Hair Fade: fff132
+  Hair End: fff674
+  Hairband: 634531
+  Helmet: 737e6d
+  Helmet Pattern 1: 737e6d
+  Helmet Pattern 2: 737e6d
+  Helmet Pattern Snake: 737e6d
+  Helmet Eye Outline: 737e6d
+  Helmet Eye Sclera: 737e6d
+  Helmet Eye Iris: 737e6d
+  Helmet Eye Pupil: 737e6d
+
+
+hero_color_presets:
+ Midna's Lament:
+  Skin: 212725
+  Skin Secondary: 72746F
+  Pattern: 212725
+  Pattern Secondary: 72746F
+  Hair Start: 4A4B48
+  Hair Main: 30302F
+  Hair Fade: 778E93
+  Hair End: 61DFD5
+
+ Shadow Form:
+  Skin: 000000
+  Skin Secondary: 000000
+  Pattern: 000000
+  Pattern Secondary: 000000
+  Hair Start: 000000
+  Hair Main: 000000
+  Hair Fade: ff7608
+  Hair End: ff940c
+  Hairband: 000000
+  Helmet: 000000
+  Helmet Pattern 1: 000000
+  Helmet Pattern 2: 000000
+  Helmet Pattern Snake: 000000
+  Helmet Eye Outline: 000000
+  Helmet Eye Sclera: 000000
+  Helmet Eye Iris: 000000
+  Helmet Eye Pupil: 000000
+
+ Dark Midna (Original):
+  Skin: 656771
+  Skin Secondary: 000000
+  Pattern: FF0000
+  Pattern Secondary: FF0000
+  Sclera: 000000
+  Iris: FF0000
+  Pupil: FF0000
+  Hair Start: 45464D
+  Hair Main: 656771
+  Hair Fade: ADB0C1
+  Hair End: E5EFFF
+  Hairband: 575A63
+  Helmet: 363941
+  Helmet Pattern 1: 363941
+  Helmet Pattern 2: 363941
+  Helmet Pattern Snake: 363941
+  Helmet Eye Outline: 363941
+  Helmet Eye Sclera: 000000
+  Helmet Eye Iris: 363941
+  Helmet Eye Pupil: B60000
+
+ A Strange Sadness As Dusk Falls (1000 Dead Draculas):
+  Skin: 6AD4FD
+  Skin Secondary: 434DAC
+  Pattern: FB81EF
+  Pattern Secondary: FB81EF
+  Sclera: 222D45
+  Iris: 222D45
+  Pupil: FB81EF
+  Hair Start: FB81EF
+  Hair Main: 6AD4FD
+  Hair Fade: 5564E7
+  Hair End: FB81EF
+  Hairband: FB81EF
+  Helmet: 5564E7
+  Helmet Pattern 1: 5564E7
+  Helmet Pattern 2: 5564E7
+  Helmet Pattern Snake: 5564E7
+  Helmet Eye Outline: 5564E7
+  Helmet Eye Sclera: 5564E7
+  Helmet Eye Iris: 5564E7
+  Helmet Eye Pupil: 5564E7
+
+ Phantom Ganon (The Wind Waker):
+  Skin: 000000
+  Skin Secondary: 000000
+  Pattern: 19D5E0
+  Pattern Secondary: 19D5E0
+  Sclera: 000000
+  Iris: BF9B19
+  Pupil: FBCF20
+  Hair Start: 000000
+  Hair Main: 000000
+  Hair Fade: 000000
+  Hair End: 19D5E0
+  Hairband: 000000
+  Helmet: 000000
+  Helmet Pattern 1: 19D5E0
+  Helmet Pattern 2: 19D5E0
+  Helmet Pattern Snake: 19D5E0
+  Helmet Eye Outline: 19D5E0
+  Helmet Eye Sclera: 000000
+  Helmet Eye Iris: FBCF20
+  Helmet Eye Pupil: FBCF20
+
+ Miniblin (The Wind Waker):
+  Skin: DC876A
+  Skin Secondary: 1C2C39
+  Pattern: DC876A
+  Pattern Secondary: 1C2C39
+  Sclera: 43CA1F
+  Iris: E0E151
+  Hair Start: 2A4457
+  Hair Main: 9EA93F
+  Hair Fade: D4D149
+  Hair End: F2F1B4
+  Hairband: 277256
+  Helmet: 277256
+  Helmet Pattern 1: 277256
+  Helmet Pattern 2: 277256
+  Helmet Pattern Snake: 277256
+  Helmet Eye Outline: 277256
+  Helmet Eye Sclera: 277256
+  Helmet Eye Iris: 9BB349
+  Helmet Eye Pupil: 9BB349
+
+ Link (Twilight Princess):
+  Skin: BFBC8E
+  Skin Secondary: 2D4A1D
+  Pattern: BFBC8E
+  Pattern Secondary: 2D4A1D
+  Sclera: FFFFFF
+  Iris: 1B4F5B
+  Pupil: 091B1E
+  Hair Start: 6C5718
+  Hair Main: AA8926
+  Hair Fade: D8B62F
+  Hair End: FFD634
+  Hairband: 134D7F
+  Helmet: 55331F
+  Helmet Pattern 1: 55331F
+  Helmet Pattern 2: 81681D
+  Helmet Pattern Snake: 55331F
+  Helmet Eye Outline: 55331F
+  Helmet Eye Sclera: 55331F
+  Helmet Eye Iris: 81681D
+  Helmet Eye Pupil: 81681D
+
+ Wolf Link (Twilight Princess):
+  Skin: 9C998D
+  Skin Secondary: 3C3B34
+  Pattern: 726455
+  Pattern Secondary: 726455
+  Sclera: FFFFFF
+  Iris: 1B4F5B
+  Pupil: 091B1E
+  Hair Start: 3E4835
+  Hair Main: 515E45
+  Hair Fade: 617350
+  Hair End: 7E9468
+  Hairband: 667173
+  Helmet: 726455
+  Helmet Pattern 1: 726455
+  Helmet Pattern 2: 726455
+  Helmet Pattern Snake: 726455
+  Helmet Eye Outline: 726455
+  Helmet Eye Sclera: 726455
+  Helmet Eye Iris: 726455
+  Helmet Eye Pupil: 726455
+
+ Epona (Twilight Princess):
+  Skin: E3CCAF
+  Skin Secondary: 8C4A2B
+  Pattern: 8B7B6A
+  Pattern Secondary: 8B7B6A
+  Sclera: 000000
+  Iris: 39539C
+  Hair Start: C8AE94
+  Hair Main: EBDBBF
+  Hair Fade: FFF4D9
+  Hair End: FFFBEE
+  Hairband: 664A35
+  Helmet: 72694A
+  Helmet Pattern 1: 72694A
+  Helmet Pattern 2: 72694A
+  Helmet Pattern Snake: 72694A
+  Helmet Eye Outline: 72694A
+  Helmet Eye Sclera: 72694A
+  Helmet Eye Iris: 72694A
+  Helmet Eye Pupil: 72694A
+
+ Hero's Spirit (Twilight Princess):
+  Skin: FFEFC7
+  Skin Secondary: C78B14
+  Pattern: A3A38D
+  Pattern Secondary: A3A38D
+  Sclera: 000000
+  Iris: AA0000
+  Pupil: FF0000
+  Hair Start: F3A719
+  Hair Main: FFC23D
+  Hair Fade: FFE27B
+  Hair End: FFEFC7
+  Hairband: 70261C
+  Helmet: A17734
+  Helmet Pattern 1: 91915E
+  Helmet Pattern 2: 526032
+  Helmet Pattern Snake: 70261C
+  Helmet Eye Outline: 91915E
+  Helmet Eye Sclera: 000000
+  Helmet Eye Iris: 2D2D2D
+  Helmet Eye Pupil: 1E1E1E
+
+ Phantom Zant (Twilight Princess):
+  Skin: 94EFE5
+  Skin Secondary: 24C4A8
+  Pattern: DA5237
+  Pattern Secondary: DA5237
+  Sclera: 24C4A8
+  Iris: 94EFE5
+  Pupil: B3FFF9
+  Hair Start: 29E1BF
+  Hair Main: 75EFD7
+  Hair Fade: 94EFE5
+  Hair End: B3FFF9
+  Hairband: 94EFE5
+  Helmet: 75EFD7
+  Helmet Pattern 1: 24C4A8
+  Helmet Pattern 2: 24C4A8
+  Helmet Pattern Snake: 94EFE5
+  Helmet Eye Outline: DA5237
+  Helmet Eye Sclera: 24C4A8
+  Helmet Eye Iris: 94EFE5
+  Helmet Eye Pupil: 94EFE5
+
+ Fi (Skyward Sword):
+  Skin: 7CD8FF
+  Skin Secondary: 522C8B
+  Pattern: DCA82F
+  Pattern Secondary: DCA82F
+  Sclera: 57C4FF
+  Iris: 7CD8FF
+  Pupil: B0EDFF
+  Hair Start: 7CD8FF
+  Hair Main: A0E3FF
+  Hair Fade: BCEBFF
+  Hair End: DBF7FF
+  Hairband: 987621
+  Helmet: 435551
+  Helmet Pattern 1: 1BA572
+  Helmet Pattern 2: 435551
+  Helmet Pattern Snake: 1BA572
+  Helmet Eye Outline: 1BA572
+  Helmet Eye Sclera: 435551
+  Helmet Eye Iris: 1BA572
+  Helmet Eye Pupil: 435551
+
+ Wind Waker (Hyrule Warriors):
+  Pattern: FF55FF
+  Pattern Secondary: FF55FF
+  Hairband: 625D38
+  Helmet: 7E726D
+  Helmet Pattern 1: 7E726D
+  Helmet Pattern 2: 7E726D
+  Helmet Pattern Snake: 7E726D
+  Helmet Eye Outline: 7E726D
+  Helmet Eye Sclera: 7E726D
+  Helmet Eye Iris: 7E726D
+  Helmet Eye Pupil: 7E726D
+
+ Wind Waker Twili (Hyrule Warriors):
+  Skin Secondary: 74426C
+  Pattern Secondary: FFC9FA
+  Hair Start: 64441D
+  Hair Main: 8B5D28
+  Hair Fade: C18137
+  Hair End: EF9F44
+  Hairband: 81795E
+  Helmet: D8D8C9
+  Helmet Pattern 1: B4B4A7
+  Helmet Pattern 2: B4B4A7
+  Helmet Pattern Snake: AA9857
+  Helmet Eye Outline: AA9857
+  Helmet Eye Sclera: 744560
+  Helmet Eye Iris: 9A5083
+  Helmet Eye Pupil: CB6AAC
+
+ Master Quest (Hyrule Warriors):
+  Pattern: FF2323
+  Pattern Secondary: FF2323
+  Hairband: 4C4C2D
+  Helmet: 48594C
+  Helmet Pattern 1: 48594C
+  Helmet Pattern 2: 48594C
+  Helmet Pattern Snake: 48594C
+  Helmet Eye Outline: 48594C
+  Helmet Eye Sclera: 48594C
+  Helmet Eye Iris: 48594C
+  Helmet Eye Pupil: 48594C
+
+ Master Wind Waker (Hyrule Warriors):
+  Pattern: FEE86F
+  Pattern Secondary: FEE86F
+  Hairband: 59622F
+  Helmet: 407949
+  Helmet Pattern 1: 407949
+  Helmet Pattern 2: 407949
+  Helmet Pattern Snake: 407949
+  Helmet Eye Outline: 407949
+  Helmet Eye Sclera: 407949
+  Helmet Eye Iris: 407949
+  Helmet Eye Pupil: 407949
+
+ Master Wind Waker Twili (Hyrule Warriors):
+  Skin Secondary: 49728C
+  Hair Start: 492A7F
+  Hair Main: 663EAB
+  Hair Fade: 7250D9
+  Hair End: 7669FF
+  Hairband: 787E81
+  Helmet: FFA4BC
+  Helmet Pattern 1: FF859F
+  Helmet Pattern 2: 00FEBC
+  Helmet Pattern Snake: EBDBDE
+  Helmet Eye Outline: EBDBDE
+  Helmet Eye Sclera: FF859F
+  Helmet Eye Iris: FFA4BC
+  Helmet Eye Pupil: 00FEBC
+
+ Twilight Princess (Hyrule Warriors):
+  Pattern: FFF674
+  Pattern Secondary: FFF674
+  Hairband: 67624A
+  Helmet: A8AC63
+  Helmet Pattern 1: A8AC63
+  Helmet Pattern 2: A8AC63
+  Helmet Pattern Snake: A8AC63
+  Helmet Eye Outline: A8AC63
+  Helmet Eye Sclera: A8AC63
+  Helmet Eye Iris: A8AC63
+  Helmet Eye Pupil: A8AC63
+
+ Grand Travels Twili (Hyrule Warriors):
+  Skin Secondary: 8C4C9D
+  Hair Start: C30F27
+  Hair Main: FF203E
+  Hair Fade: FF536A
+  Hair End: FF7C8D
+  Hairband: 90884E
+  Helmet: 6B3A78
+  Helmet Pattern 1: 6B3A78
+  Helmet Pattern 2: A1903D
+  Helmet Pattern Snake: A1903D
+  Helmet Eye Outline: A1903D
+  Helmet Eye Sclera: 6B3A78
+  Helmet Eye Iris: 499A8A
+  Helmet Eye Pupil: 00FEBC
+
+ Lorule (Hyrule Warriors):
+  Pattern: B200FE
+  Pattern Secondary: 81DDFE
+  Hairband: 625A39
+  Helmet: 62717E
+  Helmet Pattern 1: 62717E
+  Helmet Pattern 2: 62717E
+  Helmet Pattern Snake: 62717E
+  Helmet Eye Outline: 62717E
+  Helmet Eye Sclera: 62717E
+  Helmet Eye Iris: 62717E
+  Helmet Eye Pupil: 62717E
+
+ Lorule Twili (Hyrule Warriors):
+  Pattern: B200FE
+  Pattern Secondary: 81DDFE
+  Hair Start: 6A1AB0
+  Hair Main: BB1CFF
+  Hair Fade: E345FF
+  Hair End: FA70FF
+  Hairband: 5E615B
+  Helmet: 355051
+  Helmet Pattern 1: CFD43F
+  Helmet Pattern 2: 63B823
+  Helmet Pattern Snake: BD66AD
+  Helmet Eye Outline: 8F942D
+  Helmet Eye Sclera: 548424
+  Helmet Eye Iris: E17ACE
+  Helmet Eye Pupil: FFBDFA
+
+ Dark (Hyrule Warriors):
+  Skin: 3A3A3A
+  Skin Secondary: 000000
+  Pattern: 272727
+  Pattern Secondary: 272727
+  Sclera: FF0000
+  Iris: FF0000
+  Pupil: FF3336
+  Hair Start: 000000
+  Hair Main: 161616
+  Hair Fade: 272727
+  Hair End: 3A3A3A
+  Hairband: 3A3A3A
+  Helmet: 161616
+  Helmet Pattern 1: 161616
+  Helmet Pattern 2: 161616
+  Helmet Pattern Snake: 161616
+  Helmet Eye Outline: 161616
+  Helmet Eye Sclera: 161616
+  Helmet Eye Iris: 161616
+  Helmet Eye Pupil: 161616
+
+ Demon King Ganondorf (Tears of the Kingdom):
+  Skin: 6A7357
+  Skin Secondary: 1B1615
+  Pattern: FE3D17
+  Pattern Secondary: FE3D17
+  Sclera: 000000
+  Iris: FF00D5
+  Pupil: FFE100
+  Hair Start: AA0000
+  Hair Main: FF0000
+  Hair Fade: FF3C00
+  Hair End: FF7300
+  Hairband: 624324
+  Helmet: 3E2A18
+  Helmet Pattern 1: 3E2A18
+  Helmet Pattern 2: DF1705
+  Helmet Pattern Snake: 684728
+  Helmet Eye Outline: 96732E
+  Helmet Eye Sclera: 96732E
+  Helmet Eye Iris: 989983
+  Helmet Eye Pupil: FFD15E
+
+ Concept Art Variant 1:
+  Pattern: 102021
+  Iris: 640906
+  Pupil: 640906
+  Hair Start: 22201F
+  Hair Main: F2511C
+  Hair Fade: 22201F
+  Hair End: 16D5BF
+
+ Concept Art Variant 2:
+  Skin: CDE6F5
+  Skin Secondary: 333E44
+  Pattern: 00FED8
+  Pattern Secondary: 00FED8
+  Iris: 1B4F5B
+  Hair Start: 00FED8
+  Hair Main: AA8926
+  Hair Fade: 00FED8
+  Hair End: 00FED8
+  Hairband: 1EADAF
+
+ Concept Art Variant 3:
+  Skin: AEC3A9
+  Skin Secondary: 2D392D
+  Pattern: B18F4A
+  Pattern Secondary: B18F4A
+  Sclera: FFFFFF
+  Iris: 484405
+  Hair Start: 2D392D
+  Hair Main: 475645
+  Hair Fade: 5E6C5A
+  Hair End: 7B897A
+  Hairband: DBDAC6
+  Helmet: DBDAC6
+  Helmet Pattern 1: DBDAC6
+  Helmet Pattern 2: BE2D36
+  Helmet Pattern Snake: DBDAC6
+  Helmet Eye Outline: DBDAC6
+  Helmet Eye Sclera: DBDAC6
+  Helmet Eye Iris: DBDAC6
+  Helmet Eye Pupil: 2D392D
+
+ Concept Art Variant 4:
+  Skin: FD2802
+  Skin Secondary: 171818
+  Pattern: 702415
+  Pattern Secondary: 000000
+  Sclera: 000000
+  Iris: FFE110
+  Pupil: FFE110
+  Hair Start: 1A2C26
+  Hair Main: 2B433E
+  Hair Fade: 476565
+  Hair End: 729598
+  Hairband: 9A7F2D
+  Helmet: 466343
+  Helmet Pattern 1: 466343
+  Helmet Pattern 2: 466343
+  Helmet Pattern Snake: 466343
+  Helmet Eye Outline: 466343
+  Helmet Eye Sclera: 466343
+  Helmet Eye Iris: 466343
+  Helmet Eye Pupil: 466343
+
+ Concept Art Variant 5:
+  Skin: 9F7FA2
+  Skin Secondary: 222222
+  Pattern: 9F7FA2
+  Pattern Secondary: 222222
+  Sclera: FFFFFF
+  Iris: 5E1607
+  Hair Start: 574A5C
+  Hair Main: 9F7FA2
+  Hair Fade: CBB6B3
+  Hair End: FCEDB2
+  Hairband: FFFFFF
+  Helmet: 8DACA3
+  Helmet Pattern 1: 729093
+  Helmet Pattern 2: 729093
+  Helmet Pattern Snake: B5DDD1
+  Helmet Eye Outline: B5DDD1
+  Helmet Eye Sclera: 729093
+  Helmet Eye Iris: 729093
+  Helmet Eye Pupil: B5DDD1
+
+ Concept Art Variant 6:
+  Skin: FF2F32
+  Skin Secondary: 151318
+  Pattern: FF2F32
+  Pattern Secondary: 151318
+  Sclera: 000000
+  Iris: FFFFFF
+  Hair Start: 1E1B24
+  Hair Main: 3A323F
+  Hair Fade: 5C5668
+  Hair End: 90889F
+  Hairband: ECECEC
+  Helmet: 829B9F
+  Helmet Pattern 1: 556588
+  Helmet Pattern 2: AE92A2
+  Helmet Pattern Snake: 64C3C1
+  Helmet Eye Outline: ECECEC
+  Helmet Eye Sclera: B4B4B4
+  Helmet Eye Iris: B4B4B4
+  Helmet Eye Pupil: 000000
+
+ Concept Art Variant 7:
+  Skin: 4F3C40
+  Skin Secondary: 9F959B
+  Pattern: 4F3C40
+  Pattern Secondary: 9F959B
+  Sclera: 000000
+  Pupil: EBC42A
+  Hair Start: DAD4D5
+  Hair Main: EBE5E6
+  Hair Fade: F7F0F1
+  Hair End: FFFFFF
+  Hairband: 898782
+  Helmet: 5A554F
+  Helmet Pattern 1: 5A554F
+  Helmet Pattern 2: 842A2D
+  Helmet Pattern Snake: 842A2D
+  Helmet Eye Outline: 5A554F
+  Helmet Eye Sclera: 5A554F
+  Helmet Eye Iris: 000000
+  Helmet Eye Pupil: 000000
+
+ Dimentio (Super Paper Mario):
+  Skin: FDDBFC
+  Skin Secondary: 000000
+  Pattern: FFFFFF
+  Pattern Secondary: FFFFFF
+  Sclera: 000000
+  Iris: E0E151
+  Hair Start: 000000
+  Hair Main: 000000
+  Hair Fade: 000000
+  Hair End: FFFFFF
+  Hairband: AF8C0D
+  Helmet: AD3DBC
+  Helmet Pattern 1: A077D5
+  Helmet Pattern 2: DAD047
+  Helmet Pattern Snake: C6A0C8
+  Helmet Eye Outline: 000000
+  Helmet Eye Sclera: 000000
+  Helmet Eye Iris: AAAA00
+  Helmet Eye Pupil: FFFF00
+
+ Amaterasu (Okami):
+  Skin: FDF5EA
+  Skin Secondary: B5A790
+  Pattern: ED0000
+  Pattern Secondary: ED0000
+  Sclera: 000000
+  Iris: 000000
+  Pupil: B8B8B8
+  Hair Start: ED0000
+  Hair Main: EA2F0E
+  Hair Fade: FF861C
+  Hair End: FAC23F
+  Hairband: 215D41
+  Helmet: 215D41
+  Helmet Pattern 1: 215D41
+  Helmet Pattern 2: 215D41
+  Helmet Pattern Snake: 215D41
+  Helmet Eye Outline: 215D41
+  Helmet Eye Sclera: 215D41
+  Helmet Eye Iris: 215D41
+  Helmet Eye Pupil: 215D41
+
+
+casual_custom_colors:
+  Skin: c4e8da
+  Skin Secondary: 102021
+  Pattern: 00febc
+  Pattern Secondary: 00febc
+  Sclera: f4e13c
+  Iris: c5140e
+  Pupil: 000000
+  Hair Start: ff7608
+  Hair Main: ff940c
+  Hair Fade: fff132
+  Hair End: fff674
+  Hairband: 624536
+
+
+hero_hands_color_name: "Hands"
+casual_hair_color_name: "Hair Main"
+hero_mouth_color_name: "Skin"
+disable_casual_clothes: true
+has_colored_eyebrows: false
+author: OniFox
+comment: The sassy Twili Imp, Midna is ready to sail the vast ocean!
+casual_clothes_option_text: N/A

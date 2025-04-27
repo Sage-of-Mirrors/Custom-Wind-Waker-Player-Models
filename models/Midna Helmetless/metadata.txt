@@ -1,0 +1,401 @@
+hero_custom_colors:
+  Skin: c6ebde
+  Skin Secondary: 102021
+  Pattern: 00febc
+  Pattern Secondary: 00febc
+  Sclera: f4e13c
+  Iris: 400604
+  Pupil: 000000
+  Hair Start: ff7608
+  Hair Main: ff940c
+  Hair Fade: fff132
+  Hair End: fff674
+  Hairband: 634531
+
+
+hero_color_presets:
+ Midna's Lament:
+  Skin: 212725
+  Skin Secondary: 72746F
+  Pattern: 212725
+  Pattern Secondary: 72746F
+  Hair Start: 4A4B48
+  Hair Main: 30302F
+  Hair Fade: 778E93
+  Hair End: 61DFD5
+
+ Shadow Form:
+  Skin: 000000
+  Skin Secondary: 000000
+  Pattern: 000000
+  Pattern Secondary: 000000
+  Hair Start: 000000
+  Hair Main: 000000
+  Hair Fade: ff7608
+  Hair End: ff940c
+  Hairband: 000000
+
+ Dark Midna (Original):
+  Skin: 656771
+  Skin Secondary: 000000
+  Pattern: FF0000
+  Pattern Secondary: FF0000
+  Sclera: 000000
+  Iris: FF0000
+  Pupil: FF0000
+  Hair Start: 45464D
+  Hair Main: 656771
+  Hair Fade: ADB0C1
+  Hair End: E5EFFF
+  Hairband: 575A63
+
+ A Strange Sadness As Dusk Falls (1000 Dead Draculas):
+  Skin: 6AD4FD
+  Skin Secondary: 434DAC
+  Pattern: FB81EF
+  Pattern Secondary: FB81EF
+  Sclera: 222D45
+  Iris: 222D45
+  Pupil: FB81EF
+  Hair Start: FB81EF
+  Hair Main: 6AD4FD
+  Hair Fade: 5564E7
+  Hair End: FB81EF
+  Hairband: FB81EF
+
+ Phantom Ganon (The Wind Waker):
+  Skin: 000000
+  Skin Secondary: 000000
+  Pattern: 19D5E0
+  Pattern Secondary: 19D5E0
+  Sclera: 000000
+  Iris: BF9B19
+  Pupil: FBCF20
+  Hair Start: 000000
+  Hair Main: 000000
+  Hair Fade: 000000
+  Hair End: 19D5E0
+  Hairband: 000000
+
+ Miniblin (The Wind Waker):
+  Skin: DC876A
+  Skin Secondary: 1C2C39
+  Pattern: DC876A
+  Pattern Secondary: 1C2C39
+  Sclera: 43CA1F
+  Iris: E0E151
+  Hair Start: 2A4457
+  Hair Main: 9EA93F
+  Hair Fade: D4D149
+  Hair End: F2F1B4
+  Hairband: 277256
+
+ Link (Twilight Princess):
+  Skin: BFBC8E
+  Skin Secondary: 2D4A1D
+  Pattern: BFBC8E
+  Pattern Secondary: 2D4A1D
+  Sclera: FFFFFF
+  Iris: 1B4F5B
+  Pupil: 091B1E
+  Hair Start: 6C5718
+  Hair Main: AA8926
+  Hair Fade: D8B62F
+  Hair End: FFD634
+  Hairband: 134D7F
+
+ Wolf Link (Twilight Princess):
+  Skin: 9C998D
+  Skin Secondary: 3C3B34
+  Pattern: 726455
+  Pattern Secondary: 726455
+  Sclera: FFFFFF
+  Iris: 1B4F5B
+  Pupil: 091B1E
+  Hair Start: 3E4835
+  Hair Main: 515E45
+  Hair Fade: 617350
+  Hair End: 7E9468
+  Hairband: 667173
+
+ Epona (Twilight Princess):
+  Skin: E3CCAF
+  Skin Secondary: 8C4A2B
+  Pattern: 8B7B6A
+  Pattern Secondary: 8B7B6A
+  Sclera: 000000
+  Iris: 39539C
+  Hair Start: C8AE94
+  Hair Main: EBDBBF
+  Hair Fade: FFF4D9
+  Hair End: FFFBEE
+  Hairband: 664A35
+
+ Hero's Spirit (Twilight Princess):
+  Skin: FFEFC7
+  Skin Secondary: C78B14
+  Pattern: A3A38D
+  Pattern Secondary: A3A38D
+  Sclera: 000000
+  Iris: AA0000
+  Pupil: FF0000
+  Hair Start: F3A719
+  Hair Main: FFC23D
+  Hair Fade: FFE27B
+  Hair End: FFEFC7
+  Hairband: 70261C
+
+ Phantom Zant (Twilight Princess):
+  Skin: 94EFE5
+  Skin Secondary: 24C4A8
+  Pattern: DA5237
+  Pattern Secondary: DA5237
+  Sclera: 24C4A8
+  Iris: 94EFE5
+  Pupil: B3FFF9
+  Hair Start: 29E1BF
+  Hair Main: 75EFD7
+  Hair Fade: 94EFE5
+  Hair End: B3FFF9
+  Hairband: 94EFE5
+
+ Fi (Skyward Sword):
+  Skin: 7CD8FF
+  Skin Secondary: 522C8B
+  Pattern: DCA82F
+  Pattern Secondary: DCA82F
+  Sclera: 57C4FF
+  Iris: 7CD8FF
+  Pupil: B0EDFF
+  Hair Start: 7CD8FF
+  Hair Main: A0E3FF
+  Hair Fade: BCEBFF
+  Hair End: DBF7FF
+  Hairband: 987621
+
+ Wind Waker (Hyrule Warriors):
+  Pattern: FF55FF
+  Pattern Secondary: FF55FF
+  Hairband: 625D38
+
+ Wind Waker Twili (Hyrule Warriors):
+  Skin Secondary: 74426C
+  Pattern Secondary: FFC9FA
+  Hair Start: 64441D
+  Hair Main: 8B5D28
+  Hair Fade: C18137
+  Hair End: EF9F44
+  Hairband: 81795E
+
+ Master Quest (Hyrule Warriors):
+  Pattern: FF2323
+  Pattern Secondary: FF2323
+  Hairband: 4C4C2D
+
+ Master Wind Waker (Hyrule Warriors):
+  Pattern: FEE86F
+  Pattern Secondary: FEE86F
+  Hairband: 59622F
+
+ Master Wind Waker Twili (Hyrule Warriors):
+  Skin Secondary: 49728C
+  Hair Start: 492A7F
+  Hair Main: 663EAB
+  Hair Fade: 7250D9
+  Hair End: 7669FF
+  Hairband: 787E81
+
+ Twilight Princess (Hyrule Warriors):
+  Pattern: FFF674
+  Pattern Secondary: FFF674
+  Hairband: 67624A
+
+ Grand Travels Twili (Hyrule Warriors):
+  Skin Secondary: 8C4C9D
+  Hair Start: C30F27
+  Hair Main: FF203E
+  Hair Fade: FF536A
+  Hair End: FF7C8D
+  Hairband: 90884E
+
+ Lorule (Hyrule Warriors):
+  Pattern: B200FE
+  Pattern Secondary: 81DDFE
+  Hairband: 625A39
+
+ Lorule Twili (Hyrule Warriors):
+  Pattern: B200FE
+  Pattern Secondary: 81DDFE
+  Hair Start: 6A1AB0
+  Hair Main: BB1CFF
+  Hair Fade: E345FF
+  Hair End: FA70FF
+  Hairband: 5E615B
+
+ Dark (Hyrule Warriors):
+  Skin: 3A3A3A
+  Skin Secondary: 000000
+  Pattern: 272727
+  Pattern Secondary: 272727
+  Sclera: FF0000
+  Iris: FF0000
+  Pupil: FF3336
+  Hair Start: 000000
+  Hair Main: 161616
+  Hair Fade: 272727
+  Hair End: 3A3A3A
+  Hairband: 3A3A3A
+
+ Demon King Ganondorf (Tears of the Kingdom):
+  Skin: 6A7357
+  Skin Secondary: 1B1615
+  Pattern: FE3D17
+  Pattern Secondary: FE3D17
+  Sclera: 000000
+  Iris: FF00D5
+  Pupil: FFE100
+  Hair Start: AA0000
+  Hair Main: FF0000
+  Hair Fade: FF3C00
+  Hair End: FF7300
+  Hairband: 624324
+
+ Concept Art Variant 1:
+  Pattern: 102021
+  Iris: 640906
+  Pupil: 640906
+  Hair Start: 22201F
+  Hair Main: F2511C
+  Hair Fade: 22201F
+  Hair End: 16D5BF
+
+ Concept Art Variant 2:
+  Skin: CDE6F5
+  Skin Secondary: 333E44
+  Pattern: 00FED8
+  Pattern Secondary: 00FED8
+  Iris: 1B4F5B
+  Hair Start: 00FED8
+  Hair Main: AA8926
+  Hair Fade: 00FED8
+  Hair End: 00FED8
+  Hairband: 1EADAF
+
+ Concept Art Variant 3:
+  Skin: AEC3A9
+  Skin Secondary: 2D392D
+  Pattern: B18F4A
+  Pattern Secondary: B18F4A
+  Sclera: FFFFFF
+  Iris: 484405
+  Hair Start: 2D392D
+  Hair Main: 475645
+  Hair Fade: 5E6C5A
+  Hair End: 7B897A
+  Hairband: DBDAC6
+
+ Concept Art Variant 4:
+  Skin: FD2802
+  Skin Secondary: 171818
+  Pattern: 702415
+  Pattern Secondary: 000000
+  Sclera: 000000
+  Iris: FFE110
+  Pupil: FFE110
+  Hair Start: 1A2C26
+  Hair Main: 2B433E
+  Hair Fade: 476565
+  Hair End: 729598
+  Hairband: 9A7F2D
+
+ Concept Art Variant 5:
+  Skin: 9F7FA2
+  Skin Secondary: 222222
+  Pattern: 9F7FA2
+  Pattern Secondary: 222222
+  Sclera: FFFFFF
+  Iris: 5E1607
+  Hair Start: 574A5C
+  Hair Main: 9F7FA2
+  Hair Fade: CBB6B3
+  Hair End: FCEDB2
+  Hairband: FFFFFF
+
+ Concept Art Variant 6:
+  Skin: FF2F32
+  Skin Secondary: 151318
+  Pattern: FF2F32
+  Pattern Secondary: 151318
+  Sclera: 000000
+  Iris: FFFFFF
+  Hair Start: 1E1B24
+  Hair Main: 3A323F
+  Hair Fade: 5C5668
+  Hair End: 90889F
+  Hairband: ECECEC
+
+ Concept Art Variant 7:
+  Skin: 4F3C40
+  Skin Secondary: 9F959B
+  Pattern: 4F3C40
+  Pattern Secondary: 9F959B
+  Sclera: 000000
+  Pupil: EBC42A
+  Hair Start: DAD4D5
+  Hair Main: EBE5E6
+  Hair Fade: F7F0F1
+  Hair End: FFFFFF
+  Hairband: 898782
+
+ Dimentio (Super Paper Mario):
+  Skin: FDDBFC
+  Skin Secondary: 000000
+  Pattern: FFFFFF
+  Pattern Secondary: FFFFFF
+  Sclera: 000000
+  Iris: E0E151
+  Hair Start: 000000
+  Hair Main: 000000
+  Hair Fade: 000000
+  Hair End: FFFFFF
+  Hairband: AF8C0D
+  Helmet: AD3DBC
+
+ Amaterasu (Okami):
+  Skin: FDF5EA
+  Skin Secondary: B5A790
+  Pattern: ED0000
+  Pattern Secondary: ED0000
+  Sclera: 000000
+  Iris: 000000
+  Pupil: B8B8B8
+  Hair Start: ED0000
+  Hair Main: EA2F0E
+  Hair Fade: FF861C
+  Hair End: FAC23F
+  Hairband: 215D41
+
+
+casual_custom_colors:
+  Skin: c4e8da
+  Skin Secondary: 102021
+  Pattern: 00febc
+  Pattern Secondary: 00febc
+  Sclera: f4e13c
+  Iris: c5140e
+  Pupil: 000000
+  Hair Start: ff7608
+  Hair Main: ff940c
+  Hair Fade: fff132
+  Hair End: fff674
+  Hairband: 624536
+
+
+hero_hands_color_name: "Hands"
+casual_hair_color_name: "Hair Main"
+hero_mouth_color_name: "Skin"
+disable_casual_clothes: true
+has_colored_eyebrows: false
+author: OniFox
+comment: Midna seem to have misplaced her Fused Shadow..?
+casual_clothes_option_text: N/A
