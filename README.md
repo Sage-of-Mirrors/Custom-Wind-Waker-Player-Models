@@ -35,7 +35,7 @@ Then open the randomizer, and in the "Player Customization" tab click "Install a
 * sup3rgh0st: Rigged and imported Minecraft Steve/Alex.
 * AngelTheVixen: Modeled, rigged and imported Krystal.
 * KeyBlader: Modeled, rigged and imported Commando and Madotsuki.
-* OniFox: Rigged and imported Midna and Midna Helmetless.
+* OniFox: Rigged and imported Midna, Midna Helmetless, and Princess Link.
 * UltIMa647: Modeled, rigged and imported Goku (Mini).
 
 These models were made with a combination of [SuperBMD](https://github.com/Sage-of-Mirrors/SuperBMD) and [WW Model Helper Scripts](https://github.com/LagoLunatic/ww_model_helpers/blob/master/README.md).

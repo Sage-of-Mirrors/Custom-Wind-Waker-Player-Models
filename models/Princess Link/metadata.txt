@@ -1,0 +1,140 @@
+hero_custom_colors:
+  Hair: ffee03
+  Skin: f7da9e
+  Mouth: f74963
+  Makeup Eyelashes: b7cfee
+  Makeup Lips: d696ad
+  Eyes: 10514A
+  Pupil: 10514A
+  Sclera: FFFFFF
+  Headgear Gold: e5cb00
+  Headgear Jewel: 943873
+  Headgear Wings: eef7ff
+  Necklace Gold: e5cb00
+  Necklace Jewels: 943873
+  Gold Accessories: e5cb00
+  Gloves: eef7ff
+  Dress Primary: E5AEEF
+  Dress Secondary: 943873
+  Dress Shirt: eef7ff
+  Dress Pattern: 3d72ae
+  Cloth Main: 3d72ae
+  Cloth Border: 943873
+  Cloth Pattern: eef7ff
+  Cloth Triforce: e5cb00
+  Triforce Wisdom: ffaa31
+  Triforce Courage: bc9c7f
+  Triforce Power: bc9c7f
+
+hero_color_presets:
+ Malladus Link:
+  Hair: E6D947
+  Skin: DED1D8
+  Makeup Lips: D6ACBF
+  Eyes: FFFF00
+  Pupil: 000000
+  Sclera: AA0000
+  Headgear Gold: D8D828
+  Headgear Jewel: 8E3694
+  Necklace Gold: D8D828
+  Necklace Jewels: 8E3694
+  Gold Accessories: D8D828
+  Dress Primary: D3B0EF
+  Dress Secondary: 8E3694
+  Cloth Border: 8E3694
+  Cloth Triforce: D8D828
+
+ Princess Ravio:
+  Hair: 705298
+  Makeup Eyelashes: 9557C8
+  Makeup Lips: 9557C8
+  Eyes: 3A7400
+  Pupil: 3A7400
+  Headgear Jewel: AA0000
+  Necklace Jewels: 6D32B6
+  Dress Primary: EEF7FF
+  Dress Secondary: 6D32B6
+  Dress Pattern: DA1D2A
+  Cloth Main: 6D32B6
+  Cloth Border: 161EA7
+  Cloth Pattern: B375DA
+  Cloth Triforce: B375DA
+  Triforce Wisdom: EEF7FF
+  Triforce Courage: EEF7FF
+  Triforce Power: EEF7FF
+
+ Spirit Link:
+  Hair: FFFDBA
+  Skin: FEF5D0
+  Mouth: DDABC6
+  Makeup Eyelashes: BFE3F7
+  Makeup Lips: FCC9C5
+  Eyes: 303771
+  Pupil: 303771
+  Headgear Gold: DCDEAD
+  Headgear Jewel: 9794EB
+  Headgear Wings: FFFFFF
+  Necklace Gold: DCDEAD
+  Necklace Jewels: AD77BF
+  Gold Accessories: DCDEAD
+  Gloves: FFFFFF
+  Dress Primary: E3C7F1
+  Dress Secondary: A7A2ED
+  Dress Shirt: FFFFFF
+  Dress Pattern: 899DCC
+  Cloth Main: 899DCC
+  Cloth Border: 9674B2
+  Cloth Pattern: FFFFFF
+  Cloth Triforce: E8E1C5
+  
+
+casual_custom_colors:
+  Hair: ffee03
+  Skin: f7da9e
+  Mouth: f74963
+  Makeup Eyelashes: b7cfee
+  Makeup Lips: d696ad
+  Eyes: 10514A
+  Pupil: 10514A
+  Sclera: FFFFFF
+  Headgear Gold: e5cb00
+  Headgear Jewel: 943873
+  Headgear Wings: eef7ff
+  Gloves: eef7ff
+  Hoodie Primary: eb4e77
+  Hoodie Secondary: ffda52
+  Skirt: f5ff70
+  Shorts: eb4e77
+  Stocking: bcf0d4
+  Stocking Stripes: bcf0d4
+  Shoes Main: a60c55
+  Shoes Laces: fefffc
+  Shoes Sole: fefffc
+  Triforce Wisdom: ffaa31
+  Triforce Courage: bc9c7f
+  Triforce Power: bc9c7f
+
+casual_color_presets:
+ Gloveless Hands:
+  Gloves: f7da9e
+
+ Emo Style:
+  Makeup Eyelashes: 353535
+  Gloves: f7da9e
+  Hoodie Primary: 444444
+  Hoodie Secondary: 444444
+  Skirt: e00000
+  Shorts: e00000
+  Stocking: 444444
+  Stocking Stripes: e00000
+  Shoes Main: 323232
+
+
+hero_hands_color_name: "Gloves"
+casual_hair_color_name: "Hair"
+hero_mouth_color_name: "Skin"
+disable_casual_clothes: false
+has_colored_eyebrows: false
+author: OniFox
+comment: Toon Link in Toon Zelda's outfit! Commissioned by Binglitpawn.
+casual_clothes_option_text: New 3DS Outfit
